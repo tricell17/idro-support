@@ -1,0 +1,28 @@
+# This file contains information about master servers.
+
+# To change displayed string in server list, use "title" option.
+
+# Do not change server identifiers (in []),
+# except for when subservers were changed or reordered
+# in such a way it requires user confirmation to correctly select a subserver
+
+#####################
+# Official RO Servers
+
+# https://roclassic.gnjoy.id/
+[Indonesia - idRO: Baphomet]
+ip 202.93.25.134
+port 50001
+master_version 7
+version 24
+serverType idRO_Classic
+serverEncoding Thai
+addTableFolders idROClassic
+charBlockSize 175
+charDeleteDateType 1
+blockingPlayerCancel 1
+rankingSystemType 1
+itemListType 1
+pinCode 1
+gameGuard 1
+field_morocc morocc-old
