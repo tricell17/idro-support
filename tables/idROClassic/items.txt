@@ -2640,7 +2640,7 @@
 4804#Catholic1Lv.#
 4805#Archbishop1Lv.#
 4806#MATK+3%#
-4807#ASPD +1 (CBT)#
+4807#ASPD +1#
 4808#Fighting Spirit 4Lv#
 4809#Fighting Spirit 3Lv#
 4810#Fighting Spirit 2Lv#
@@ -2711,8 +2711,8 @@
 4879#Hawkeye#
 4880#Lucky Day#
 4881#DelayafterAttack4Lv#
-4882#ATK + 1% (CBT)#
-4883#MATK + 1% (CBT)#
+4882#ATK + 1%#
+4883#MATK + 1%#
 4884#HIT + 1#
 4885#Spell 1#
 4886#Spell 2#
@@ -3112,6 +3112,7 @@
 5369#Dark Wing#
 5370#Orchid Hairband#
 5371#Judge Hat#
+5372#Koneko Hat#
 5373#Dark Randgris Helm#
 5374#Gigantic Magestic Goat#
 5377#Gentleman's Pipe#
@@ -3195,7 +3196,7 @@
 5504#Special Wedding Veil#
 5505#Asara Fairy Hat#
 5506#Blue Pajamas Hat#
-5507#5507#
+5507#Pink Pajamas Hat#
 5508#Shark Hat#
 5509#Sting Hat#
 5511#Samanbaia#
@@ -3683,8 +3684,8 @@
 6448#6448#
 6449#6449#
 6450#6450#
-6453#배달되지 못한 선물#
-6454#산타의 잃어버린 가방#
+6453#Undelivered Gift#
+6454#Santa Bag#
 6456#+5 Weapon Certificate#
 6457#+5 Armor Certificate#
 6466#6466#
@@ -4846,7 +4847,7 @@
 9858#Leecher Shadow Box#
 9859#Perfect Size Shadow Box#
 9860#Burning Blood Scroll#
-9862#9862#
+9862#[Event] Job Manual 50#
 9863#9863#
 9864#9864#
 9865#9865#
@@ -4869,11 +4870,11 @@
 9892#9892#
 9893#9893#
 9894#9894#
-9895#9895#
+9895#[Scroll] Abrasive#
 9896#9896#
 9898#9898#
 9903#Overload Scroll#
-9908#[Event] Mental Potion#
+9908#[Scroll] Mental Potion#
 9909#[Scroll] Ex Def Potion#
 9911#Kachua Secret Box#
 9913#9913#
@@ -5008,13 +5009,13 @@
 11558#TE White Slim Potion#
 11563#Hot Tea#
 11564#Sweet Canape#
-11565#White Potion B#
+11565#[Event] White Potion#
 11566#[Event] Yellow Potion#
 11567#Novice Potion B#
 11568#Red Slim Potion B#
-11569#[Event] Orange Potion]#
+11569#[Event] Orange Potion#
 11570#[Event] Red Potion#
-11572#Blue Potion#
+11572#[Event] Blue Potion#
 11573#White Slim Potion#
 11574#[Event] Yellow Slim Potion#
 11575#Lucky Cookie B#
@@ -5356,8 +5357,8 @@
 12408#[Event] Secure Tube#
 12409#1st Class Pork Belly#
 12410#Thick Pork Belly#
-12411#[Event] HE Battle Manual#
-12412#[Event] HE Bubble Gum#
+12411#HE Battle Manual#
+12412#HE Bubble Gum#
 12413#12413#
 12414#Guarana Candy#
 12415#Siege Teleport Scroll Silver#
@@ -5405,7 +5406,9 @@
 12515#[Event] Medium Life Potion#
 12516#[Event] Small Life Potion#
 12517#[Event] Regeneration Potion#
+12518#[Event] Big MDEF Potion#
 12519#[Event] Small M. Defense Potion#
+12520#[Event] Big PDEF Potion#
 12521#[Event] Small Defense Potion#
 12522#LV10 Blessing Scroll#
 12523#LV10 Agil Scroll#
@@ -6227,6 +6230,7 @@
 14619#INT Biscuit Stick#
 14620#DEX Biscuit Stick#
 14621#LUK Biscuit Stick#
+14629#Costume Enchant Stone Box#
 14687#Universe Power Box#
 14688#Universe Blessing Box#
 14697#ROS Special Item Box I#
@@ -6253,10 +6257,10 @@
 14805#Almighty Lucky Egg#
 14826#Dungeon Ticket#
 14841#14841#
-14843#14843#
+14843#[Scroll] Life Insurance#
 14844#[Scroll] Kafra Card#
-14845#14845#
-14846#14846#
+14845#[Scroll] LV10 Blessing Scroll#
+14846#[Scroll] LV10 AGI Scroll#
 14847#[Scroll] Small Life Potion#
 14849#Stew of Immortality#
 14850#Cooked Nine Tail's Tails#
@@ -6539,7 +6543,7 @@
 16414#Turtle Hat Box#
 16483#[Event]Abrasive Box 10#
 16493#16493#
-16503#16503#
+16503#[Event]Insurance Package#
 16504#[Event]Bubble Gum Box#
 16555#Premium Reset Stone Box#
 16569#16569#
@@ -6670,7 +6674,7 @@
 17308#Half Asprika box 1day#
 17310#half Brynhild(3 Hari)#
 17311#HF Brynhild box 1 Hari#
-17314#Infinite Fly Wing 1 Day Box#
+17314#Unlimited Flywing Box 1D#
 17317#Sweet Midgard Egg#
 17320#Brithday IdRO10th Scroll#
 17326#Requiem Egg#
@@ -6840,6 +6844,7 @@
 18521#Lucky Clover#
 18522#Evil Marching Hat#
 18523#Super Cell#
+18528#Tare Neko Cru#
 18529#18529#
 18530#Tha Despero Mask#
 18531#Drooping Permeter#
@@ -6854,7 +6859,7 @@
 18542#Benevolent Guardian#
 18543#Witchs Hat#
 18546#18546#
-18550#Asgard Blessing#
+18550#Asgard Bless#
 18551#Galaxy Circlet#
 18553#Christmas Tree Hat#
 18555#18555#
@@ -7016,7 +7021,7 @@
 18827#Valkyrie Circlet#
 18832#Rolf Von Gigue the666th#
 18833#18833#
-18838#18838#
+18838#Angeling Woolly Hat#
 18839#18839#
 18841#Small Poring Band#
 18842#Hat Of Girl#
@@ -7324,7 +7329,7 @@
 19548#C Frog Cap#
 19549#C Magestic Goat#
 19550#C Blush#
-19551#C Elven Ears#
+19551#Costume Elven Ears#
 19552#C Centimental Flower#
 19553#C Assassin Mask #
 19554#C Hahoe Mask#
@@ -7357,7 +7362,7 @@
 19654#Costume Master Hat#
 19655#19655#
 19657#19657#
-19658#19658#
+19658#Costume Vacation Hat#
 19659#19659#
 19660#19660#
 19661#Sweet Bonnet#
@@ -7404,7 +7409,7 @@
 19760#C Rainbow Veil#
 19767#C Home Cherry Blossom#
 19769#19769#
-19770#Costume: Japan Winecup#
+19770#Costume Japan Winecup#
 19773#Costume Angeling Hairpin#
 19774#C Emperor Wreath#
 19777#C Twinkle Little Star#
@@ -7441,6 +7446,7 @@
 19853#C Filir Wing Ears#
 19854#19854#
 19855#C Happy Summer Wig#
+19862#의상 서큐버스의 뿔#
 19866#19866#
 19867#19867#
 19871#Costume Music Decoration#
@@ -7459,7 +7465,7 @@
 19918#C Lude Mask#
 19919#C Cube Mask #
 19920#C Adv Whisper Mask#
-19923#C Dark Age#
+19923#C. Dark Age#
 19924#19924#
 19925#19925#
 19926#19926#
@@ -7558,7 +7564,7 @@
 20098#C Vampire Hairband#
 20099#Costume: Flying Ljosalfar#
 20100#C Volume Fhat#
-20101#C Bragi Wing Ears#
+20101#Costume Bragi Wing Ears#
 20102#20102#
 20105#Costume Fish Head Hat#
 20106#Costume Classic Hat#
@@ -7578,7 +7584,7 @@
 20129#Kostum Poporing Topi#
 20130#Kostum Whisper Tall Topi#
 20131#Kostum Clocktower Manager Topi#
-20132#Costume Subject Aura#
+20132#Costume Test Subject Aura#
 20133#Costume Poring Mascot#
 20134#White Abyss Knight Helm#
 20141#C Sniper Eye#
@@ -7672,7 +7678,7 @@
 20318#Costume Charleston Antenna#
 20319#C Crimson Booster#
 20324#C Pigeon Hat#
-20325#C Little Aquarium#
+20325#Costume Little Aquarium#
 20326#Costume Sailor Collar#
 20331#C Desert Prince#
 20335#C Teardrop#
@@ -7721,7 +7727,7 @@
 20443#Costume Unicorn Helm#
 20446#C Bunny Eggshell#
 20448#Costume Water Spellcaster#
-20451#20451#
+20451#Costume Sky of Memory#
 20453#20453#
 20455#Costume Republic Hat#
 20456#Costume Combat Vestige#
@@ -7755,7 +7761,7 @@
 20502#C Little Devil Wing#
 20503#C Antonio's Bag#
 20504#Costume Cupid Wing Pink#
-20507#C Poring Bag#
+20507#Costume Poring Bag#
 20508#C Poster Girl Hat#
 20509#Costume Wings of Uriel#
 20510#C Sword Wing#
@@ -8252,6 +8258,7 @@
 23170#Fan Modification Kit#
 23174#Costume Enchant Stone Box 11#
 23175#Uniform Repair Kit#
+23177#[Event] Kafra Card#
 23178#Kafra Uniform Box#
 23187#Sap Jelly#
 23188#Airship Part#
@@ -8380,8 +8387,8 @@
 23679#Geffen Magic Accessory Order Form#
 23682#Enchant Stone Box 15#
 23711#23711#
-23713#23713#
-23714#23714#
+23713#Battle Perfume ATK#
+23714#Battle Perfume MATK#
 23715#Battle Perfume ASPD#
 23720#Shadow Random Option TtukTtak Box#
 23723#Melon Bread#
@@ -8413,9 +8420,9 @@
 23941#Exclusive Founder's Starter Pack#
 23942#Exclusive Limited Costume Box#
 23943#Exclusive Garment Costume Box#
-23944#23944#
-23945#23945#
-23946#23946#
+23944#GOC Costume Pack I#
+23945#GOC Costume Pack II#
+23946#GOC Costume Pack III#
 23947#23947#
 23952#Silit Pong Box#
 23953#23953#
@@ -9863,14 +9870,14 @@
 29024#LUK+3 STR-3#
 29025#LUK+3 INT-3#
 29027#EXP+2%#
-29028#ATK + 1%(CBT)#
-29029#ATK + 1%(CBT)#
-29030#MATK + 1%(CBT)#
-29031#MATK + 1%(CBT)#
+29028#ATK + 1%#
+29029#ATK + 1%#
+29030#MATK + 1%#
+29031#MATK + 1%#
 29032#SP Absorption 1#
 29038#New Year Doll Ticket#
 29046#Greed#
-29047#Critical (CBT)#
+29047#Critical#
 29048#Expert Archer#
 29049#HP+100#
 29050#SP+50#
@@ -9956,11 +9963,11 @@
 29151#Aquarius Stone#
 29152#Scorpio Stone#
 29153#Taurus Stone#
-29154#Minor Fixed Cast reduction (CBT)#
+29154#Minor Fixed Cast reduction#
 29155#Lex Aeterna#
-29156#Variable Cast Reduction (CBT)#
-29157#Variable Cast Reduction (CBT)#
-29158#Variable Cast Reduction (CBT)#
+29156#Variable Cast Reduction#
+29157#Variable Cast Reduction#
+29158#Variable Cast Reduction#
 29159#EXP +2% (Top)#
 29160#Blue Aura Effect#
 29161#Pink Glow Effect#
@@ -10027,10 +10034,10 @@
 29355#Racing (Summoner) 1Lv#
 29356#Racing (Summoner) 2Lv#
 29357#Racing (Summoner) 3Lv#
-29358#Variable Casting (CBT)#
-29359#Fatal (CBT)#
-29360#Fatal (CBT)#
-29361#Fatal (CBT)#
+29358#Variable Casting#
+29359#Fatal#
+29360#Fatal)#
+29361#Fatal#
 29362#Double Attack Stone#
 29423#Champion Stone (Upper)#
 29424#Champion Stone (Middle)#
@@ -10949,8 +10956,8 @@
 100547#Biolab Helmet Box#
 100554#100554#
 100563#100563#
-100565#100565#
-100566#100566#
+100565#Christmas Sale Box I#
+100566#Christmas Sale Box II#
 100567#100567#
 100568#100568#
 100572#Full Pene Shadow Mix Box#
@@ -11253,6 +11260,9 @@
 103303#103303#
 103304#103304#
 103305#103305#
+103908#Silent Night Scroll#
+103918#Gold Blessing Scroll#
+103971#Nyan - Nyan Costume Scroll#
 200000#IDTest Cash#
 200031#(Limited) Silvervine Package I#
 200049#Stone Coin Package I#

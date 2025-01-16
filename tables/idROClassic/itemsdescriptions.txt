@@ -1140,17 +1140,17 @@ Berat : ^777777100^000000
 715#
 Batu tambang yang mengandung kekuatan sihir yang akan pecah jika digunakan untuk sihir.
 ^ffffff_^000000
-Berat : ^7777773^000000
+Berat : ^7777770.1^000000
 #
 716#
 Batu tambang yang mengandung kekuatan sihir yang bisa digunakan untuk skill penyembuhan.
 ^ffffff_^000000
-Berat : ^7777773^000000
+Berat : ^7777770.1^000000
 #
 717#
 Batu tambang yang mengandung kekuatan sihir yang bisa digunakan untuk skill penyembuhan.
 ^ffffff_^000000
-Berat : ^7777773^000000
+Berat : ^7777770.1^000000
 #
 718#
 Batu perhiasan berwarna merah gelap yang melambangkan bulan januari sebagai kelahiran batu ini.
@@ -5430,13 +5430,25 @@ Level Persyaratan : ^77777748^000000
 Untuk Profesi : ^777777Swordman^000000
 #
 1477#
-Tombak dua tangan yang diciptakan sebagai pengorbanan hidup penciptanya untuk membuatnya, menghasilkan kutukan bagi yang mencoba untuk menguasainya. Mengurangi luka dari monster type Demon dan Undead sebesar 10%, mengurangi luka dari moster dengan serangan elemen Shadow sebesar 10%, mendapatkan 50 HP setiap kali mengalahkan monster, menambah 10% kemungkinan memberikan status [Chaos] ke dirisendiri ketika melakukan serangan fisik.  	Ketika digabung dengan Red Silk Seal, mengurangi status [Chaos] dengan kemungkinan 9.5%.						
-Jenis : ^777777Tombak^000000      Serangan : ^777777170^000000
+Tombak dua tangan yang diciptakan sebagai pengorbanan hidup penciptanya untuk membuatnya menghasilkan kutukan bagi yang mencoba untuk menguasainya.
+Menambah serangan fisik ke tipe Shadow dan Undead sebesar 20%
+Menambah serangan fisik ke ras demon sebesar 20%
+Mengurangi serangan yang diterima dari ras Demon dan Undead sebesar 10%
+Mengurangi serangan yang diterima dari tipe Shadow sebesar 10%
+Mendapatkan 50 HP setiap kali mengalahkan monster, menambah 10% kemungkinan memberikan status [Chaos] ke diri sendiri ketika melakukan serangan fisik.
+  
+^0000ff[Combo Bonus]^000000
+^0000ff[Spectral Spear]^000000
+^0000ff[Red Silk Seal]^000000
+  
+^ff0000Mengurangi status [Chaos] dengan kemungkinan 9.5%^000000
+  
+Jenis : ^777777Tombak^000000
+Serangan : ^777777170^000000
 Berat : ^777777200^000000
-Senjata Level : ^7777774^000000
-Level Persyaratan : ^77777775^000000
-Jobs : ^777777Swordman^000000
- 
+Level Senjata : ^7777774^000000
+Lv Min. : ^77777775^000000
+Job : ^777777Swordman^000000
 #
 1478#
 Sebuah tombak dengan permukaan bor yang di buat untuk serangan yang melemahkan musuh. Menghiraukan defenses ke monster type Normal dan Boss, meningkatkan serangan ke monster demi-human sebesar 10%, memberikan 3% kemungkinan melakukan cast [Pierce] Lv 5 ketika melakukan serangan fisik.
@@ -15222,17 +15234,15 @@ Profesi : ^777777Semua Profesi kecuali Novice^000000
  
 #
 2784#
-Sebuah box musik yang menawan yang berisikan singing crystal didalamnya. Dengarkan secara seksama dan kamu akan bisa mendengar lagu Natal.
-Dapat menggunakan skill Oh Holy Night, yang bisa membuat pemakainya mendengar Lagu Natal setiap kali menggunakannya 
-Jenis : ^777777Aksesoris^000000
-Tk Def : ^7777770^000000       
-Berat : ^77777710^000000
-Untuk Profesi : ^777777Semua^000000
-sebuah kristal yang mempunyai nyanyian dari seorang malaikat.
-Class : ^777777Accessory^000000
+Sebuah box musik yang menawan yang berisikan ^FF0000Singing Crystal^000000 di dalamnya. Dengarkan secara seksama dan kamu akan bisa mendengar lagu Natal.
+Dapat menggunakan skill 'Oh, Holy Night!', yang bisa membuat pemakainya mendengar Lagu Natal setiap kali menggunakannya 
+  
+Jenis: ^777777Aksesoris^000000
+Posisi : ^777777Kanan^000000
 Defense : ^7777770^000000
 Berat : ^77777710^000000
-Jobs : ^777777All^000000
+Lv Minimal : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 2787#
 Bross yang dibuat dari tetes air mata Aqua Elemental.
@@ -25676,6 +25686,20 @@ Dikenakan di: ^777777Atas^000000 Berat: ^77777730^000000
 Level Persyaratan : ^7777770^000000
 Profesi: ^777777Semua Profesi^000000
 #
+5372#
+Topi kucing yang lucu dimana selalu memberikan ekspresi yang berbeda diwajahnya.
+ 
+INT +1, Mdef +3
+MATK +3%, MAX SP +3%
+Mengurangi Global Cooldown 3%
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777773^000000
+Berat : ^77777750^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
+#
 5373#
 Sebuah helm yang terkandung kekuatan dari Valkyrie Randgris. Membantu konsentrasi pemakainya.
 Dex + 3, Mdef + 1 
@@ -25703,8 +25727,8 @@ Job : ^777777All Job^000000
 #
 5379#
 Sebuah topi yang terlihat seperti balon yang penunh dengan udara.
-Setiap tingkat tempa akan meningkatkan MATK sebesar 2%.
-MDEF + 2 
+Setiap 2 tingkat tempa akan meningkatkan MATK sebesar 1%.
+MDEF + 2, MATK+ 2%
    
 Jenis : ^777777Headgear^000000
 Posisi : ^777777Upper^000000
@@ -26513,15 +26537,28 @@ Untuk Profesi : ^777777    ^000000
  
 #
 5506#
-Sebuah topi pajama yang sangat cocok  di gunakan saat karakter ingin beristirahat
-ATK dan MATK meningkat 5%
-Jenis : ^777777Helm^000000        Defense : ^7777774^000000
-Digunakan di : ^777777Upper^000000
+Sebuah topi tidur lucu berwarna biru yang membuat pemakainya terlihat lucu dan mengantuk.
+ 
+ATK +5% dan MATK +5%.
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Defense : ^7777774^000000
 Berat : ^77777710^000000
-Profesi : ^777777Semua Profesi^000000
+Lv Minimal : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 5507#
-
+Sebuah topi tidur lucu berwarna merah muda yang membuat pemakainya terlihat lucu dan mengantuk.
+ 
+ATK +5% dan MATK +5%.
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Defense : ^7777774^000000
+Berat : ^77777710^000000
+Lv Minimal : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 5508#
 Topi Hiu yang dibuat sebagai perlambang pemburu lautan, memberi rasa takut kepada seisi mahluk yang hidup di air.
@@ -26951,12 +26988,16 @@ Untuk Profesi :^777777Semua Profesi^000000
 #
 5594#
 Sebuah kue donat yang lezat dan disukai banyak orang. Ini sangat lezat jika dimakan bersama dengan secangkir teh.
+ 
 MaxHP + 100.
 Memulihkan HP + 1 setiap 10 detik.
-Jenis : ^777777Headgear^000000 Tk Def : ^7777771^000000
-Posisi : ^777777Bawah ^000000 Berat : ^7777775^000000
-Level Persyaratan : ^7777771^000000
-Profesi : ^777777Semua Profesi^000000
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Lower^000000
+Def : ^7777771^000000
+Berat : ^7777775^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 5595#
 Sebuah tanduk dengan kekuatan jahat. Kamu bisa merasakan kekuatan vital dari benda ini.
@@ -29768,14 +29809,14 @@ Berat : ^7777770^000000
 6314#
 Elunium spesial yang didapat dari pertambangan tersembunyi.
 Dapat digunakan untuk memperkuat armor.
-Dengan elunium ini kemungkinan hancur akan berkurang.
+Dengan Elunium ini kemungkinan hancur akan berkurang.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
 6315#
 Oridecon spesial yang didapat dari pertambangan tersembunyi.
 Dapat digunakan untuk memperkuat senjata.
-Dengan oridecon ini kemungkinan hancur akan berkurang.
+Dengan Oridecon ini kemungkinan hancur akan berkurang.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
@@ -29783,7 +29824,6 @@ Berat : ^7777771^000000
 Sebuah gulungan yang memiliki kekuatan dari invulnerable Siegfried.
 Menurut rumor gulungan ini dapat membuat seseorang kembali dari kematian.
 Dapat digunakan untuk menghidupkan karater kamu jika mati.
-^ff0000Tidak dapat di simpan di Kafra^000000
 ^ffffff_^000000
 Berat : ^7777770^000000
 #
@@ -30651,72 +30691,72 @@ Berat : ^7777770^000000
 #
 6636#
 Batu yang berisi STR.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum atas kamu.
+Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum atas kamu.
 STR + 1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+ 
 Berat : ^77777710^000000
 #
 6637#
 Batu yang berisi INT.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum atas kamu.
+Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum atas kamu.
 INT + 1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+ 
 Berat : ^77777710^000000
 #
 6638#
 Batu yang berisi AGI.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum atas kamu.
+Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum atas kamu.
 AGI + 1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+ 
 Berat : ^77777710^000000
 #
 6639#
 Batu yang berisi DEX.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum atas kamu.
+Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum atas kamu.
 DEX + 1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+ 
 Berat : ^77777710^000000
 #
 6640#
 Batu yang berisi VIT.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum atas kamu.
+Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum atas kamu.
 VIT + 1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+ 
 Berat : ^77777710^000000
 #
 6641#
 Batu yang berisi LUK.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum atas kamu.
+Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum atas kamu.
 LUK + 1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+ 
 Berat : ^77777710^000000
 #
 6642#
 Batu yang berisi ATK.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum tengah kamu.
+Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum tengah kamu.
 ATK + 1%.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+ 
 Berat : ^77777710^000000
 #
 6643#
 Batu yang berisi MATK.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum tengah kamu.
+Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum tengah kamu.
 MATK + 1%.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+ 
 Berat : ^77777710^000000
 #
 6644#
 Batu yang berisi HIT.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum bawah kamu.
+Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum bawah kamu.
 HIT + 1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+ 
 Berat : ^77777710^000000
 #
 6645#
 Batu yang berisi FLEE.
-Berikan kepada [Aver De Dosh] di Malangdo dibangunan berlokasi 115 150 untuk enchant kostum bawah kamu.
+Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum bawah kamu.
 FLEE + 1.
-^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
+ 
 Berat : ^77777710^000000
 #
 6648#
@@ -34895,6 +34935,7 @@ Berat : ^7777771^000000
 #
 7622#
 Sebuah tiket spesial dimana kamu bisa merubah model rambut kamu dengan model terbaru. tiket ini hanya bisa digunakan untuk 1 kali saja.
+Kamu dapat menukarkan Hair Syle Coupon kepada NPC Stylist di Prontera 151 260  
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
@@ -36973,11 +37014,12 @@ Costume Horse King Red
 Weight: ^7777771^000000
 #
 9693#
+^000088[Item Rental]^000000
 ^ff0000Barang ini tidak dapat ditransaksikan.^000000
-Box yang berisi Fly Wing berdurasi 2 Jam.
 ^ffffff_^000000
-^000088Item Rental^000000
+Box yang berisi Fly Wing berdurasi 2 Jam.
 Kamu bisa berpindah tempat kemana saja di dalam sebuah map.^000000
+^ffffff_^000000
 Berat : ^7777771^000000
 #
 9703#
@@ -37457,7 +37499,12 @@ Kamu bisa mendapatkan berbagai macam Shadow dan Equipment yang dapat memudahkan 
 Berat : ^7777771^000000
 #
 9862#
-
+^ff0000Barang ini tidak bisa ditransaksikan.^000000
+   
+Panduan bertarung yang dapat meningkatkan EXP sebesar 50% selama 30 menit.
+Dapat digunakan bersamaan dengan Battle Manual
+   
+Berat : ^7777770^000000
 #
 9863#
 
@@ -37572,7 +37619,9 @@ Berat : ^7777771^000000
 
 #
 9895#
-
+Abrasive meningkatkan Kritikal Rate sebesar 30 selama 5 menit.
+ 
+Berat: ^7777771^000000
 #
 9896#
 
@@ -37588,15 +37637,17 @@ Kamu bisa mendapatkan berbagai macam Shadow dan Equipment yang dapat memudahkan 
 Berat: ^7777771^000000
 #
 9908#
-Meningkatkan MaxSP +10%. Konsumsi SP - 10%.
-^ffffffEfek akan hilang jika karakter mati.^000000.
+Meningkatkan MaxSP +10% dan mengurangi konsumsi SP sebesar 10%.
+   
+^ff0000Efek akan hilang jika karakter mati.^000000.
    
 Berat : ^7777771^000000
 #
 9909#
-Potion yang terbuat dari dragon's strong skin, elf's mustache dan special medicine
+Potion yang terbuat dari Dragon's Strong Skin, Elf's Mustache dan Special Medicine
 Meningkatkan 3% toleransi untuk serangan Physical dan Magical selama 30 menit.
-^ffffffEfek akan hilang jika karakter mati.^000000.
+   
+^ff0000Efek akan hilang jika karakter mati.^000000
    
 Berat : ^7777771^000000
 #
@@ -38456,7 +38507,8 @@ Berat: ^7777772^000000
 #
 11565#
 ^ff0000tidak dapat ditransaksikan.^000000
-Potion penyembuk yang dibuat dari white herb. Menyembuhjkan ^000088325 HP^000000.
+Potion yang memberikan ^000088sejumlah HP^000000,terbuat dari White herb.
+^ffffff_^000000
 Berat : ^77777715^000000
 #
 11566#
@@ -38496,7 +38548,7 @@ Weight: ^8080800^000000
 #
 11572#
 ^ff0000Tidak dapat di transaksikan.^000000
-Minuman yang mebuat kita terasa segar memberikan^000088SP 60^000000 ramuan nya terbuat dibuat dari blue herb yang dihaluskan.
+Potion yang memberikan ^000088sejumlah SP^000000,terbuat dari Blue herb.
 ^ffffff_^000000
 Berat : ^77777715^000000
 #
@@ -38905,14 +38957,14 @@ STR +2
 Berat: ^77777750^000000
 #
 12043#
-Makanan ini terlihat seperti steak hanya saja lebih berwarna dan berkuah 
-STR +3 
+Makanan ini terlihat seperti steak, hanya saja lebih berwarna dan berkuah.
+STR +3
 ^FFFFFF ^000000
 Berat: ^77777750^000000
 #
 12044#
 Makanan steak yang dilengkapi bumbu obat yang digunakan dalam sausnya. masakan ini merupakan resep rahasia dari payon.
-STR +4 
+STR +4
 ^FFFFFF ^000000
 Berat: ^77777750^000000
 #
@@ -38946,7 +38998,8 @@ Campuran dari anggur yang manis dan masam yang sangat enak. anggur ini berasal d
 Berat: ^77777730^000000
 #
 12050#
-Anggur yang dibuat dari mastela fruit. jika diminum akan meningkatkan daya pikiran. INT +5 
+Anggur yang dibuat dari mastela fruit. jika diminum akan meningkatkan daya pikiran.
+INT +5 
 ^FFFFFF ^000000
 Berat: ^77777740^000000
 #
@@ -40546,7 +40599,7 @@ Berat : ^7777770^000000
 #
 12411#
 Ini adalah buku yang tertulis dengan sangat baik dan detail menjelaskan tentang cara bertarung dengan sangat efisien.
-^000088EXP rate Meningkat sebanyak 100% Untuk 15 Menit.^000000
+^000088EXP rate meningkat sebanyak 100% selama 15 menit.^000000
 ^ffffff_^000000
 Berat: ^7777771^000000
 #
@@ -40794,48 +40847,49 @@ Berat : ^7777770^000000
 #
 12501#
 ^ff0000Barang ini tidak dapat ditransaksikan.^000000
-Makanan yang istimewa yang berasal dari louyang. Sangat mahal tapi rasanya luar biasa.
-STR + 10. memiliki durasi selama 30 menit.
+Makanan yang istimewa yang berasal dari Louyang. Sangat mahal tapi rasanya luar biasa.
+STR + 10. Memiliki durasi selama 30 menit.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
 12502#
 ^ff0000Barang ini tidak dapat ditransaksikan.^000000
-Salah satu masakan dari 4 makanan terbaik dari gurun pasir sograt, scorpion ini dimasak dengan panas dari alam.
-AGI + 10. memiliki durasi selama 30 menit.
+Salah satu masakan dari 4 makanan terbaik dari gurun pasir Sograt, Scorpion ini dimasak dengan panas dari alam.
+AGI + 10. Memiliki durasi selama 30 menit.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
 12503#
 ^ff0000Barang ini tidak dapat ditransaksikan.^000000
 Sebuah cocktail yang rasanya tidak akan pernah bisa kamu lupakan.
-INT + 10. memiliki durasi selama 30 menit.
+INT + 10. Memiliki durasi selama 30 menit.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
 12504#
 ^ff0000Barang ini tidak dapat ditransaksikan.^000000
-Nama makanan ini berasal dari sungai midgard yang terkenal, rasanya sangat lezat.
-DEX +10 memiliki durasi selama 30 menit.
+Nama minuman ini berasal dari sungai Midgard yang terkenal, rasanya sangat lezat.
+DEX +10. Memiliki durasi selama 30 menit.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
 12505#
 ^ff0000Barang ini tidak dapat ditransaksikan.^000000
 Masakan spesial dari Payon. Memberikan keberuntungan pada yang memakannya.
-LUK +10. memiliki durasi selama 30 menit.
+LUK +10. Memiliki durasi selama 30 menit.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
 12506#
 ^ff0000Barang ini tidak dapat ditransaksikan.^000000
-Daging yang enak, Baunya sangat khas dan juga efeknya dapat memberikan kekuatan besar ditubuhmu.
-VIT +10. memiliki durasi selama 30 menit.
+Daging yang enak, aromanya sangat khas dan juga efeknya dapat memberikan kekuatan besar di tubuhmu.
+VIT +10. Memiliki durasi selama 30 menit.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
 12514#
-Abrasive meningkatkan Kritikal Rate sebesar 30 selama ^FFFFFF   ^000000 5 menit.
+Abrasive meningkatkan Kritikal Rate sebesar 30 selama 5 menit.
+ 
 Berat: ^7777771^000000
 #
 12515#
@@ -40849,18 +40903,28 @@ Berat : ^7777771^000000
 #
 12516#
 ^ff0000Barang ini tidak bisa ditransaksikan.^000000
-^800080[Tidak Dijual]Item ini dikhususkan untuk Event.^000000
-Sebuah botol yang berisi sari dari buah Yggdrasil. Rumornya sangat bagus untuk penyembuhan luka.
-Mengembalikan 5% dari Max HP setiap 5 detik selama 10 menit.
-Efek tidak bekerja ketika dalam kondisi Frenzy/Berserk.
-Efek akan berhenti ketika karakter mati.
-^ffffff_^000000
+   
+Sebuah botol kecil yang berisi sari buah Yggdrasilberry, efektif untuk menyembuhkan luka.
+Memberikan regenerasi HP sebesar 5% dari Maksimum HP setiap 5 detik selama 10 menit.
+Tidak berfungsi ketika menggunakan Skill Frenzy.
+   
+^ff0000Efek akan hilang jika karakter mati.^000000
+   
 Berat : ^7777771^000000
 #
 12517#
 ^ff0000Barang tidak dapat ditransaksikan.^000000
-Minuman kesehatan yang dibuat dari berbagai jenis buah yang mengandung serat. Lebih nikmat saat diminum dalam keadaan dingin. 
-Meningkatkan efektifitas pemulihan HP dari beberapa jenis potion dan skill Heal sebesar 20% selama 30 menit, Efek hilang ketika karakter mati. 
+ 
+Minuman kesehatan yang dibuat dari berbagai jenis buah yang mengandung serat. Lebih nikmat saat diminum dalam keadaan dingin.
+Meningkatkan efektifitas pemulihan HP dari beberapa jenis potion dan skill Heal sebesar 20% selama 30 menit.
+ 
+Efek akan hilang ketika karakter mati.
+ 
+Berat : ^7777771^000000
+#
+12518#
+Sebuah Potion yang terbuat dari sayap pixie.
+Menambahkan Magic Defense sebesar 3% selama 3 menit.
  
 Berat : ^7777771^000000
 #
@@ -40869,6 +40933,12 @@ Berat : ^7777771^000000
 Sebuah Potion yang terbuat dari sayap pixie
 Memambahkan Magic Defense sebesar 3%
 Selama 1 menit
+ 
+Berat : ^7777771^000000
+#
+12520#
+Sebuah Potion yang terbuat dari sisik naga.
+Menambahkan Defense sebesar 3% selama 3 menit.
  
 Berat : ^7777771^000000
 #
@@ -40891,8 +40961,7 @@ Gulungan untuk yang memiliki spesial efek yaitu memberikan level 10 Increase AGI
 Berat : ^7777771^000000
 #
 12529#
-^ff0000tidak dapat di transaksikan.^000000
-Sebuah Box berisi 100 buah White Slim Potion.
+Sebuah Box berisi 200 buah White Slim Potion.
 ^ffffff_^000000
 Berat : ^7777770^000000
 #
@@ -46061,10 +46130,9 @@ Berat: ^7777771^000000
   
 #
 13810#
-^ff0000tidak dapat di transaksikan.^000000 
-Sebuah Box berisi 50 buah Blue Potion.
+Sebuah Box berisi 25 buah Light Blue Potion.
 ^ffffff_^000000
-Berat: ^7777770^000000
+Berat: ^7777771^000000
 #
 13811#
 A box that contains^FFFFFF       ^000000 6 kinds of Lv.1 Dishes.
@@ -46342,10 +46410,8 @@ Berat: ^7777771^000000
 #
 13905#
 Sebuah kotak yang berisi 10 Battle Manual, 10 Bubble Gum, dan 10 Insurance Package.
-^ff0000Item ini tidak dapat dikembalikan ataupun diuangkan.^000000
-^ffffff_^000000
-Berat : ^7777771^000000
- 
+^ffffff_^000000 
+Berat : ^7777771^000000 
 #
 13906#
 Sebuah kotak yang berisikan 1 buah Brown, 1 Blue, 1 Pink, 1 Yellow, dan 1 Gray Drooping Kitty.
@@ -47337,9 +47403,10 @@ Berat: ^7777771^000000
 #
 14537#
 Minuman kesehatan yang dibuat dari berbagai jenis buah yang mengandung serat. Lebih nikmat saat diminum dalam keadaan dingin.
+ 
 Meningkatkan efektifitas pemulihan HP dari beberapa jenis potion dan skill Heal sebesar 20% selama 30 menit, Efek hilang ketika karakter mati.
 ^ffffff_^000000
-Berat: ^7777771^000000
+Berat: ^7777771^000000 
 #
 14538#
 Sebuah Gelas yang berisi embun dari Illusion Flower pagi hari. 
@@ -47903,6 +47970,22 @@ Sebagai Bonus, CRI secara acak (11-33) akan meningkat selama 10 Menit.
 ^ff0000Bonus CRI tidak dapat ditumpuk dengan Item penambah CRI lainnya dan kamu akan menerima tambahan Bonus CRI dari item penambah CRI tertinggi.^000000
 Berat : ^7777771^000000
 #
+14629#
+Sebuah kotak yang berisi batu magis yang bisa di-enchant ke sebuah kostum.
+Ketika dibuka, kamu akan mendapatkan salah satu dari item berikut:
+^ff0000STR Stone (Upper)^000000
+^ff0000INT Stone (Upper)^000000
+^ff0000AGI Stone (Upper)^000000
+^ff0000DEX Stone (Upper)^000000
+^ff0000VIT Stone (Upper)^000000
+^ff0000LUK Stone (Upper)^000000
+^ff0000ATK Stone (Middle)^000000
+^ff0000MATK Stone (Middle)^000000
+^ff0000HIT Stone (Lower)^000000
+^ff0000FLEE Stone (Lower)^000000
+  
+Berat: 1
+#
 14687#
 Box special Universal Enchant
           
@@ -48158,7 +48241,10 @@ Berat : ^77777710^000000
 
 #
 14843#
-
+Asuransi Kehidupan dari Pusat Kafra. Asuransi ini hanya sekali pakai. 
+Jika kamu sudah merasakan efeknya maka asuransi akan hilang. Karakter yang mati selama 30 menit setelah penggunaan, tidak akan kehilangan EXP. 
+^ffffff_^000000 
+Berat : ^7777771^000000 
 #
 14844#
 Kartu member dari Kafra Center.
@@ -48167,16 +48253,17 @@ Dengan kartu ini kamu bisa mengunakan jasa kafra storage di mana saja.
 Berat : ^7777771^000000
 #
 14845#
-
+Dapat menggunakan Skill Blessing Level 10.
 #
 14846#
-
+Dapat menggunakan Skill Incrrease AGI Level 10.
 #
 14847#
 Sebuah botol kecil yang berisi sari buah Yggdrasilberry, efektif untuk menyembuhkan luka.
 Memberikan regenerasi HP sebesar 5% dari Maksimum HP setiap 5 detik selama 10 menit.
 Tidak berfungsi ketika menggunakan Skill Frenzy.
-^ffffffEfek akan hilang jika karakter mati.^000000.
+   
+^ff0000Efek akan hilang jika karakter mati.^000000.
    
 Berat: ^7777771^000000
 #
@@ -51482,7 +51569,12 @@ Berat: ^7777771^000000
 
 #
 16503#
-
+Sebuah box yang berisi 10 buah life insurance.
+^ffffff_^000000
+Asuransi ini hanya sekali pakai, jadi jika kamu sudah merasakan efeknya maka asuransi akan hilang. 
+Karakter yang mati selama 30 menit setelah penggunaan, tidak akan kehilangan EXP.
+^ffffff_^000000
+Berat : ^7777771^000000
 #
 16504#
 Box yang berisi 10 buah E Bubble Gum.
@@ -52546,17 +52638,13 @@ Profesi : ^777777Semua Profesi^000000
 Berat: ^7777771^000000
 #
 17314#
-Kotak yang berisi Infinite Flywing yang bisa kamu pakai selama 1 hari.
-^ffffff_^000000
-^000088Rental Item^000000
+^000088[Item Rental]^000000
 ^ff0000Barang ini tidak dapat ditransaksikan.^000000
-^000088Kamu bisa berpindah di dalam sebuah map.^000000
-Berat : ^7777770^000000
 ^ffffff_^000000
-
-Jika kamu membawa barang ini kepada NPC dibawah ini, kamu bisa mendapatkan 1 stack dalam 1 slot inventory.
-^ffffff<NAVI>^4D4DFF[Nyangtime]^000000<INFO>malangdo,208,163,0,100,0,0</INFO></NAVI>^000000
-^ffffff<NAVI>^4D4DFF[Nyangtime]^000000<INFO>moc_para01,29,171,0,100,0,0</INFO></NAVI>^000000
+Box yang berisi Fly Wing berdurasi 1 hari.
+^ffffff_^000000
+^000088Kamu bisa berpindah tempat ke mana saja di dalam sebuah map.^000000
+^ffffff_^000000
 Berat : ^7777771^000000
 #
 17317#
@@ -54460,6 +54548,26 @@ Level Persyaratan : ^77777730^000000
 Profesi : ^777777Semua Profesi^000000" 
  
 #
+18528#
+Sebuah topi menyerupai peliharaan Loli Ruri 'Cru'.
+Ada yang bilang kucing itu sensitif dan mudah marah.
+---------
+INT +2 MDEF +5.
+Mengabaikan magic defense sebesar 5%. Setiap tingkat tempa, memberikan tambahan mengabaikan magic defense sebesar 1%.
+---------
+Jika tingkat tempa mencapai +7 atau lebih,
+tambahan mengabaikan magic defense sebesar 5% dan MATK +2%.
+---------
+Jika tingkat tempa mencapai +9 atau lebih,
+MATK +5%.
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Defense : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimal : ^7777771^000000
+Job : ^777777Semua Job^000000
+#
 18529#
 
 #
@@ -54509,17 +54617,16 @@ Profesi : ^777777Semua Profesi^000000
 
 #
 18536#
-Sebuah perlengkapan para pengembara
-MATK + 10, mengurangi Semua fixed casting  sebesar 0.1 detik
-Jenis : ^777777Headgear^000000 Def : ^7777770^000000
-Letak: ^777777Lower ^000000 Berat : ^77777710^000000
-Level yang dibutuhkan : ^7777771^000000
-Digunakan Profesi : ^777777Semua Job^000000
-Biasa digunakan oleh para pengembara
-MATK + 10, Mengurangi fixed cast sebesar 0.1 detik
-Jenis : ^777777Pelindung kepala^000000 Pertahanan : ^7777770^000000
-location: ^777777Lower^000000 Berat : ^77777710^000000
-Untuk karakter Lv : ^7777771^000000
+Sebuah perlengkapan para pengembara.
+ 
+MATK +10.
+Mengurangi fixed casting time skill sebesar 0,1 detik.
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Lower^000000
+Defense : ^7777770^000000
+Berat : ^77777710^000000
+Lv Minimal : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
 18537#
@@ -54595,13 +54702,17 @@ job : ^777777Semua job^000000
 #
 18550#
 Sayap suci yang digosipkan tentang kekuatan dewanya.
-All Stat +2.
-Meningkatkan toleransi terhadap semua element sebesar 5%
-Recover HP 2% and SP 1% in every 10 seconds
-Jenis : ^777777Pelindung kepala^000000 Def : ^7777773^000000
-Letak: ^777777Atas ^000000 Berat : ^77777730^000000
-Level Persyaratan : ^77777730^000000
-Untuk Profesi : ^777777Semua Profesi^000000
+ 
+All Stats +2.
+Meningkatkan toleransi terhadap semua element sebesar 5%.
+Meregenerasi HP sebesar 2% dan SP sebesar 1% setiap 10 detik.
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777773^000000
+Berat : ^77777730^000000
+Lv Min. : ^77777730^000000
+Job: ^777777Semua Job^000000
 #
 18551#
 Sebuah circlet yang mengandung keindahan alam semesta. Sepertinya pikiran dari orang yang kuat akan berkilau seperti bintang. 
@@ -54751,13 +54862,25 @@ Profesi : ^777777Semua Profesi^000000
  
 #
 18580#
-Sebuah mahkota hasil tenunan dari ranting yggdrasil dimana mewakili sebuah kehidupan setelah pengorbanan.
+Sebuah mahkota indah, yang didesain dan dibuat dari Yggdrasil.
+ 
 VIT  +2, INT + 2.
-Jumlah heal akan meningkat berdasarkan besarnya tingkat refine. 
-Jenis : ^777777Pelindung Kepala^000000 Def : ^7777776^000000
-Letak : ^777777Atas ^000000Berat : ^77777720^000000
-Level Persyaratan : ^77777770^000000
-Untuk Profesi : ^777777Semua Profesi^000000
+ 
+Meningkatkan efek dari regenerasi dan item penyembuh sebesar 10%.
+Meningkatkan efek skill [Heal] sebesar 2%.
+---------
+Jika tingkat tempa mencapai +7 atau lebih,
+meningkatkan efek skill [Heal] sebesar 5%.
+---------
+Jika tingkat tempa mencapai +9 atau lebih,
+meningkatkan efek skill [Heal] sebesar 3%.
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Defense : ^7777776^000000
+Berat : ^77777720^000000
+Lv Minimal : ^77777770^000000
+Job : ^777777Semua Job^000000
 #
 18589#
 Sebuah topi yang berbentuk mirip seperti buah Strawberry.
@@ -55904,7 +56027,23 @@ Job : ^777777All^000000
 
 #
 18838#
-
+Sebuah topi yang memiliki fungsi spesial untuk menggerakan Sayap Angeling.
+ 
+All Stats +1 , ATK +2, MATK +2
+---------
+Setiap tingkat tempa, meningkatkan ATK +2 dan MATK +2
+---------
+Ketika melakukan serangan fisik atau magic, berkemungkinan untuk berubah menjadi Angeling
+Jika menggunakan serangan fisik, ASPD +2 selama 5 detik
+Jika menggunakan serangan magic, Mengurangi casting time 50% selama 5 detik
+Setiap tingkat tempa, meningkatkan kemungkinan untuk berubah menjadi Angeling
+---------
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777778^000000
+Berat : ^77777735^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 18839#
 
@@ -57509,6 +57648,7 @@ Job : ^777777Semua Job^000000
 Drops melayang diatas kepalamu.
 Aku merasa ini bisa menjadi sebuah jimat keberuntungan.
 Meningkatkan EXP + 5%, Meningkatkan Drop Rate + 5%.
+DEX +2
   
 Jenis : ^777777Headgear^000000
 Posisi : ^777777Lower^000000
@@ -59958,7 +60098,7 @@ Kamu dapat merasakan para peri bermain di hutan biru ketika menggunakannya.
 ^ff0000Drop +3%^000000
   
 ^ff0000Durasi Efek : 1 Bulan^000000
-^ff0000(5 Desember 2024 - 9 Januari 2025)^000000
+^ff0000(12 Desember 2024 - 16 Januari 2025)^000000
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Middle^000000
@@ -60283,7 +60423,10 @@ Job : ^777777Semua^000000
 
 #
 19658#
-
+Sebuah topi yang cocok digunakan saat berwisata,
+dan melindungi wajah pemakainya dari sinar UV.
+   
+Berat : ^7777770^000000
 #
 19659#
 
@@ -60386,7 +60529,7 @@ Surat kecil lucu yang dihias dengan stiker Poring.
 ^ff0000Drop +2%^000000
   
 ^ff0000Durasi Efek : 1 Bulan^000000
-^ff0000(5 Desember 2024 - 9 Januari 2025)^000000
+^ff0000(12 Desember 2024 - 16 Januari 2025)^000000
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Lower^000000
@@ -60669,7 +60812,7 @@ Kamu bisa menggunakannya untuk bersantai.
 ^ff0000Drop +2%^000000
   
 ^ff0000Durasi Efek : 1 Bulan^000000
-^ff0000(5 Desember 2024 - 9 Januari 2025)^000000
+^ff0000(12 Desember 2024 - 16 Januari 2025)^000000
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Lower^000000
@@ -60686,7 +60829,7 @@ Badanmu akan terasa ringan ketika mengenakannya.
 ^ff0000Drop +2%^000000
   
 ^ff0000Durasi Efek : 1 Bulan^000000
-^ff0000(5 Desember 2024 - 9 Januari 2025)^000000
+^ff0000(12 Desember 2024 - 16 Januari 2025)^000000
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Upper^000000
@@ -60860,11 +61003,16 @@ Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
 19823#
-[Costume Upper & Middle Head]
 Sebuah tutup kepala yang berbentuk kuping kucing yang halus.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box6.^000000
+  
+^FF0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper & Middle^000000
+Def : ^7777770^000000
 Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 19824#
 ^ff0000C_Black_Evil_Druid_Hat^000000
@@ -60973,7 +61121,7 @@ Sebuah topi yang dibuat mirip dengan Angeling.
 ^ff0000Drop +2%^000000
   
 ^ff0000Durasi Efek : 1 Bulan^000000
-^ff0000(5 Desember 2024 - 9 Januari 2025)^000000
+^ff0000(12 Desember 2024 - 16 Januari 2025)^000000
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Upper^000000
@@ -61027,6 +61175,9 @@ Posisi : ^777777Upper^000000
 Berat : ^7777770^000000
 Lv minimal : ^7777771^000000
 Job: ^777777Semua Job^000000
+#
+19862#
+
 #
 19866#
 
@@ -61124,12 +61275,16 @@ Lv Minimum : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
 #
 19912#
-Meow~ Mengubah matamu menjadi Kucing yang nakal~
-
-Type : ^777777Costume^000000 Defense : ^7777770^000000
-Position : ^777777Middle ^000000Berat : ^7777770^000000
-Req lv : ^7777771^000000
-Job : ^777777All Jobs^000000
+Meow~ Mengubah matamu menjadi mata kucing yang nakal~
+  
+^FF0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Middle^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 19914#
 Topi Kapten Airship Felrock
@@ -61375,10 +61530,19 @@ Digunakan di : ^777777Semua Job^000000
 #
 19976#
 Kucing Malangdo mengenakan topi ini saat musim Natal.
-Jenis : ^777777Kostum^000000 Tk Def : ^7777770^000000
-Dikenakan di : ^777777Atas ^000000Berat : ^7777770^000000
-Minimum Level : ^7777771^000000
-Job : ^777777Semua^000000
+   
+^ff0000Item tidak dapat digunakan di map PVP/WOE^000000.
+ 
+^FF0000EXP +1%^000000
+^FF0000Meningkatkan kecepatan gerak dan ASPD ketika digunakan^000000
+^FF0000(Durasi efek: 19 Desember 2024 - 16 Januari 2025)^000000
+   
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 19981#
 Jenggot yang akan membuatmu tersenyum.
@@ -61922,12 +62086,13 @@ Job : ^777777All Job^000000
 #
 20101#
 Dekorasi Kostum yang menyerupai Bragi's wing
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box6.^000000
-Class : ^777777Costume Gear^000000 Defense : ^7777770^000000
-Location : ^777777Middle ^000000Berat : ^7777770^000000
-Required Lv : ^7777771^000000
-Job : ^777777All Jobs^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Middle^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 20102#
 
@@ -62104,7 +62269,7 @@ Aku merasa lebih kuat setelah memakainya.
 ^ff0000Drop +3%^000000
   
 ^ff0000Durasi Efek : 1 Bulan^000000
-^ff0000(5 Desember 2024 - 9 Januari 2025)^000000
+^ff0000(12 Desember 2024 - 16 Januari 2025)^000000
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Lower^000000
@@ -62424,11 +62589,16 @@ Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
 20198#
-Brown cat ear hairband
-Class : ^777777Costume equipment^000000 Defense : ^7777770^000000
-Location : ^777777Upper ^000000Berat : ^7777770^000000
-Required Lv. : ^7777771^000000
-Job : ^777777All jobs^000000
+Bando lucu yang dibuat mirip dengan telinga kucing.
+  
+^FF0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 20204#
 Topi berburu yang elegan terbuat dari bahan berkualitas
@@ -62723,7 +62893,7 @@ Topi putih yang biasanya dikenakan oleh pemimpin kelompok di sekolah.
 ^ff0000Drop +2%^000000
   
 ^ff0000Durasi Efek : 1 Bulan^000000
-^ff0000(5 Desember 2024 - 9 Januari 2025)^000000
+^ff0000(12 Desember 2024 - 16 Januari 2025)^000000
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Upper^000000
@@ -62783,10 +62953,10 @@ Item yang cocok untuk menarik perhatian banyak orang
 ^ff0000Drop +2%^000000
   
 ^ff0000Durasi Efek : 1 Bulan^000000
-^ff0000(5 Desember 2024 - 9 Januari 2025)^000000
+^ff0000(12 Desember 2024 - 16 Januari 2025)^000000
   
 Jenis : ^777777Costume^000000
-Posisi : ^777777Upper^000000
+Posisi : ^777777Middle^000000
 Def : ^7777770^000000
 Berat : ^7777770^000000
 Lv Min. : ^7777771^000000
@@ -62931,7 +63101,7 @@ Membuatmu serasa berada di dalam laut.
 ^ff0000Drop +2%^000000
   
 ^ff0000Durasi Efek : 1 Bulan^000000
-^ff0000(5 Desember 2024 - 9 Januari 2025)^000000
+^ff0000(12 Desember 2024 - 16 Januari 2025)^000000
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Middle^000000
@@ -63370,7 +63540,15 @@ Lv. Minimal: ^7777771^000000
 Job: ^777777All Job^000000
 #
 20451#
-
+Sebuah topi biru yang menyerupai warna langi pada malam hari.
+Dekorasi topi ini mengingatkanku pada kenangan saat bertemu dengan seorang wanita pada masa lalu.
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Defense : ^7777770^000000
+Berat : ^7777770^000000
+Lv Minimal : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 20453#
 
@@ -63614,7 +63792,7 @@ Sebuah tas yang dibuat mirip dengan bentuk Poring.
 ^ff0000Drop +3%^000000
   
 ^ff0000Durasi Efek : 1 Bulan^000000
-^ff0000(5 Desember 2024 - 9 Januari 2025)^000000
+^ff0000(12 Desember 2024 - 16 Januari 2025)^000000
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Garment^000000
@@ -63707,10 +63885,13 @@ Job : ^777777All Job^000000
 #
 20517#
 Tas ransel berbentuk kucing yang lucu.
-Jenis : ^777777Costume^000000 Defense : ^7777770^000000
-Posisi : ^777777Garment ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Garment^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 20518#
 Tas yang dibuat berdasarkan Gerhard Von Devi.
@@ -68810,7 +68991,7 @@ Berat : ^7777771^000000
 #
 22979#
 ^ff0000Barang ini tidak dapat ditransaksikan.^000000
-Meningkatkan EXP yang di dapat sebesar 50% selama 30 menit.
+Meningkatkan EXP yang didapat sebesar 50% selama 30 menit.
 Meningkatkan Drop Rate sebesar 100% selama 30 menit.
 ^ffffff_^000000
 Berat : ^7777770^000000
@@ -68921,10 +69102,13 @@ Berat : ^7777770^000000
 #
 23012#
 ^ff0000Barang ini tidak bisa ditransaksikan.^000000
+  
 Sebuah botol yang berisi sari dari buah Yggdrasil. Rumornya sangat bagus untuk penyembuhan luka.
 Mengembalikan 5% dari Max SP setiap 5 detik selama 10 menit.
-Efek tidak bekerja ketika dalam kondisi Frenzy/Berserk.
-Efek akan berhenti ketika karakter mati.
+  
+^ff0000Efek tidak bekerja ketika dalam kondisi Frenzy/Berserk.^000000
+^ff0000Efek akan berhenti ketika karakter mati.^000000
+  
 Berat : ^7777771^000000
 #
 23016#
@@ -69240,6 +69424,12 @@ Sebuah alat untuk memberikan tambahan opsi untuk Kafra Uniform.
 Hanya dapat digunakan 1 kali saja.
 Dapat memberikan 2 random option untuk ^ff0000Kafra Uniform^000000.
 ^ff0000Caution! - Saat digunakan, Slot kartu dan tingkat refine akan direset.^000000
+Berat : ^7777771^000000
+#
+23177#
+Kartu member dari Kafra Center.
+Dengan kartu ini kamu bisa mengunakan jasa Kafra Storage di mana saja.
+^ffffff_^000000
 Berat : ^7777771^000000
 #
 23178#
@@ -69943,10 +70133,11 @@ Cocok untuk dibuka ketika dibutuhkan saja.
 Berat : ^7777770^000000
 #
 23505#
-Kotak yang berisi 20 buah [Event] Yellow Potion. 
+Kotak yang berisi 20 buah [Event] Yellow Potion.
 Cocok untuk dibuka ketika dibutuhkan saja.
-"^ff0000Catatan - Barang bisa hilang ketika dibuka jika berat atau barang bawaan terlalu banyak!^000000"
-
+  
+^ff0000Catatan : Barang bisa hilang ketika dibuka jika berat atau barang bawaan terlalu banyak!^000000
+  
 Berat : ^7777770^000000
 #
 23506#
@@ -70157,10 +70348,18 @@ Berat : ^7777771^000000
 
 #
 23713#
-
+Sebuah parfum yang mempunyai wangi yang menyegarkan.
+   
+ATK +10 selama 10 menit.
+   
+^777777Berat: 1^000000
 #
 23714#
-
+Sebuah parfum yang mempunyai wangi yang menyegarkan.
+ 
+MATK +10 selama 10 menit.
+ 
+Berat : ^7777771^000000
 #
 23715#
 Parfum yang membuat kamu merasa segar.
@@ -70380,13 +70579,40 @@ Box berisi berbagai Garment Exclusive yang bisa kamu dapatkan secara acak.
 Berat: ^7777770^000000
 #
 23944#
-
+Ketika dibuka, kamu mendapatkan salah satu dari costume berikut secara random :
+ 
+^ff0000Costume Angeling Hairpin.^000000
+^ff0000Costume Poring Beret.^000000
+^ff0000Costume Poring Sunglasses.^000000
+^ff0000Costume Poring Bag.^000000
+ 
+Beserta semua dish+10 dengan masing - masing 5 buah
+ 
+Berat : ^7777770^000000
 #
 23945#
-
+Ketika dibuka, kamu mendapatkan salah satu dari costume berikut secara random :
+ 
+^ff0000Costume Angeling Hat.^000000
+^ff0000Costume Angeling Bread Hat.^000000
+^ff0000Costume Elven Ears.^000000
+^ff0000Costume Poring Letter.^000000
+ 
+Beserta semua dish+10 dengan masing - masing 5 buah
+ 
+Berat : ^7777770^000000
 #
 23946#
-
+Ketika dibuka, kamu mendapatkan salah satu dari costume berikut secara random :
+ 
+^ff0000Costume White Boy's Cap.^000000
+^ff0000Costume Little Aquarium.^000000
+^ff0000Costume Test Subject Aura.^000000
+^ff0000Costume Japan Winecup.^000000
+ 
+Beserta semua dish+10 dengan masing - masing 5 buah
+ 
+Berat : ^7777770^000000
 #
 23947#
 
@@ -89848,12 +90074,10 @@ Required Lv. : ^7777771^000000
 Job : ^777777All^000000
 #
 31251#
-^FF0000[Efek berlaku sampai Malangdo Februari 2023 rilis]^000000
-MATK +5%
-------------------------
-<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box 17.^000000
-------------------------
+Kostum yang dibuat mirip dengan mulut kucing.
+  
+^FF0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+  
 Jenis : ^777777Costume^000000
 Def : ^7777770^000000
 Posisi : ^777777Lower^000000
@@ -91155,8 +91379,10 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
 31456#
-Topi boneka untuk memperingati mamalia yang terancam punah, bayi leopard.
-------------------------
+Topi boneka untuk memperingati mamalia yang terancam punah, Baby Leopard.
+  
+^FF0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+  
 Jenis : ^777777Costume^000000
 Def : ^7777770^000000
 Posisi : ^777777Upper^000000
@@ -92141,7 +92367,7 @@ Kelihatannya akan menambah semangat moral ketika digunakan
 ^ff0000Drop +2%^000000
   
 ^ff0000Durasi Efek : 1 Bulan^000000
-^ff0000(5 Desember 2024 - 9 Januari 2025)^000000
+^ff0000(12 Desember 2024 - 16 Januari 2025)^000000
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Upper^000000
@@ -96563,10 +96789,16 @@ Berat : ^7777770^000000
 
 #
 100565#
-
+We wish you a Merry Christmas!!
+Box yang berisi barang barang untuk menemani petualanganmu
+ 
+Berat : ^7777771^000000
 #
 100566#
-
+We wish you a Merry Christmas!!
+Box yang berisi barang barang untuk menemani petualanganmu
+ 
+Berat : ^7777771^000000
 #
 100567#
 
@@ -98266,6 +98498,23 @@ Berat : ^77777710^000000
 103305#
 
 #
+103908#
+Sebuah scroll yang berisi barang-barang yang menenangkan hati di malam yang tenang.
+ 
+Berat : ^7777771^000000
+#
+103918#
+Sebuah scroll yang penuh harapan di tahun baru.
+Berisi berbagai macam equipment menarik.
+ 
+Berat : ^7777771^000000
+#
+103971#
+Scroll yang berisi costume berbentuk kucing yang lucu.
+Kelucuan costume ini akan memberi keberuntungan untuk kamu.
+ 
+Berat : ^7777771^000000
+#
 200000#
 Gives 1 wing of a fly upon consumption.
 Berat : ^7777771^000000
@@ -99680,7 +99929,7 @@ Sebuah topi lucu dengan ekspresi Angeling yang sangat lucu.
 ^ff0000Drop +2%^000000
   
 ^ff0000Durasi Efek : 1 Bulan^000000
-^ff0000(5 Desember 2024 - 9 Januari 2025)^000000
+^ff0000(12 Desember 2024 - 16 Januari 2025)^000000
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Upper^000000
