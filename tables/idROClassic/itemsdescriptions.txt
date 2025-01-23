@@ -15901,15 +15901,24 @@ Level Persyaratan : ^777777125^000000
 Untuk Profesi : ^777777Job 4 ^000000
 #
 2855#
-Ekor hitam gaya Hyuke's dari kota Morroc. Tampaknya tidak bergerak.
-ASPD + 3%, Critical + 7.
-Saat dipakai bersamaan dengan [Whikebain's Black Ears], menambahkan damage pada saat serangan critikal sebesar 10%.
-Saat dipakai bersamaan dengan [Whikebain's Black Ears], Critical +5 jika [Whikebain's Black Ears]'s ditempa lebih dari 7 
-Jenis : ^777777Aksesoris^000000
-Tk Def : ^7777770^000000
+Ekor hitam dengan style Hyuke dari kota Morroc. Nampaknya tidak bergerak.
+   
+ASPD +3%
+CRIT +7
+  
+^0000ff[Combo Bonus]^000000
+^0000ff[Wickebine's Black Cat Ears]^000000
+^ff0000Jika tingkat tempa [Wickebine's Black Cat Ears] lebih dari 7, CRIT +5^000000
+   
+^0000ff[Black Cat Ears Beret]^000000
+^ff0000Memiliki kesempatan untuk bertransformasi menjadi Wild Rose ketika melakukan serangan fisik. (All Stats +8 ketika berubah)^000000
+   
+Jenis : ^777777Accessories^000000
+Posisi : ^777777Lower^000000
+Def : ^7777770^000000
 Berat : ^77777710^000000
-Level Persyaratan : ^77777745^000000
-Profesi : ^777777Semua Profesi^000000
+Lv. Min : ^77777745^000000
+Job : ^777777Semua Job^000000
 #
 2857#
 ^ff0000Item ini tidak dapat ditransaksikan.^000000
@@ -25587,12 +25596,24 @@ Lv Min. : ^77777760^000000
 Job: ^777777Semua Job^000000
 #
 5360#
-Menambahkan damage dari serangan kritikal yang dilancarkan kepada lawan sebanyak 10%, Menambahkan kesempatan ignored magical defense selama 5 detik ketika menerima serangan magic, FLEE + 10.
-Jenis : ^777777Pelindung Kepala^000000    Def : ^7777774^000000
-Letak : ^777777Atas^000000
+Telinga hitam Wickebine.
+   
+CRIT Damage +10%
+FLEE +10
+   
+Memiliki kesempatan untuk mengabaikan MDEF selama 5 detik ketika melakukan serangan magic.
+   
+^0000ff[Combo Bonus]^000000
+^0000ff[Whikebain's Black Tail]^000000
+CRIT Damage +10%
+^ff0000Jika tingkat tempa [Wickebine's Black Cat Ears] lebih dari 7, CRIT +5^000000
+   
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777774^000000
 Berat : ^77777720^000000
-Level Persyaratan : ^77777745^000000
-Untuk Profesi : ^777777Semua Profesi^000000
+Lv. Min : ^77777745^000000
+Job : ^777777Semua Job^000000
 #
 5361#
 Syal yang sering dipakai oleh para penjahat.
@@ -26048,12 +26069,18 @@ Dikenakan di : ^777777Atas^000000    Berat : ^7777777^000000
 Job : ^777777Semua^000000
 #
 5423#
-mengunakan hati untuk mengungkapkan cinta di tahun baru china . Kamu akan merasakan kekuatan naga yang sebenarnya saat kamu mengutarakan cinta.
-Mengurangi serangan dari human monster sebesar  10% 
-DEX + 3,tidak dapat di tempa
-Jenis : ^777777Headgear^000000    Def : ^77777710^000000
-Dipakai di : ^777777Atas^000000    Berat : ^77777725^000000
-Untuk Profesi : ^777777Semua Profesi^000000
+Mengunakan hati untuk mengungkapkan cinta di tahun baru china.
+ 
+Mengurangi serangan dari ^0000FFDemi Human^000000 sebesar  10% 
+DEX + 3
+^777777Tidak dapat ditempa^000000
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^77777710^000000
+Berat : ^77777725^000000
+Lv Min. : ^7777771^000000
+Untuk Profesi : ^777777Semua Job^000000
 #
 5429#
 Topi lucu hobgoblin.
@@ -26206,14 +26233,17 @@ Untuk Profesi : ^777777Semua Profesi^000000
 #
 5462#
 Sebuah selendang yang berduri.
-VIT + 1.
-Meningkatkan serangan terhadap monster demi human sebesar 1%.
-Meningkatkan toleransi serangan dari monster demi human sebesar 1%.
-Jenis : ^777777Pelindung Kepala^000000    Tk Def : ^7777771^000000
-Posisi : ^777777Bawah^000000    Berat : ^77777710^000000
-Level Persyaratan : ^77777790^000000
-Untuk Profesi : ^777777Semua^000000
  
+VIT + 1. 
+Meningkatkan serangan terhadap monster ^0000ffDemi Human^000000 sebesar 1%. 
+Meningkatkan toleransi serangan dari monster ^0000ffDemi Human^000000 sebesar 1%. 
+ 
+Jenis : ^777777Headgear^000000
+Posisi : Lower
+Def : ^7777771^000000 
+Berat : ^77777710^000000 
+Lv Min : ^77777790^000000 
+Job : ^777777Semua Job^000000 
 #
 5463#
 Sebuah selendang dengan warna pelangi.
@@ -27902,11 +27932,15 @@ Job : ^777777Semua Job^000000
 #
 5800#
 Kamu bisa merasakan perasaan tersipu-sipunya calon pengantin jika memakai ini.
-Mengurangi serangan yang diterima dari Jenis Demi-Human sebesar 3%.
-Jenis: ^777777Headgear^000000 Def: ^7777770^000000
-Posisi : ^777777Middle^000000 Berat: ^7777775^000000
-Lv. Minimal: ^7777771^000000
-Job: ^777777All Job^000000
+ 
+Mengurangi serangan yang diterima dari Jenis ^0000FFDemi Human^000000 sebesar 3%.
+ 
+Jenis: ^777777Headgear^000000
+Posisi : ^777777Middle^000000
+Def: ^7777770^000000
+Berat: ^7777775^000000
+Lv Min: ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 5803#
 Sebuah bando yang terbuat dari rangkaian bunga kasih sayang. Memberikan kemungkinan mendapatkan Yggdrasilseed saat membunuh monster 
@@ -28909,6 +28943,11 @@ Sebuah bahan yang tidak pernah ditemui di Rune Midgard. Kelihatannya bahan ini s
 Berat : ^7777771^000000
  
 #
+6053#
+Simbol dari sebuah kekayaan. Sangat disukai oleh banyak orang
+ 
+Berat : ^77777710^000000
+#
 6073#
 Helai bulu misterius berwarna biru dari Naga. Dengan warnanya yang cantik dan lembut seperti sutra digunakan sebagai dekorasi.
 ^ffffff_^000000
@@ -29832,9 +29871,9 @@ Pecahan dari Bradium
 Berat : ^7777771^000000
 #
 6320#
-Orang-orang berkata jika kamu pergi ke NPC yang mengetahui tentang batu ini, kamu bisa menggunakan layanan Reset Status.
-Berat : ^7777770^000000
- 
+Orang-orang berkata jika kamu pergi ke NPC ^ffffff<NAVI>^4D4DFF[The Great Alchemist]^000000<INFO>prontera,162,127,0,100,0,0</INFO></NAVI>^000000, kamu bisa menggunakan layanan Reset Status.
+   
+Berat: ^7777770^000000
 #
 6321#
 Helm dengan tanduk. Bisa dijual di Kolektor Item 
@@ -30691,70 +30730,70 @@ Berat : ^7777770^000000
 #
 6636#
 Batu yang berisi STR.
-Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum atas kamu.
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum atas kamu.
 STR + 1.
  
 Berat : ^77777710^000000
 #
 6637#
 Batu yang berisi INT.
-Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum atas kamu.
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum atas kamu.
 INT + 1.
  
 Berat : ^77777710^000000
 #
 6638#
 Batu yang berisi AGI.
-Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum atas kamu.
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum atas kamu.
 AGI + 1.
  
 Berat : ^77777710^000000
 #
 6639#
 Batu yang berisi DEX.
-Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum atas kamu.
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum atas kamu.
 DEX + 1.
  
 Berat : ^77777710^000000
 #
 6640#
 Batu yang berisi VIT.
-Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum atas kamu.
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum atas kamu.
 VIT + 1.
  
 Berat : ^77777710^000000
 #
 6641#
 Batu yang berisi LUK.
-Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum atas kamu.
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum atas kamu.
 LUK + 1.
  
 Berat : ^77777710^000000
 #
 6642#
 Batu yang berisi ATK.
-Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum tengah kamu.
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum tengah kamu.
 ATK + 1%.
  
 Berat : ^77777710^000000
 #
 6643#
 Batu yang berisi MATK.
-Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum tengah kamu.
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum tengah kamu.
 MATK + 1%.
  
 Berat : ^77777710^000000
 #
 6644#
 Batu yang berisi HIT.
-Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum bawah kamu.
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum bawah kamu.
 HIT + 1.
  
 Berat : ^77777710^000000
 #
 6645#
 Batu yang berisi FLEE.
-Berikan kepada [Aver De Dosh] di Prontera berlokasi 167 125 untuk enchant kostum bawah kamu.
+Berikan kepada NPC ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>prontera,167,124,0,100,0,0</INFO></NAVI>^000000 untuk enchant kostum bawah kamu.
 FLEE + 1.
  
 Berat : ^77777710^000000
@@ -34734,6 +34773,11 @@ Tukarkan item ini dengan beragam hadiah menarik di ^4D4DFFNPC World Cup Exchange
           
 Berat : ^7777770^000000 
 #
+7555#
+Green Incese yang memberikan aroma ketika digunakan.
+ 
+Berat : ^7777770^000000
+#
 7561#
 sebuah frozen heart yang memberikan 
 nuansa dingin jika menyentuhnya.
@@ -38295,11 +38339,10 @@ effectiveness.
 Berat: ^7777771^000000
 #
 11502#
-A potion made from 
-grinded Blue Herbs that restores about ^00008860 SP^000000.
-^ffffff_^000000
-Berat : ^7777771^000000
+Potion terbuat dari Blue Herb.
+Memberikan ^00008860 SP^000000. 
  
+Berat : ^7777771^000000 
 #
 11503#
 Sebuah potion yang terbuat dari ramuan halus White Herbs yang dapat mengembalikan ^000088400~500 HP^000000.
@@ -38918,22 +38961,8 @@ Box berisi hadiah untuk peserta IGF 2024 !!
 Berat: ^7777772^000000
 #
 12036#
-Saat digunakan, memberikan buff "^FF0000Y-ON^000000" selama 30 detik
-         
-Buff "^FF0000Y-ON^000000" effect:
-Saat melakukan serangan (fisik/magic),
-Memberikan debuff "^FF0000Virus Y-01^000000" kepada lawan selama 5 detik
-         
-Debuff ^FF0000Virus Y-01^000000 effect:
-Resist element berikut berkurang sebesar 30%:
-         
-^4D4DFFShadow^000000
-^4D4DFFGhost^000000
-^4D4DFFWater^000000
-^4D4DFFEarth^000000
-^4D4DFFPoison^000000
-         
-Cooldown: ^7777775 Detik^000000
+Sebuah kotak yang berisi item-item eksklusif Chinese New Year 2025
+   
 Berat: ^7777775^000000
 #
 12040#
@@ -39934,9 +39963,11 @@ Berat : ^7777771^000000
 #
 12213#
 Sebuah tongkat yang memiliki fungsi spesial.
-Tongkat ini berkuatan magic yang dapat membuat diri kita seperti baru.
-^ffffff_^000000
-Berat : ^7777771^000000
+Tongkat ini memiliki kekuatan magis yang dapat membuat diri kita seperti baru.
+   
+^ff0000Barang tidak dapat digunakan jika karakter menggunakan Peco-Peco, Falcon dan Cart.^000000
+^ff0000Kosongkan inventory-mu sebelum menggunakan item ini.^000000
+Berat : ^7777771^000000 
 #
 12214#
 Sebuah kaca ajaib.
@@ -42001,11 +42032,10 @@ Giant fly wing ?dengan item ini grup akan teleport ke random area ketika digunak
 Berat : ^7777771^000000
 #
 12911#
-sebuah kotak yang berisi  1 shining stick . Hati ?hati barang pecah! 
-^ffffff_^000000
-Shining stick ?Karakter dapat mereset skillnya dengan item ini.
-^ffffff_^000000
-Berat : ^7777771^000000
+sebuah kotak yang berisi  1 Neuralizer.
+^0000ffNeuralizer - Karakter dapat mereset skillnya dengan item ini.^000000
+   
+Berat : ^7777771^000000 
 #
 12912#
 Sebuah kotak yang berisi 10 buah convex mirrors.Hati ?hati barang pecah! 
@@ -54922,14 +54952,18 @@ Level Persyaratan : ^7777771^000000
 Profesi : ^777777Semua^000000
 #
 18600#
-sebuah beret lucu yang membuat kita seolah-olah seperti kucing karena hiasan telinganya.
-ATK + 5%.
-Jika mengupgradenya lebih dari +5, akan meningkatkan serangan kepada monster "Demi-Human" sebesar 1% dan meningkatkan toleransi 1% dari serangan monster bertipe "Demi-Human".
-(bonus ini maksimal didapat sampai +12, hingga 7%) 
-Jenis : ^777777Helm^000000 Def : ^7777775^000000
-Posisi : ^777777Atas ^000000Berat : ^77777730^000000
-Level Persyaratan : ^7777771^000000
-Profesi : ^777777Semua^000000
+Sebuah beret lucu yang membuat kita seolah-olah seperti kucing karena hiasan telinganya.
+   
+Meningkatkan serangan terhadap semua jenis monster +5%.
+   
+Jika ditempa lebih dari +5, meningkatkan serangan sekaligus mengurangi damage yang diterima dari monster ^0000ffDemi-Human^000000 sebesar 1%.
+   
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777776^000000
+Berat : ^77777730^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 18601#
 Topi roti merah untuk wanita yang lucu 
@@ -56756,7 +56790,22 @@ Lv Minimum : ^77777770^000000
 Job : ^777777Semua Profesi^000000
 #
 18939#
-
+Sebuah beret dengan hiasan telinga kucing yang lucu. Semakin penampilannya mirip dengan kucing, semakin kuat juga kekuatan yang dipancarkan.
+   
+Meningkatkan efektivitas penyembuhan dari ^0000ffDelicious Fish^000000 sebesar 75%
+   
+^0000ff[Combo Bonus]^000000
+^0000ff[Whikebain's Black Tail]^000000
+^ff0000Memiliki kesempatan untuk bertransformasi menjadi Wild Rose ketika melakukan serangan fisik. (All Stats +8 ketika berubah)^000000
+   
+^ff0000Setiap tingkat tempa akan meningkatkan kesempatan untuk bertransformasi menjadi Wild Rose.^000000
+   
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777775^000000
+Berat : ^77777730^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 18940#
 Topi yang penuh dengan kekuatan magis
@@ -57021,6 +57070,18 @@ Job : ^777777Semua Job^000000
 #
 19004#
 
+#
+19005#
+Balon yang digunakan ketika membuat sebuah party.
+ 
+Mengurangi serangan yang diterima dari ^0000FFDemi Human^000000 sebesar 1%.
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Lower^000000
+Def : ^7777775^000000
+Berat : ^77777720^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 19009#
 
@@ -57635,7 +57696,7 @@ Job : ^777777Semua Job^000000
 Marin melayang diatas kepalamu.
 Aku merasa ini bisa menjadi sebuah jimat keberuntungan.
 Meningkatkan EXP + 5%, Meningkatkan Drop Rate + 5%. 
-Ketika melakukan serangan fisik, terdapat kemungkinan Autocast Lv 1 Quagmire.
+Ketika terkena serangan fisik, terdapat kemungkinan Autocast Lv 1 Quagmire.
   
 Jenis : ^777777Headgear^000000
 Posisi : ^777777Lower^000000
@@ -61005,7 +61066,8 @@ Job : ^777777Semua Job^000000
 19823#
 Sebuah tutup kepala yang berbentuk kuping kucing yang halus.
   
-^FF0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+^ffffff<NAVI>^4D4DFF[Machine Gacha Costume]^000000<INFO>prontera,145,123,0,100,0,0</INFO></NAVI>^000000
+Dapat ditukarkan dengan Costume Enchant Stone Box
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Upper & Middle^000000
@@ -61277,7 +61339,8 @@ Profesi : ^777777Semua Profesi^000000
 19912#
 Meow~ Mengubah matamu menjadi mata kucing yang nakal~
   
-^FF0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+^ffffff<NAVI>^4D4DFF[Machine Gacha Costume]^000000<INFO>prontera,145,123,0,100,0,0</INFO></NAVI>^000000
+Dapat ditukarkan dengan Costume Enchant Stone Box
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Middle^000000
@@ -62138,6 +62201,42 @@ Berat : ^7777770^000000
 Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
+20110#
+Topi dipenuhi dengan kekuatan dewa shio ular.
+  
+^ff0000Durasi Efek :^000000
+^ff0000(23 Januari 2025 - 20 Februari 2025)^000000
+ 
+^ff0000EXP +5%^000000
+^ff0000Drop +5%^000000
+^ff0000Meningkatkan pemulihan SP sebesar 15%^000000
+^ff0000All Stat +3^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
+#
+20111#
+Topi dipenuhi dengan kekuatan dewa shio ular.
+  
+^ff0000Durasi Efek :^000000
+^ff0000(23 Januari 2025 - 20 Februari 2025)^000000
+ 
+^ff0000EXP +5%^000000
+^ff0000Drop +5%^000000
+^ff0000Meningkatkan efektifitas pemulihan HP dari Yellow Potion sebesar 20%^000000
+^ff0000All Stat +3^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
+#
 20112#
 Ten Gallon Hat dengan pola renda biru.
 ini akan membuatmu berpikir musim panas telah tiba.
@@ -62591,7 +62690,8 @@ Job : ^777777Semua Job^000000
 20198#
 Bando lucu yang dibuat mirip dengan telinga kucing.
   
-^FF0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+^ffffff<NAVI>^4D4DFF[Machine Gacha Costume]^000000<INFO>prontera,145,123,0,100,0,0</INFO></NAVI>^000000
+Dapat ditukarkan dengan Costume Enchant Stone Box
   
 Jenis : ^777777Costume^000000
 Posisi : ^777777Upper^000000
@@ -63886,6 +63986,9 @@ Job : ^777777All Job^000000
 20517#
 Tas ransel berbentuk kucing yang lucu.
  
+^ffffff<NAVI>^4D4DFF[Machine Gacha Costume]^000000<INFO>prontera,145,123,0,100,0,0</INFO></NAVI>^000000
+Dapat ditukarkan dengan Costume Enchant Stone Box
+ 
 Jenis : ^777777Costume^000000
 Posisi : ^777777Garment^000000
 Def : ^7777770^000000
@@ -63917,9 +64020,19 @@ Job: ^777777Semua Job^000000
 20522#
 Meow Meow Nya ~ Nya ~. 
 Kostum ini akan membuatmu akan merasa seperti dikelilingi kucing lucu.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box 11.^000000
-Jenis : ^777777Garment^000000 Def : ^7777770^000000
+ 
+^777777All Stat +1^000000
+ 
+^0000ff[Combo Bonus]^000000
+^0000ff[Costume White Cat]^000000
+^0000ff[Costume DJ Headset]^000000
+ 
+^ff0000All Stat +1^000000
+^ff0000EXP +5%^000000
+^ff0000Drop +5%^000000
+ 
+Jenis : ^777777Garment^000000
+Def : ^7777770^000000
 Berat : ^7777770^000000
 Syarat Lv : ^7777771^000000
 Job : ^777777All Job^000000
@@ -70249,6 +70362,11 @@ Terdapat 3 Jenis enchant stone baru dari versi enchant stone box Sebelumnya.
 Kamu bisa mendapatkan Enchant Stone Genetic, atau Warlock (Garment).
 Berat : ^7777771^000000
 #
+23645#
+Sebuah Box berisi 25 buah Blue Potion.
+^ffffff_^000000
+Berat: ^7777771^000000
+#
 23647#
 Flute yang dipakai para Ksatria untuk memanggil Super Ultra Great Peco.
 ^ff0000Re-login karakter atau pindah map untuk summon ulang.^000000
@@ -70934,25 +71052,48 @@ Job : ^777777All Job^000000
 #
 24034#
 Sarung tangan yang digunakan untuk memegang senjata yang bisa mengeluarkan kemampuan asli penggunanya.
+   
 LUK + 1.
-Jika tingkat tempa mencapai 7, LUK + 1.
-Jika tingkat tempa mencapai 9, LUK + 1.
-Jika memakai ^32CD32Lucky (Weapon, Armor) Shadow^000000 bersamaan, LUK + 1.
+ATK +1 untuk setiap tingkat tempa
+MATK +1 untuk setiap tingkat tempa
+Jika ditempa hingga +7, LUK + 1.
+Jika ditempa hingga +9, LUK + 1.
+   
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Lucky Shadow Weapon]^000000
+^32CD32[Lucky Shadow Armor]^000000
+^ff0000LUK +1^000000
+---------
+   
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Weapon^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Shadow Weapon^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24035#
 Sebuah Earring yang bisa meningkatkan kemampuan penggunanya.
+   
 STR + 1.
+Max HP +10 untuk setiap tingkat tempa.
 Jika tingkat tempa mencapai 7, STR + 1.
 Jika tingkat tempa mencapai 9, STR + 1.
-Jika memakai ^32CD32Power (Earring, Pendant) Shadow^000000 bersamaan, STR + 1.
+   
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Power Shadow Earring]^000000
+^32CD32[Power Shadow Pendant]^000000
+^ff0000STR +1^000000
+---------
+   
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Earring^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Aksesoris (Kanan)^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24036#
 Sebuah Pendant yang bisa meningkatkan kemampuan penggunanya.
@@ -70999,24 +71140,48 @@ Lv Minimal : ^7777771^000000
 Job : ^777777All Job^000000
 #
 24040#
-Efek defensif tambahan bisa didapatkan jika dipakai bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
-LUK + 1.
-Setiap 2 tingkat tempa, tingkat kritikal + 1.
-Jika memakai ^32CD32Lucky (Weapon, Armor) Shadow^000000 bersamaan, LUK + 1.
+Sebuah Armor yang bisa mengeluarkan kemampuan asli penggunanya.
+   
+LUK + 1. 
+Max HP +10 untuk setiap tingkat tempa
+CRIT Damage +1 untuk setiap 2 tingkat tempa
+Jika ditempa hingga +7, LUK +1.
+Jika ditempa hingga +9, LUK +1.
+   
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Lucky Shadow Weapon]^000000
+^32CD32[Lucky Shadow Armor]^000000
+^ff0000LUK +1^000000
+---------
+   
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Armor^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Shadow Armor^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24041#
 Sebuah Pendant yang bisa meningkatkan kemampuan penggunanya.
-STR + 1.
-Setiap tingkat tempa, ATK + 1.
-Jika memakai ^32CD32Power (Earring, Pendant) Shadow^000000 bersamaan, STR + 1.
+   
+STR + 1
+Max HP +10 untuk setiap tingkat tempa.
+ATK + 1 untuk setiap tingkat tempa.
+   
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Power Shadow Earring]^000000
+^32CD32[Power Shadow Pendant]^000000
+^ff0000STR +1^000000
+---------
+   
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Pendant^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Aksesoris (Kiri)^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24042#
 Sebuah Earring yang bisa meningkatkan kemampuan penggunanya.
@@ -89887,13 +90052,14 @@ Posisi : ^777777Atas^000000    Berat : ^7777770^000000
 Profesi : ^777777Semua^000000
 #
 31178#
-Sebuah Muffler yang terbuat dari bulu KASA.
+Sebuah Muffler yang terbuat dari bulu Kasa.
+   
 Jenis : ^777777Costume^000000
+Posisi : ^777777Lower Costume^000000
 Def : ^7777770^000000
-Digunakan di : ^777777Lower Costume^000000
-Berat : ^7777771^000000
-Diperlukan Lv. : ^7777771^000000
-Profesi : ^777777Semua Profesi^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 31179#
 ^000088Costume Wolf Musketeer^000000
@@ -90076,7 +90242,8 @@ Job : ^777777All^000000
 31251#
 Kostum yang dibuat mirip dengan mulut kucing.
   
-^FF0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+^ffffff<NAVI>^4D4DFF[Machine Gacha Costume]^000000<INFO>prontera,145,123,0,100,0,0</INFO></NAVI>^000000
+Dapat ditukarkan dengan Costume Enchant Stone Box
   
 Jenis : ^777777Costume^000000
 Def : ^7777770^000000
@@ -91381,7 +91548,8 @@ Job : ^777777All Job^000000
 31456#
 Topi boneka untuk memperingati mamalia yang terancam punah, Baby Leopard.
   
-^FF0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+^ffffff<NAVI>^4D4DFF[Machine Gacha Costume]^000000<INFO>prontera,145,123,0,100,0,0</INFO></NAVI>^000000
+Dapat ditukarkan dengan Costume Enchant Stone Box
   
 Jenis : ^777777Costume^000000
 Def : ^7777770^000000
@@ -91706,6 +91874,23 @@ Jenis : ^777777Costume^000000 Def : ^7777770^000000
 Posisi : ^777777Upper ^000000Berat : ^7777770^000000
 Syarat Lv : ^7777771^000000
 Syarat Job : ^777777Semua Job^000000
+#
+31522#
+Manis dan Asam menjadi satu.
+   
+^ff0000Durasi Efek^000000
+^ff0000(23 Januari 2025 - 20 Februari 2025)^000000
+^ff0000EXP +5%^000000
+^ff0000Drop +5%^000000
+^ff0000All Stats +3^000000
+^ff0000Dapat menggunakan skill Teleport Lv. 1^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 31525#
 Deviling kecil chubby yang terbang disekitar mu
@@ -93151,20 +93336,20 @@ Job : ^777777All Job^000000
 #
 31903#
 Ular putih albino diatas kepalamu, menggemaskan!
-------------------------
-ASPD +2.
-Variable Cast Time -5%.
-Crit +5.
-------------------------
-[Apabila digunakan dengan Costume Supreme yang sedang aktif:]
-Dapat melihat lawan yang menghilang.
-ATK +10%, MATK +10%.
-------------------------
+ 
+^ff0000Durasi Efek :^000000
+^ff0000(23 Januari 2025 - 20 Februari 2025)^000000
+ 
+^ff0000Durasi Efek :^000000
+^ff0000EXP +2%^000000
+^ff0000Drop +2%^000000
+^ff0000All Stat +2^000000
+ 
 Jenis : ^777777Costume^000000
-Def : ^7777770^000000
 Posisi : ^777777Upper^000000
+Def : ^7777770^000000
 Berat : ^7777770^000000
-Lv minimal : ^7777771^000000
+Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 31905#
@@ -97069,7 +97254,9 @@ Berat : ^7777771^000000
 
 #
 100705#
-
+Dapat menggunakan skill Magnificat Level 5.
+   
+Berat: 1
 #
 100707#
 Buka untuk mendapatkan ^FF0000salah 1 item^000000 dari list berikut:
@@ -98515,6 +98702,12 @@ Kelucuan costume ini akan memberi keberuntungan untuk kamu.
  
 Berat : ^7777771^000000
 #
+103996#
+Sebuah Scroll yang melambangkan api semangat perayaan tahun baru Imlek.
+Berisi berbagai macam equipment menarik.
+ 
+Berat : ^7777771^000000
+#
 200000#
 Gives 1 wing of a fly upon consumption.
 Berat : ^7777771^000000
@@ -98635,10 +98828,16 @@ Berat: ^7777771^000000
 
 #
 200182#
-
+sebuah kotak yang berisi  1 Neuralizer.
+^0000ffNeuralizer - Karakter dapat mereset skillnya dengan item ini.^000000
+   
+Berat : ^7777771^000000 
 #
 200183#
-
+Sebuah kotak yang berisi 1 buah Premium Reset Stone. 
+^ff0000Item ini tidak dapat dikembalikan.^000000 
+ 
+Berat : ^7777771^000000 
 #
 200374#
 
@@ -100462,6 +100661,23 @@ Flee +20
 Jenis : ^777777Costume^000000
 Def : ^7777770^000000
 Posisi : ^777777Upper^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
+#
+400186#
+Ular diatas kepalamu yang sangat menggemaskan!
+ 
+^ff0000Durasi Efek :^000000
+^ff0000(23 Januari 2025 - 20 Februari 2025)^000000
+ 
+^ff0000EXP +2%^000000
+^ff0000Drop +2%^000000
+^ff0000All Stat +2^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
 Berat : ^7777770^000000
 Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
