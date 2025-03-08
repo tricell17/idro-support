@@ -254,8 +254,10 @@ Berat : ^7777775^000000
 #
 552#
 Makanan khas yang biasanya disajikan saat hari raya Idul Fitri.
-Memulihkan 10% dari Max HP.
-^ffffff_^000000
+ 
+^ff0000HP +70^000000
+^ff0000SP +90^000000
+ 
 Berat : ^7777771^000000
 #
 553#
@@ -449,19 +451,13 @@ Berat: ^77777715^000000
  
 #
 593#
-Kue Pancake Madu. Rasanya sangat manis.
-^000088Menyembuhkan status abnormal^000000, ^000088Menyembuhkan HP dan SP^000000
-^ffffff_^000000
+^000088Kue Pancake Madu. Rasanya sangat manis.^000000
+^0000ffMenghilangkan status Abnormal dan menyembuhkan HP & SP^000000
+ 
+^ff0000Item ini tidak dapat ditransaksikan.^000000
+^ff0000Item ini akan dihapus ketika event Valentine selesai.^000000
+ 
 Berat : ^77777715^000000
- 
-A very sweet pancake 
-topped with honey.
-^000088Cures all abnormal 
-statuses^000000, ^000088recovers 
-HP and SP^000000.
-^ffffff_^000000
-Berat: ^77777715^000000
- 
 #
 594#
 Kue Pancake cream. Jangan sampai berantakan dalam memakannya.
@@ -3219,6 +3215,12 @@ Level Persyaratan : ^77777740^000000
 Jobs : ^777777Acolyte^000000
  
 #
+1194#
+
+#
+1195#
+
+#
 1196#
 Pedang yang terbuat dari Bradium, mineral dari dunia lain 
 Tidak dapat dihancurkan 
@@ -3250,6 +3252,9 @@ Berat : ^7777770^000000
 Senjata Lv : ^7777771^000000
 Untuk karakter Lv : ^77777750^000000
 Job : ^777777Swordman^000000
+#
+1199#
+
 #
 1201#
 Pisau biasa.
@@ -4214,6 +4219,15 @@ Level Persyaratan : ^77777750^000000
 Profesi : ^777777High Swordman dan High Merchant^000000
  
 #
+1314#
+
+#
+1315#
+
+#
+1316#
+
+#
 1317#
 Kapak, yang disediakan oleh  Academy
 Serangan meningkat hingga  5%.(Mengurangi waktu tunda setelah serangan hingga 5%)
@@ -4719,6 +4733,12 @@ Level Persyaratan : ^77777750^000000
 Profesi : ^777777High Swordman dan High Merchant^000000
  
 #
+1389#
+
+#
+1390#
+
+#
 1391#
 ^ff0000Tidak dapat di transaksikan.^000000
 Kapak yang dibuat oleh Eden Group. Sangat cocok untuk mereka yang memiliki pengalaman lebih, dalam menggunakan kapak dua tangan.
@@ -4796,6 +4816,9 @@ Berat : ^777777550^000000
 Level Senjata : ^7777774^000000
 Minimum Level : ^77777795^000000
 Jobs : ^777777Swordman dan Merchant^000000
+#
+1397#
+
 #
 1398#
 ^ff0000Barang ini tidak bisa ditransaksikan.^000000
@@ -5079,6 +5102,12 @@ Berat : ^7777770^000000
 Senjata Level : ^7777773^000000
 Profesi : ^777777Swordman^000000
  
+#
+1431#
+
+#
+1432#
+
 #
 1433#
 Tombak legenda dengan simbol Rune Kingdom 
@@ -6452,6 +6481,12 @@ Senjata Level : ^7777773^000000
 Profesi : ^777777Priest, Sage, Taekwon Master^000000
  
 #
+1581#
+
+#
+1582#
+
+#
 1583#
 ^ff0000Tidak dapat di transaksikan.^000000
 Sebuah buku yang dibuat oleh Eden Group. Sangat cocok untuk mereka yang memiliki pengalaman lebih, dalam menggunakan buku sihir.
@@ -7217,6 +7252,9 @@ Berat : ^77777750^000000
 Senjata Level : ^7777773^000000
 Level Persyaratan : ^777777102^000000
 Untuk Profesi : ^777777Sorcerer ^000000
+#
+1655#
+
 #
 1656#
 Wand, yang disediakan oleh  Academy
@@ -9904,6 +9942,9 @@ Level Senjata : ^7777774^000000
 Minimum Level : ^77777795^000000
 Jobs: ^777777Mage, Acolyte, dan Soul Linker^000000
 #
+2017#
+
+#
 2018#
 ^ff0000Barang ini tidak bisa ditransaksikan.^000000
 Tongkat Sihir yang dibuat dari Metal kualitas terbaik dengan menambahkan Phracon dan Emvertacon kepada Bajanya
@@ -10672,6 +10713,9 @@ Untuk Profesi : ^777777Royal Guard ^000000
 2154#
 
 #
+2155#
+
+#
 2156#
 Sebuah buku kuno yang berisi lagu suci yang diturunkan dari katedral. Dikatakan bahwa buku ini sangat laku, diterbitkan sebagai salah satu seri.
 Memungkinkan pengguna untuk menggunakan Odin Power Level 1.
@@ -10679,6 +10723,9 @@ Jenis : ^777777Perisai^000000 Def : ^77777710^000000
 Berat : ^77777750^000000
 Level Persyaratan : ^777777110^000000
 Profesi : ^777777Archbishop^000000
+#
+2157#
+
 #
 2158#
 Magical Shield
@@ -12861,6 +12908,9 @@ Berat : ^7777770^000000
 Level Persyaratan : ^77777775^000000
 Untuk Profesi : ^777777Semua Job^000000
 #
+2464#
+
+#
 2465#
 Sepatu yang sangat cocok untuk berdansa.
 AGI + 1, Meningkatkan Aspd. (mengurangi delay setelah menyerang sebesar 2%).
@@ -12869,6 +12919,9 @@ Jenis Barang :^777777Shoes^000000 Tk.Defense : ^77777715^000000
 Berat : ^77777730^000000
 Level Persyaratan : ^777777105^000000
 Untuk Profesi : ^777777Wanderer ^000000
+#
+2466#
+
 #
 2467#
 Sepasang sepatu emas yang mempunyai kekuatan angin.
@@ -12934,6 +12987,9 @@ Jenis : ^777777Footwear^000000 Defense : ^77777720^000000
 Berat  : ^7777770^000000
 Dibutuhkan Lv   : ^77777760^000000
 Profesi : ^777777All Profesi^000000
+#
+2474#
+
 #
 2475#
 Greaves yang dibuat dari menyucikan sebuah Ur Rune.
@@ -13052,6 +13108,15 @@ Jenis : ^777777Shoes^000000    DEF : ^7777770^000000
 Berat : ^777777200^000000
 Lv Minimal : ^77777775^000000
 Job : ^777777Job Trans^000000
+#
+2487#
+
+#
+2488#
+
+#
+2489#
+
 #
 2491#
 Sepatu mengerikan yang memancarkan pembalasan Bangungot dan kebencian kuat dari manusia.
@@ -13577,6 +13642,9 @@ Berat : ^7777770^000000
 Digunakan Level: ^77777747^000000
 Profesi: ^777777Semua Job^000000
 #
+2567#
+
+#
 2568#
 ^ff0000Account-Bound.^000000
 ^ff0000Dapat dijual ke NPC.^000000
@@ -13617,6 +13685,9 @@ Jenis : ^777777Garment^000000 Defense : ^77777718^000000
 Berat  : ^7777770^000000
 Dibutuhkan Lv   : ^77777760^000000
 Profesi : ^777777All Profesi^000000
+#
+2572#
+
 #
 2573#
 Sayap putih Archangel yang menawan.
@@ -13714,6 +13785,12 @@ Berat : ^77777740^000000
 Dibutuhkan Level : ^777777130^000000
 Profesi : ^777777Warlock/Archbishop^000000
 #
+2583#
+
+#
+2584#
+
+#
 2585#
 ^ff0000Tidak bisa ditransaksikan dengan pemain lain.^000000
 Sebuah syal yang dicarancang kshusu dan didalamnya mengandung kekuatan sihir.
@@ -13745,6 +13822,9 @@ Berat : ^77777740^0000000
 Minimum Level : ^77777795^000000
 Jobs : ^777777Semua^00000000
 #
+2588#
+
+#
 2589#
 Sayap raksasa hitam dari malaikat yang jatuh ke rune midgard.
 All Stats + 1.
@@ -13774,6 +13854,12 @@ Mengurangi 10% serangan dari Monster elemen air, tanah, api dan angin.
 Class : ^777777Garment^000000    Pertahanan : ^7777778^000000
 Berat : ^77777720^000000
 Job : ^777777Semua job^000000
+#
+2592#
+
+#
+2594#
+
 #
 2597#
 Item ini seperti dilumuri dengan darah.
@@ -14026,6 +14112,12 @@ Jenis : ^777777Aksesoris^000000
 Tk.Defense ^7777770^000000      Berat : ^7777771^000000
 Level Persyaratan : ^777777N/A^000000
 Untuk Profesi : ^777777Semua profesi^000000
+#
+2632#
+
+#
+2633#
+
 #
 2634#
 Cincin yang digunakan oleh mempelai laki-laki dalam upacara pernikahan. Di bagian tengah cincin itu ada batu berwarna biru yang berkilau yang melambangkan cinta.
@@ -14373,254 +14465,133 @@ Berat: ^7777770^000000^FFFFFF                 ^000000 Job: ^777777Semua kecuali 
  
 #
 2688#
-^000088Rental Item^000000
+^0000ff[Rental Item]^000000
+ 
 Cincin yang dibuat hanya sedikit untuk membangkitkan kekuatan tersembunyi pemakainya.
-Critical + 10% 
+ 
+CRIT +10
+ 
+^ff0000Item ini tidak dapat dipindahkan ke akun lain^000000
+^ff0000Item ini tidak dapat dimasukkan ke dalam Storage^000000
+ 
 Jenis : ^777777Aksesoris^000000
-Tk Def : ^7777770^000000       
+Def : ^7777770^000000
 Berat : ^7777770^000000
-Level Persyaratan : ^7777771^000000
-Profesi : ^777777Semua profesi kecuali novice^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
 #
 2689#
-^FF0000[Effect Permanent]^000000
-INT +5
-DEX +5
-EXP +25%
-          
-^FF0000Jika dipakai oleh job^000000
-^4D4DFFSoul Reaper^000000
-          
-All Stat +5
-          
-Per 15 Base Lv:
-MaxHP +1%
-MaxSP +1%
-MaxHP +500
-MaxHP +50
-          
-^FF0000Set Bonus^000000
-^4D4DFFSoul Reaper Class^000000
-^4D4DFFBase Level 175^000000
-          
-MaxHP +9%
-MaxSP +9%
-MaxHP +1000
-MaxSP +100
-          
-Immune Freeze
-Immune Stun
-Immune Sleep
-          
-^FF0000Set Bonus^000000
-^4D4DFFSoul Reaper Class^000000
-^4D4DFFPremium Service^000000
-          
-Drop Rate +50%
-Reduce damage dari semua element 10%
-Reduce damage dari monster Normal 10%
-Reduce damage dari monster Boss 10%
-          
-^FF0000Set Bonus^000000
-^4D4DFFSoul Reaper Class^000000
-^4D4DFFSoul Reaper Ring [1]^000000
-^4D4DFFSoul Reaper Weapon [1]^000000
-          
-Enable Skill ^4D4DFF"Blessing Lv10"^000000
-Enable Skill ^4D4DFF"Increase Agility Lv10"^000000
-VIT +5
-INT +5
-LUK +5
-Reduce damage dari Player 5%
-Reduce range damage 5%
-------------------------
+^0000ff[Rental Item]^000000
+ 
+Hiasan yang digantung dikuping. Meningkatkan Intelligence pemakainya.
+ 
+INT +3
+ 
+^ff0000Item ini tidak dapat dipindahkan ke akun lain^000000
+^ff0000Item ini tidak dapat dimasukkan ke dalam Storage^000000
+ 
 Jenis : ^777777Aksesoris^000000
-Syarat Lv : ^7777771^000000
+Def : ^7777770^000000
 Berat : ^7777770^000000
-Job : ^777777All Job^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
 #
 2690#
-^FF0000[Effect Permanent]^000000
-STR +5
-AGI +5
-EXP +25%
-          
-^FF0000Jika dipakai oleh job^000000
-^4D4DFFStar Emperor^000000
-          
-All Stat +5
-          
-Per 15 Base Lv:
-MaxHP +1%
-MaxSP +1%
-MaxHP +500
-MaxHP +50
-          
-^FF0000Set Bonus^000000
-^4D4DFFStar Emperor Class^000000
-^4D4DFFBase Level 175^000000
-          
-MaxHP +9%
-MaxSP +9%
-MaxHP +1000
-MaxSP +100
-          
-Immune Freeze
-Immune Stun
-Immune Sleep
-          
-^FF0000Set Bonus^000000
-^4D4DFFStar Emperor Class^000000
-^4D4DFFPremium Service^000000
-          
-Drop Rate +50%
-Reduce damage dari semua element 10%
-Reduce damage dari monster Normal 10%
-Reduce damage dari monster Boss 10%
-          
-^FF0000Set Bonus^000000
-^4D4DFFStar Emperor Class^000000
-^4D4DFFStar Emperor Ring [1]^000000
-^4D4DFFStar Emperor Weapon [1]^000000
-          
-Enable Skill ^4D4DFF"Guard Lv10"^000000
-VIT +5
-INT +5
-LUK +5
-Reduce damage dari Player 5%
-Reduce range damage 5%
-------------------------
+^0000ff[Rental Item]^000000
+ 
+Sebuah cincin kuno.
+ 
+STR +4
+ 
+^ff0000Item ini tidak dapat dipindahkan ke akun lain^000000
+^ff0000Item ini tidak dapat dimasukkan ke dalam Storage^000000
+ 
 Jenis : ^777777Aksesoris^000000
-Syarat Lv : ^7777771^000000
+Def : ^7777770^000000
 Berat : ^7777770^000000
-Job : ^777777All Job^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
 #
 2691#
-^FF0000[Effect Permanent]^000000
-All Stat +5
-ATK +2%
-MaxHP +3%
-MaxSP +3%
-Mengurangi damage yang diterima dari all size monster -3%
-Mengurangi damage yang diterima dari semua element -3%
-------------------------
-^FF0000[Premium Service Bonus]^000000
-EXP +25%
-Drop Rate +25%
-MaxHP +500
-MaxSP +100
-------------------------
+^0000ff[Rental Item]^000000
+ 
+Kalung Ratu jaman dahulu. Meningkatkan Vitality pemakainya.
+ 
+VIT + 4
+ 
+^ff0000Item ini tidak dapat dipindahkan ke akun lain^000000
+^ff0000Item ini tidak dapat dimasukkan ke dalam Storage^000000
+ 
 Jenis : ^777777Aksesoris^000000
-Posisi : ^777777Aksesoris (Kiri)^000000
-Syarat Lv : ^7777771^000000
-Berat : ^77777710^000000
-Job : ^777777All Job^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
 #
 2692#
-^FF0000[Effect Permanent]^000000
-All Stat +5
-MATK +2%
-MaxHP +3%
-MaxSP +3%
-Mengurangi damage yang diterima dari all size monster -3%
-Mengurangi damage yang diterima dari semua element -3%
-------------------------
-^FF0000[Premium Service Bonus]^000000
-EXP +25%
-Drop Rate +25%
-MaxHP +500
-MaxSP +100
-------------------------
+^0000ff[Rental Item]^000000
+ 
+Penutup tangan yang ada sihirnya untuk membantu cengkraman. Menjadikan pemakainya lebih akurat.
+ 
+DEX +4
+ 
+^ff0000Item ini tidak dapat dipindahkan ke akun lain^000000
+^ff0000Item ini tidak dapat dimasukkan ke dalam Storage^000000
+ 
 Jenis : ^777777Aksesoris^000000
-Posisi : ^777777Aksesoris (Kiri)^000000
-Syarat Lv : ^7777771^000000
-Berat : ^77777710^000000
-Job : ^777777All Job^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
 #
 2693#
-^FF0000[Effect Permanent]^000000
-          
-All Stat +2
-MATK +50
-MATK +2%
-MaxHP +3%
-MaxSP +3%
-          
-^FF0000[Effect berlaku sampai 30 November 2023]^000000
-Meningkatkan efektivitas skill penyembuhan dan potion +10%
-Terdapat kemungkinan kecil memberikan debuff "Crystallization (Magic)"
-saat memberikan damage (magic) kepada lawan
-          
-^FF0000[Premium Service Bonus]^000000
-All Stat +1
-EXP +25%
-Drop Rate +25%
-Damage ke all Size monster +5%
-          
-^FF0000Set Bonus^000000
-^4D4DFFPatent Sapphire Pendant [1]^000000
-^4D4DFFPatent Weapon Series^000000
-          
-MATK +75
-MaxHP +500
-MaxSP +100
-Damage Magic All Element +5%
-Variable Cast-time -5%
-Bypass Hard MDEF lawan (termasuk player) sebesar 30%.
-------------------------
+^0000ff[Rental Item]^000000
+ 
+Hiasan sihir yang ada jarumnya di belakangnya untuk dipakai di pakaian.
+Meningkatkan Agility pemakainya.
+ 
+AGI +4
+ 
+^ff0000Item ini tidak dapat dipindahkan ke akun lain^000000
+^ff0000Item ini tidak dapat dimasukkan ke dalam Storage^000000
+ 
 Jenis : ^777777Aksesoris^000000
-Posisi : ^777777Aksesoris (Kanan)^000000
-Syarat Lv : ^777777100^000000
-Berat : ^77777710^000000
-Job : ^777777All Job^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
 #
 2694#
-^FF0000[Effect Permanent]^000000
-          
-All Stat +2
-ATK +50
-ATK +2%
-MaxHP +3%
-MaxSP +3%
-          
-^FF0000[Effect berlaku sampai 30 November 2023]^000000
-Meningkatkan efektivitas skill penyembuhan dan potion +10%
-Terdapat kemungkinan kecil memberikan debuff "Crystallization (Magic)"
-saat memberikan damage (magic) kepada lawan
-          
-^FF0000[Premium Service Bonus]^000000
-All Stat +1
-EXP +25%
-Drop Rate +25%
-Damage ke all Size monster +5%
-          
-^FF0000Set Bonus^000000
-^4D4DFFPatent Ruby Necklace [1]^000000
-^4D4DFFPatent Weapon Series^000000
-          
-ATK +75
-MaxHP +500
-MaxSP +100
-Damage ke normal monster (termasuk player) +3%
-Damage serangan jarak-jauh +3%
-After Cast-delay -5%
-Bypass Hard DEF lawan (termasuk player) sebesar 30%.
-------------------------
+^0000ff[Rental Item]^000000
+ 
+Seuntaian bulatan untuk menghitung doa dalam upacara tertentu.
+ 
+LUK +4, MDEF +5
+ 
+^ff0000Item ini tidak dapat dipindahkan ke akun lain^000000
+^ff0000Item ini tidak dapat dimasukkan ke dalam Storage^000000
+ 
 Jenis : ^777777Aksesoris^000000
-Posisi : ^777777Aksesoris (Kanan)^000000
-Syarat Lv : ^777777100^000000
-Berat : ^77777710^000000
-Job : ^777777All Job^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
 #
 2695#
-^000088Rental Item^000000
+^0000ff[Rental Item]^000000
+ 
 Sebuah cincin misterius yang meningkatkan pertahanan pemakainya.
-DEF +5 , MDEF +5 
-Item ini tidak bisa didrop atau ditransaksikan.
+ 
+DEF +8, MDEF +8
+ 
+^ff0000Item ini tidak dapat dipindahkan ke akun lain^000000
+^ff0000Item ini tidak dapat dimasukkan ke dalam Storage^000000
+ 
 Jenis : ^777777Aksesoris^000000
-Tk Def: ^7777778^000000
-Berat: ^7777770^000000
-Level Persyaratan : ^7777771^000000^FFFFFF         ^000000 Job: ^777777Semua kecuali Novice^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
 #
 2696#
 ^000088Rental Item^000000
@@ -15508,6 +15479,12 @@ Jobs : ^777777All Job^000000
 2829#
 
 #
+2834#
+
+#
+2835#
+
+#
 2836#
 ^FF0000[Effect Permanent]^000000
 All Stat +3
@@ -15626,6 +15603,9 @@ Posisi: ^777777Aksesoris (Kiri)^000000
 Lv Min: ^7777771^000000
 Berat: ^77777710^000000
 Job: ^777777All Job^000000
+#
+2837#
+
 #
 2838#
 ^FF0000[Effect Permanent]^000000
@@ -15879,6 +15859,30 @@ Berat : ^77777710^000000
 Level Persyaratan : ^77777780^000000
 Untuk Profesi : ^777777Semua Job^000000
 #
+2845#
+
+#
+2846#
+
+#
+2847#
+
+#
+2848#
+
+#
+2849#
+
+#
+2850#
+
+#
+2851#
+
+#
+2852#
+
+#
 2853#
 Sebuah bola kristal yang mengandung kekuatan misterius.
 INT + 3, MDEF + 1, MSP + 30.
@@ -16076,7 +16080,19 @@ Job : ^777777Semua Job^000000
 2876#
 
 #
+2877#
+
+#
+2878#
+
+#
+2879#
+
+#
 2880#
+
+#
+2882#
 
 #
 2883#
@@ -16125,6 +16141,9 @@ Berat : ^777777100^000000
 Persyaratan Level : ^7777771^000000
 Untuk Profesi : ^777777Semua Profesi^000000
 #
+2889#
+
+#
 2890#
 Sebuah perhiasan yang dimiliki oleh assassin tanpa nama
 DEX + 2, 
@@ -16153,6 +16172,9 @@ Jenis : ^777777Accssory^000000 Defense : ^7777773^000000
 Berat : ^77777740^000000
 Dibutuhkan Level : ^777777100^000000
 Profesi : ^777777Guillotine Cross^000000
+#
+2893#
+
 #
 2894#
 Tampak seperti sarung tangan yang di buat oleh dewa kehancuran
@@ -16205,8 +16227,23 @@ Berat : ^77777710^000000
 Minimum Level : ^77777790^000000
 Jobs : ^777777Hunter / Bard / Dancer^000000
 #
+2900#
+
+#
+2901#
+
+#
+2902#
+
+#
+2903#
+
+#
 2904#
 ABCDEFG!!
+#
+2905#
+
 #
 2906#
 
@@ -16225,6 +16262,9 @@ Class : ^777777Aksesoris^000000
 Pertahanan : ^7777770^000000      Berat : ^77777710^000000
 Job : ^777777Semua job^000000
 #
+2909#
+
+#
 2910#
 Tato Agimat dengan pola naga menelan bulan. Dikatakan bahwa siapa pun yang mengenakan tato ini akan memperoleh kekuatan yang luar biasa.
 Meningkatkan ATK +7% dan ASPD sebesar 10%.
@@ -16238,6 +16278,9 @@ Meningkatkan pemulihan terhadap yang lain sebesar 4% dan pemulihan dari yang lai
 Class : ^777777Aksesoris^000000
 Pertahanan : ^7777770^000000      Berat : ^77777710^000000
 Job : ^777777Semua job^000000
+#
+2912#
+
 #
 2914#
 Mata legendaris yang telah kehilangan semua pengetahuan dan kekuatan magisnya.
@@ -18961,9 +19004,9 @@ Berat : ^7777771^000000
 4303#
 Giant Whisper Card.
 Flee Rate+ 10.
-ATK +20 jika pemakainya memiliki status point str 80 atau lebih.
-Max HP +3% jika pemakainya memiliki status point vit 80 atau lebih.
-Kritikal +3 jika pemakainya memiliki status point luk 80 atau lebih.
+ATK +20 jika pemakainya memiliki status point Base STR 80 atau lebih. 
+Max HP +3% jika pemakainya memiliki status point Base VIT 80 atau lebih. 
+Kritikal +3 jika pemakainya memiliki status point Base LUK 80 atau lebih. 
 Jenis : ^777777Kartu^000000
 Slot : ^777777Jubah^000000
 Berat : ^7777771^000000
@@ -19003,7 +19046,7 @@ Berat : ^7777771^000000
 #
 4308#
 Tri Joint Card.
-Menambah 5 SP setiap kali monster Netral dibunuh dengan serangan fisik.
+Menambah 5 SP setiap kali monster Formless dibunuh dengan serangan fisik.
 Mengurangi 5 SP setiap kali senjata dilepas.
 Jenis : ^777777Kartu^000000
 Slot : ^777777Senjata^000000
@@ -22197,6 +22240,9 @@ Base Efek dari Unique STR x2
 ------------------------
 Berat: ^7777771^000000
 #
+4770#
+
+#
 4771#
 INT +5
 MATK +5%
@@ -22224,6 +22270,9 @@ MATK +5%
 Base Efek dari Unique INT x2
 ------------------------
 Berat: ^7777771^000000
+#
+4773#
+
 #
 4774#
 VIT +5
@@ -22255,6 +22304,9 @@ Base Efek dari Unique VIT x2
 ------------------------
 Berat: ^7777771^000000
 #
+4776#
+
+#
 4777#
 AGI +5
 ASPD +3
@@ -22282,6 +22334,9 @@ ATK +5%
 Base Efek dari Unique AGI x2
 ------------------------
 Berat: ^7777771^000000
+#
+4779#
+
 #
 4780#
 DEX +5
@@ -22311,6 +22366,9 @@ Base Efek dari Unique DEX x2
 ------------------------
 Berat: ^7777771^000000
 #
+4782#
+
+#
 4783#
 LUK +5
 Crit dmg +5%
@@ -22338,6 +22396,9 @@ CRIT DMG +5%
 Base Efek dari Unique LUK x2
 ------------------------
 Berat: ^7777771^000000
+#
+4785#
+
 #
 4786#
 MDEF + 2 
@@ -23857,6 +23918,9 @@ Dipakai di : ^777777Atas, Tengah^000000    Berat : ^77777790^000000
 Level Persyaratan : ^77777755^000000
 Untuk Profesi : ^777777Semua profesi kecuali Novice^000000
 #
+5095#
+
+#
 5096#
 Topeng yang digunakan Assasin untuk menyembunyikan wajahnya.
 Jenis : ^777777Pelindung kepala^000000    Tk.Defense ^7777771^000000
@@ -24188,20 +24252,28 @@ Profesi: ^777777Semua kecuali Novice^000000
 #
 5138#
 Topi sihir yang terdapat 3 gambar mata yang konon mengandung sihir yang kuat.
+ 
 Mempercepat 10% waktu casting. Meningkatkan 20% konsumsi SP saat menggunakan skill.
-Dipakai di: ^777777Atas^000000
-Tk Def ^7777773^000000      Berat : ^77777730^000000
-Profesi: ^777777Mage, Soul Linker^000000
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777773^000000
+Berat : ^77777730^000000
+Lv Min. : ^77777730^000000
+Job: ^777777Mage/Soul Linker^000000
 #
 5139#
-Bunga legendaris yang kabarnya pernah digunakan oleh seorang dewa dari dataran timur.
-Dapat diolah menjadi obat yang mujaran, dapat dikenakan di kepala.
-DEX +1, INT +1.
- MDEF + 5.
- Tidak dapat diupgrade.
-Dipakai di: ^777777Atas^000000
-Tk Def ^7777770^000000      Berat : ^77777720^000000
-Profesi: ^777777Semua^000000
+Bunga legendaris yang kabarnya pernah digunakan oleh seorang dewa dari dataran timur. 
+Dapat diolah menjadi obat yang mujaran, dapat dikenakan di kepala. 
+ 
+DEX +1, INT +1, MDEF +5
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^77777720^000000
+Lv. Min : ^77777710^000000
+Job : ^777777Semua Job^000000
 #
 5140#
 Sebuah pita berwarna merah yang lucu dan dapat dikenakan di kepala. 
@@ -25285,6 +25357,19 @@ Head Position : ^777777Upper, Mid^000000    Berat : ^777777240^000000
 Profesi : ^777777semua profesi^000000
  
 #
+5297#
+Sayap yang terbang diatas kepala membuat pengguna menjadi seperti malaikat.
+
+^ff0000All Stats +1^000000
+^ff0000Regen 2 SP setiap 10detik.^000000
+
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777773^000000
+Berat : ^77777730^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
+#
 5302#
 Sebuah topi berbentuk bunga teratai. Hal ini mutakhir dan anggun.
 Jenis Item: ^777777Headgear^000000    Tk Def: ^7777771^000000
@@ -25738,6 +25823,19 @@ Dipakai di: ^777777Upper^000000    Berat: ^77777780^000000
 Profesi: ^777777Semua Jobs^000000
  
 #
+5376#
+Headband yang dibikin menggunakan sayap demon.
+ 
+Max SP +120
+Berkemungkinan kecil kamu terkena Curse ketika menerima serangan.
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777776^000000
+Berat : ^77777710^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
+#
 5377#
 Pipa cerutu yang digunakan oleh kaum bangsawan.
 Mengurangi damage dari Demi-Human sebesar 2%.
@@ -26100,6 +26198,9 @@ Level Persyaratan : ^77777730^000000
 Untuk Profesi : ^777777Semua^000000
  
 #
+5434#
+
+#
 5436#
 Mahkota pernikahan dari daun dan bunga yang dibuat rapi. Dihiasi pita sutra besar dibelakangnya.
 LUK + 3. MDEF + 2 
@@ -26331,6 +26432,9 @@ Berat : ^77777780^000000
 Lv Min. : ^77777750^000000
 Job: ^777777Semua Job^000000
 #
+5472#
+
+#
 5473#
 
 #
@@ -26341,6 +26445,9 @@ Jenis : ^777777Pelindung Kepala^000000 Tk Def : ^7777772^000000
 Posisi : ^777777Atas^000000 Berat : ^77777770^000000
 Level Persyaratan : ^77777710^000000
 Untuk Profesi : ^777777Semua Profesi^000000
+#
+5475#
+
 #
 5476#
 ^ff0000Grand Peco Headdress^000000
@@ -26789,12 +26896,17 @@ Level Persyaratan : ^7777770^000000
 Profesi: ^777777Semua^000000
 #
 5548#
-Setangkai mawar merah yang dapat dikenakan dimulut. Apakah durinya sudah dihilangkan? 
-DEX + 1. MDEF +1.
-Jenis : ^777777Headgear^000000 TK Def: ^7777770^000000
-Posisi: ^777777Lower^000000 Berat: ^77777710^000000
-Level Persyaratan : ^77777750^000000
-Profesi: ^777777Semua^000000
+Setangkai mawar merah yang dapat dikenakan dimulut. Apakah durinya sudah dihilangkan?
+ 
+Meningkatkan serangan fisik terhadap semua tipe monster (termasuk player) sebesar 1%
+MATK +1%, Max SP +30
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Lower^000000
+Def : ^7777770^000000
+Berat : ^77777710^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 5549#
 Sebuah hiasan kepala yang merupakan perlambang dari Zodiac Taurus. Sebuah batu kelahiran dari bulan tersebut menjadi penghiasnya.
@@ -26914,6 +27026,9 @@ Jenis: ^777777Headgear^000000 Tk Def: ^7777773^000000
 Dikenakan di: ^777777Upper^000000 Berat: ^77777710^000000
 Minimum Level: ^77777730^000000
 Job: ^777777Semua Job^000000
+#
+5576#
+
 #
 5578#
 Sebuah topi yang diberikan kepada pelaut pemberani.
@@ -27084,6 +27199,15 @@ Berat: ^77777730^000000
 Minimum Level : ^77777770^000000
 Job : ^777777Semua Job^000000
 #
+5602#
+
+#
+5607#
+
+#
+5608#
+
+#
 5610#
 Hiasan telinga yang terbuat dari Es
 Ketika melakukan serangan fisik, kemungkinan untuk mengeluarkan skill "Frost Nova" Lv.1
@@ -27100,6 +27224,126 @@ Jenis : ^777777Headgear^000000    DEF : ^7777770^000000
 Letak : ^777777Upper^000000    Berat : ^77777730^000000
 Level Persyaratan : ^77777710^000000
 Untuk Profesi : ^777777Semua Profesi^000000
+#
+5612#
+
+#
+5613#
+
+#
+5614#
+
+#
+5615#
+
+#
+5616#
+
+#
+5617#
+
+#
+5618#
+
+#
+5619#
+
+#
+5620#
+
+#
+5621#
+
+#
+5622#
+
+#
+5623#
+
+#
+5624#
+
+#
+5625#
+
+#
+5626#
+
+#
+5627#
+
+#
+5628#
+
+#
+5629#
+
+#
+5630#
+
+#
+5631#
+
+#
+5632#
+
+#
+5633#
+
+#
+5634#
+
+#
+5635#
+
+#
+5636#
+
+#
+5637#
+
+#
+5638#
+
+#
+5639#
+
+#
+5640#
+
+#
+5641#
+
+#
+5642#
+
+#
+5643#
+
+#
+5644#
+
+#
+5645#
+
+#
+5647#
+
+#
+5648#
+
+#
+5649#
+
+#
+5650#
+
+#
+5651#
+
+#
+5652#
+
 #
 5653#
 
@@ -27212,6 +27456,12 @@ Posisi: ^777777Atas ^000000 Berat : ^7777770^000000
 Level Persyaratan : ^7777771^000000
 Profesi : ^777777Semua^000000
 #
+5669#
+
+#
+5670#
+
+#
 5671#
 Boneka lucu yang lain dari biasanya. Dibuat berdasarkan monster Incarnation of Morocc.
 Mendapatka 2 SP setiap mengalahkan monster. Ada kemungkinan kecil untuk casting Fatal Wound jika terkena serangan lawan.
@@ -27222,7 +27472,16 @@ Berat : ^77777730^000000
 Minimum Lvl : ^7777771^000000
 Job : ^777777Semua^000000
 #
+5672#
+
+#
+5673#
+
+#
 5674#
+
+#
+5675#
 
 #
 5676#
@@ -27255,6 +27514,9 @@ Jenis : ^777777Helm^000000 Defense : ^7777773^000000
 Digunakan di: ^777777Upper ^000000 Berat : ^77777730^000000
 Digunakan Lv. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
+#
+5679#
+
 #
 5680#
 
@@ -27330,10 +27592,136 @@ Level Persyaratan : ^7777771^000000
 Profesi : ^777777Semua Job^000000
  
 #
+5693#
+
+#
 5694#
 
 #
+5695#
+
+#
+5696#
+
+#
+5697#
+
+#
+5698#
+
+#
+5699#
+
+#
+5700#
+
+#
+5701#
+
+#
+5702#
+
+#
+5703#
+
+#
+5704#
+
+#
+5705#
+
+#
+5706#
+
+#
+5707#
+
+#
+5708#
+
+#
+5709#
+
+#
+5710#
+
+#
+5711#
+
+#
+5712#
+
+#
+5713#
+
+#
+5714#
+
+#
+5715#
+
+#
+5716#
+
+#
+5717#
+
+#
+5718#
+
+#
+5719#
+
+#
+5720#
+
+#
+5721#
+
+#
+5722#
+
+#
+5723#
+
+#
+5724#
+
+#
+5725#
+
+#
+5726#
+
+#
+5727#
+
+#
+5728#
+
+#
+5729#
+
+#
+5730#
+
+#
+5731#
+
+#
 5732#
+
+#
+5733#
+
+#
+5734#
+
+#
+5735#
+
+#
+5736#
 
 #
 5737#
@@ -27376,6 +27764,9 @@ Jenis : ^777777Pelindung Kepala^000000 Tk Def : ^7777773^000000
 Posisi : ^777777Atas ^000000 Berat : ^77777730^000000
 Level Persyaratan : ^7777771^000000
 Untuk Profesi : ^777777Semua Profesi^000000
+#
+5743#
+
 #
 5744#
 Sebuah mahkota yang sangat bagus yang dibuat untuk memperingati tanda Zodiak ke 10, Capricorn sang Kambing. Ditempel batu permata Garnet, lambang dari orang yang lahir di tanda Zodiak ini.
@@ -27530,6 +27921,9 @@ Level Persyaratan : ^777777100^000000
 Jobs : ^777777Wanderer^000000
  
 #
+5759#
+
+#
 5760#
 Ikat kepala yang didesain untuk mempermudah mengingat peralatan peraltan yang digunakan.
 STR + 1, DEX + 1, MDEF + 5.
@@ -27547,6 +27941,9 @@ Jenis Item : ^777777Headgear^000000 Tk Def : ^7777773^000000
 Posisi : ^777777Atas^000000 Berat : ^77777780^000000
 Level Persyaratan : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
+#
+5763#
+
 #
 5764#
 
@@ -27665,6 +28062,15 @@ Digunakan di: ^777777Upper ^000000 Berat : ^77777710^000000
 Digunakan Lv. : ^7777771^000000
 Profesi: ^777777Semua Profesi 1048575^000000
 #
+5782#
+
+#
+5783#
+
+#
+5784#
+
+#
 5785#
 
 #
@@ -27677,6 +28083,9 @@ Jenis: ^777777Headgear^000000    Tk Def: ^7777771^000000
 Dikenakan di: ^777777Tengah^000000    Berat: ^77777720^000000
 Minimum Level: ^7777770^000000
 Job: ^777777Semua Job^000000
+#
+5787#
+
 #
 5788#
 Kaca mata Misteri mampu menampilkan objek scara stereoscopic
@@ -27709,6 +28118,9 @@ Posisi : ^777777Atas-Tengah ^000000
 Berat : ^77777750^000000
 Level Persyaratan : ^77777745^000000
 Profesi : ^777777Semua Profesi^000000
+#
+5791#
+
 #
 5792#
 Sebuah pin berbentuk ikan. Cantik tapi tidak terlihat kuat.
@@ -27975,6 +28387,9 @@ Dipakai di : ^777777Bawah^000000    Berat : ^77777710^000000
 Untuk Profesi : ^777777Semua Profesi^000000
  
 #
+5814#
+
+#
 5817#
 ^FF0000Character-Bound^000000
 ------------------------
@@ -28053,6 +28468,42 @@ Berat : ^7777775^000000
 Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
+5829#
+
+#
+5830#
+
+#
+5831#
+
+#
+5832#
+
+#
+5833#
+
+#
+5834#
+
+#
+5835#
+
+#
+5836#
+
+#
+5837#
+
+#
+5838#
+
+#
+5839#
+
+#
+5840#
+
+#
 5841#
 Sebuah topi merah dengan hiasan yang indah. Sepertinya dapat digunakan untuk berkomunikasi dengan roh.
 Meningkatkan toleransi terhadapat semua serangan magic sebesar 3%.
@@ -28060,6 +28511,15 @@ Jenis : ^777777Pelindung Kepala^000000 Tk Def : ^7777771^000000
 Posisi: ^777777Atas^000000 Berat : ^77777710^000000
 Level Persyaratan : ^77777730^000000
 Untuk Profesi : ^777777Semua^000000
+#
+5842#
+
+#
+5843#
+
+#
+5844#
+
 #
 5848#
 Kamu akan merasa seperti tokoh legendaris Robin Hood saat mengenakannya.
@@ -28948,6 +29408,9 @@ Simbol dari sebuah kekayaan. Sangat disukai oleh banyak orang
  
 Berat : ^77777710^000000
 #
+6069#
+
+#
 6073#
 Helai bulu misterius berwarna biru dari Naga. Dengan warnanya yang cantik dan lembut seperti sutra digunakan sebagai dekorasi.
 ^ffffff_^000000
@@ -28992,11 +29455,10 @@ Berat : ^7777770^000000
  
 #
 6080#
-Sebuah Coin yang bisa digunakan di Manuk.
-^ffffff_^000000
+Sebuah koin berkilau yang diberikan oleh Elder Karim.
+Koin ini dapat digunakan untuk menukarkan berbagai item spesial Ramadan.
+ 
 Berat : ^7777770^000000
- 
- 
 #
 6081#
 ^ff0000tidak dapat ditransaksikan^000000
@@ -29069,6 +29531,9 @@ Telur Naga yang seperti ingin menetas. Jika kamu menjaganya dengan baik, Kamu me
 ^ffffff_^000000
 Berat : ^7777770^000000
  
+#
+6094#
+
 #
 6095#
 Sebuah minuman racikan Alkohol
@@ -29206,6 +29671,12 @@ Seruling yang sangat kecil. suaranya seperti Serigala yang di jinakkan oleh rang
 ^ffffff_^000000
 Berat : ^7777770^000000
  
+#
+6125#
+
+#
+6126#
+
 #
 6128#
 Sebuah antidote untuk Guillotine Cross.
@@ -29633,8 +30104,8 @@ Berat : ^7777771^000000
 #
 6254#
 Daging presto panggang. biasa disebut dagging presto.
-Berat : ^7777771^000000
  
+Berat : ^7777771^000000
 #
 6255#
 Sebuah panci besar yang bisa memasak makanan dalam jumlah besar .
@@ -29803,6 +30274,36 @@ Cure Free : ^000088Empty Testtube 10 + Panacea 5 + Green Herb 20 + Mastela Fruit
 Berat : ^7777771^000000
  
 #
+6286#
+
+#
+6287#
+
+#
+6288#
+
+#
+6289#
+
+#
+6290#
+
+#
+6291#
+
+#
+6292#
+
+#
+6293#
+
+#
+6294#
+
+#
+6295#
+
+#
 6297#
 Botol yang dibuat untuk dilemparkan. ingat!  Hati hati.
 Berat : ^7777771^000000
@@ -29816,6 +30317,15 @@ Berat : ^7777770^000000
 Sebuah kain yang lusuh. Bahannya tembus pandang dan cukup bersih.
 Berat : ^7777770^000000
  
+#
+6300#
+
+#
+6301#
+
+#
+6303#
+
 #
 6304#
 ^ff0000Item tidak bisa ditransaksikan.^000000
@@ -29845,6 +30355,18 @@ Berat : ^7777770^000000
 6309#
 
 #
+6310#
+
+#
+6311#
+
+#
+6312#
+
+#
+6313#
+
+#
 6314#
 Elunium spesial yang didapat dari pertambangan tersembunyi.
 Dapat digunakan untuk memperkuat armor.
@@ -29865,6 +30387,12 @@ Menurut rumor gulungan ini dapat membuat seseorang kembali dari kematian.
 Dapat digunakan untuk menghidupkan karater kamu jika mati.
 ^ffffff_^000000
 Berat : ^7777770^000000
+#
+6317#
+
+#
+6318#
+
 #
 6319#
 Pecahan dari Bradium 
@@ -30000,10 +30528,16 @@ Potongan kertas musik yang bertuliskan dalam tinta biru
 Berat : ^7777771^000000
  
 #
+6344#
+
+#
 6345#
 Lovely lights have been gathered with various colors
 Berat :^7777770^000000
 Price: 0
+#
+6346#
+
 #
 6360#
 Gemstone dengan Elemen api, pecahan kecil dari Red Blood.
@@ -30021,13 +30555,38 @@ Berat : ^7777770.5^000000
 Gemstone dengan Elemen tanah, pecahan kecil dari  Green Live.
 Berat : ^7777770.5^000000
 #
+6369#
+
+#
+6370#
+
+#
+6371#
+
+#
+6372#
+
+#
+6373#
+
+#
+6374#
+
+#
+6375#
+
+#
+6376#
+
+#
 6377#
 Surat Izin membuka toko (Hanya untuk membeli) dari perkumpulan Merchant. Memiliki cap resmi dari perkumpulan Merchant.(Sekali pakai) 
 Berat : ^7777771^000000
 #
 6380#
-^ff0000Barang ini tidak bisa di transaksikan.^000000
-Sebuah koin kecil dengan permukaan yang mengkilap. Koin ini digunakan untuk berbagai keperluan di desa Mora.
+Sebuah koin yang menandakan bahwa kamu adalah pemberi zakat.
+5 dari koin ini dapat ditukarkan dengan ^ff0000[Ramadan Blessing Coin].^000000
+ 
 Berat : ^7777770^000000
 #
 6381#
@@ -30241,6 +30800,9 @@ Berat : ^7777770^000000
 Bahan kimia legendaris yang dikatakan bisa melumerkan permukan benda sehingga bisa dipisahkan. Sempurna untuk mencabut kartu MVP.
 Berat : ^7777770^000000
 #
+6445#
+
+#
 6446#
 
 #
@@ -30266,6 +30828,9 @@ Tas yang digunakan Santa Claus untuk mengirimkan hadiah kepada anak-anak di Rune
      
 Berat : ^7777771^000000
 #
+6455#
+
+#
 6456#
 ^000000Dengan menggunakan sertifikat ini, kamu akan terjamin dalam mengupgrade ^006400senjatamu ketingkat 5^000000 dengan sukses. ^0000FFTemui Refine Expert di Prontera.^000000(Dapat digunakan untuk senjata level 4)
 Berat : ^7777770^000000
@@ -30273,6 +30838,21 @@ Berat : ^7777770^000000
 6457#
 ^000000Dengan menggunakan sertifikat ini, kamu akan terjamin dalam mengupgrade ^006400armormu ketingkat 5^000000 dengan sukses. ^0000FFTemui Refine Expert di Prontera..^000000(Dapat digunakan untuk armor level 4)
 Berat : ^7777770^000000
+#
+6459#
+
+#
+6460#
+
+#
+6461#
+
+#
+6462#
+
+#
+6463#
+
 #
 6466#
 
@@ -30297,6 +30877,39 @@ Berat : ^7777771^000000
 Kegelapan Nifflheim ada didalam bagian ini
 ^ff0000Used for combining biological materials in a testing lab^000000
 Berat : ^7777771^000000
+#
+6472#
+
+#
+6473#
+
+#
+6474#
+
+#
+6475#
+
+#
+6476#
+
+#
+6477#
+
+#
+6478#
+
+#
+6479#
+
+#
+6481#
+
+#
+6482#
+
+#
+6483#
+
 #
 6484#
 Sebuah kupon untuk mengupgrade senjata,kamu dapat menukarkan kupon ini ke npc Evil Enchant Master dan kamu akan mendapatkan kesempatan untuk mengenchant senjatamu 1 kali.
@@ -30324,9 +30937,24 @@ Berat : ^7777771^000000
 Sebuah sertifikat yang diberikan oleh para pedagang kaki lima untuk berinvestasi dalam fasilitas tertentu.
 Berat : ^7777771^000000
 #
+6490#
+
+#
+6491#
+
+#
+6492#
+
+#
 6493#
 Sepotong logam dengan jarum tajam. Akan menyakitkan jika menginjak. Akan berguna untuk menghindari pengejar dengan melemparkan di tanah dalam keadaan darurat.
 Berat : ^7777770.1^000000
+#
+6494#
+
+#
+6495#
+
 #
 6496#
 Tulang Tikbalang yang tebal dan keras. Bisa dijual pada pedagang.
@@ -30455,6 +31083,27 @@ Berat : ^7777771^000000
 Barang transparan yang mengunci jiwa Buwaya. Kabarnya kamu bisa mendengar geraman amarah Buwaya ketika tersentuh air.
 Berat : ^7777771^000000
 #
+6526#
+
+#
+6527#
+
+#
+6528#
+
+#
+6529#
+
+#
+6530#
+
+#
+6533#
+
+#
+6534#
+
+#
 6535#
 ^ff0000Item ini tidak dapat dibuang dan ditransaksikan.^000000
 Bahan yang digunakan oleh Tim Raccoon Hurray [Kaos kaki Natal yang sangat besar]
@@ -30464,6 +31113,12 @@ Berat : ^7777771^000000
 ^ff0000Item ini tidak dapat dibuang dan ditransaksikan.^000000
 Bahan yang digunakan untuk mendekorasi Tim Raccoon Hurray [Kaos kaki Natal yang sangat besar]
 Berat : ^7777771^000000
+#
+6537#
+
+#
+6538#
+
 #
 6539#
 ^ff0000tidak dapat ditransaksikan^000000
@@ -30509,6 +31164,12 @@ Berat : ^7777770^000000
 ^ff0000Tidak bisa ditransaksikan.^000000
 Kupon dengan gambar dan tulisan menarik diatasnya.. Selera seninya patut dihargai.
 Berat : ^7777770^000000
+#
+6550#
+
+#
+6551#
+
 #
 6552#
 ^ff0000Tidak dapat ditransaksikan^000000
@@ -31123,6 +31784,9 @@ Meningkatkan serangan fisik ke target ukuran Kecil 1%.
 ^ffffff<NAVI>^4D4DFF[Aver De Dosh]^000000<INFO>mal_in01,23,113,0,100,0,0</INFO></NAVI>^000000
 Berat : ^77777710^000000
 #
+6793#
+
+#
 6795#
 Sebuah tiket khusus bagi kamu yang berpatisipasi dalam event 2019 Jumping Level.
 Kamu bisa menggunakan tiket ini sebagai bukti dalam Event ^ff00002019 Level Up Rewards^000000
@@ -31378,9 +32042,9 @@ Jiwa yang jahat yang ditangkap saat melarikan diri dari Niflheim. Satu-satu nya 
 Berat : ^7777770^000000
 #
 6915#
-^ff0000Item ini tidak dapat ditrande kepada orang lain.^000000
-Jiwa yang bebas berkeliaran yang ditangkap saat melarikan dri dari Niflheim. Satu-satu nya tempat untuknya adalah Niflheim. Dan akan kembali ke Niflheim setelah periode event berakhir.
-(Item akan menghilang setelah periode event)
+Sebuah Energy yang diberikan oleh Ares.
+Energy ini dapat digunakan untuk menukarkan Item.
+ 
 Berat : ^7777770^000000
 #
 6919#
@@ -33483,8 +34147,8 @@ Hati - hati ketika menukarkan tiket, title tidak dapat dipindahkan.
 Berat : ^7777771^000000
 #
 7366#
-Serbuk yang tercipta dari energi monster yang terekstraksi.
-Dapat digunakan dalam pembuatan Potion.
+Coin yang didapatkan dari Orc Memory Memorial Dungeon
+Dibutuhkan untuk melakukan Enchant Dan Reset Accessories.
  
 Berat : ^7777771^000000
 #
@@ -33671,6 +34335,9 @@ Berat : ^7777771^000000
 Badge event khusus yang dapat ditukarkan dengan berbagai item hadiah
 ------------------------
 Berat: ^7777771^000000
+#
+7397#
+
 #
 7398#
 Ticket yang dapat digunakan untuk mengikuti special event "Ramadhan 2024"
@@ -34870,6 +35537,9 @@ Sebuah permata kuning yang berkilau.
 ^ffffff_^000000
 Berat : ^7777775^000000
 #
+7580#
+
+#
 7589#
 Potongan Kue Bulan yang bertuliskan Selamat 
 ^ffffff_^000000
@@ -34922,10 +35592,9 @@ Snowflake Festival Card yang terdapat huruf R disana. Gabungkan dengan Snowflake
 Berat : ^7777771^000000
 #
 7604#
-Bubuk halus yang sering disebut dengan 'Wheat'.
-^ffffff_^000000
-Berat : ^7777771^000000
- 
+Bahan khusus untuk membuat kue spesial Valentine
+^ffffff_^000000 
+Berat : ^7777771^000000 
 #
 7606#
 Coin yang didapatkan dari Master Chef Juanedi.
@@ -35005,6 +35674,12 @@ Berat : ^7777770^000000
 7634#
 ada satu mawar yang merupakan hadiah untuk ayah! 
 Berat : ^7777770^000000
+#
+7635#
+
+#
+7636#
+
 #
 7640#
 Jepit rambut yang mirip seperti kupu-kupu. Digunakan untuk mengikat rambut panjang.
@@ -35516,12 +36191,7 @@ Berat : ^77777710^000000
 7869#
 Sebuah karung yang berisi beras.
 ^ffffff_^000000
-berat : ^77777710^000000
- 
-A sack that 
-contains rice.
-^ffffff_^000000
-Berat: ^77777710^000000
+Berat : ^77777710^000000
 #
 7870#
 Sebuah potongan dari daun pohon kelapa. Biasanya digunakan untuk menjadi bungkus dari ketupat saat bulan puasa.
@@ -35637,18 +36307,9 @@ Kue ini sama persis dengan kue yang hilang dari gudang persediaan.
 Berat : ^7777771^000000
 #
 7910#
-Sebuah permen yang mirip dengan permen yang dicuri dari pabrik.
-^ffffff_^000000
-Berat : ^7777771^000000
- 
-A candy that was 
-stolen from the 
-factory in Lutie.
-^ffffff_^000000
-Berat: ^7777771^000000
- 
-Permen ini sama persis dengan kue yang hilang dari gudang persediaan.
-Berat : ^7777771^000000
+Sebuah permen yang mirip dengan permen yang dicuri dari pabrik. 
+^ffffff_^000000 
+Berat : ^7777771^000000 
 #
 7911#
 Sebuah topi milik Yulia.
@@ -35783,6 +36444,12 @@ Sebuah cokelat yang didapatkan dari Cupid untuk merayakan hari Valentine.
 Satu orang yang bisa mendapatkan satu.
 Berat : ^7777770^000000
  
+#
+7976#
+
+#
+7977#
+
 #
 7978#
 [Completion Badge] Illussion Bounty Board (Moonlight - Vampire)
@@ -36335,10 +37002,19 @@ meningkatkan serangan terhadap monster berelemen api sebesar 1%.
 Jenis : ^777777Telur Monster^000000
  
 #
+9057#
+
+#
 9059#
 Telur Qpet Tikbalang. Tetaskan telur untuk membangkitkan monster dengan [Pet Incubator].
 Meningkatkan serangan terhadap Bakonawa, Bangungot, dan Buwaya 10% dan MDEF + 3.
 Type : ^777777Telur Monster^000000
+#
+9060#
+
+#
+9061#
+
 #
 9068#
 Telur hewan peliharaan yang konon katanya bersemayam Blue Unicorn,
@@ -36881,11 +37557,23 @@ Berisi berbagai macam equipment menarik.
  
 Berat : ^7777771^000000
 #
+9520#
+
+#
+9521#
+
+#
 9539#
 Kotak yang berisi 10 buah [Event] Blue Potion. 
 Cocok untuk dibuka ketika dibutuhkan saja.
 "^ff0000Catatan - Barang bisa hilang ketika dibuka jika berat atau barang bawaan terlalu banyak!^000000"
 Berat: ^7777770^000000
+#
+9547#
+
+#
+9548#
+
 #
 9550#
 Gemstone misterius yang dapat membangkitkan kekuatan.
@@ -36912,6 +37600,12 @@ Temporal INT Manteau [1]
 Temporal DEX Manteau [1]
 Temporal LUK Manteau [1]
 Berat: ^7777770^000000
+#
+9571#
+
+#
+9572#
+
 #
 9587#
 Kotak yang berisi 20 [Event] Small Life Potion, [Event] Medium Life Potion, [Event] Mysterious Water. 
@@ -36963,6 +37657,9 @@ Buka untuk mendapatkan salah 1 dari boots berikut:
 ------------------------
 Berat : ^7777771^000000
 #
+9596#
+
+#
 9597#
 ^FF0000Account-Bound^000000
 			
@@ -36983,6 +37680,12 @@ Guarana Candy^000000
 			
 Berat: 1
 #
+9608#
+
+#
+9609#
+
+#
 9610#
 ^ff0000Barang ini tidak dapat ditransaksikan.^000000
 Air kehidupan yang dibuat dengan mencampurkan banyak potion yang ada. Rasanya juga biasa saja.
@@ -36992,12 +37695,30 @@ Efek tidak berlaku dalam kondisi Frenzy/Berserk.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
+9623#
+
+#
+9624#
+
+#
+9625#
+
+#
 9626#
 Telur gacha berisikan berbagai item menarik,
 ------------------------
 Hadiah langsung 1 Buah ^4D4DFF[Event] Glittering Coin [ALT]^000000 setiap membuka scroll
 ------------------------
 Berat: ^7777771^000000
+#
+9638#
+
+#
+9639#
+
+#
+9640#
+
 #
 9663#
 ^ff0000Cannot trade with other account^000000
@@ -37837,6 +38558,9 @@ Jenis : ^777777Equipment Peliharaan^000000
 Untuk Profesi : ^777777Bon Gun^000000
 Berat : ^7777770^000000
 #
+10021#
+
+#
 10033#
 Afro hair yang sangat besar.
 Sepertinya tidak bisa dipakai manusia.
@@ -37850,6 +38574,9 @@ Sebuah Gear untuk memberikan tenaga ke mesin kuno.
 Pet Golem akan sangat cocok memakainya.
  
 Berat : ^7777770^000000
+#
+10039#
+
 #
 10040#
 Kalung merah dengan hiasan cantik.
@@ -37988,8 +38715,10 @@ Berat: ^7777771^000000
 #
 10548#
 ^ff0000Barang ini tidak bisa ditransaksikan.^000000
-Box yang berisi 10 buah Acaraje
+ 
+Box yang berisi 10 buah Akaraje
 Meningkatkan ASPD sebesar 10% selama 20 menit. HIT + 5, Ketika karakter mati maka efek akan hilang
+ 
 Berat : ^7777771^000000
 #
 10549#
@@ -38217,6 +38946,9 @@ Laporan penyelidikan Vol.4 Yang melaporkan tentang situasi didalam selama penyel
 Berat : ^7777770^000000
  
 #
+11017#
+
+#
 11018#
 Item Penjualan Splendide 
 ^ffffff_^000000
@@ -38296,6 +39028,99 @@ Buku ini berisi studi Alchemist sia-sia dan Vajin tentang peningkatan SP, dan re
 Berat : ^7777775^000000
  
 #
+11025#
+
+#
+11026#
+
+#
+11027#
+
+#
+11028#
+
+#
+11029#
+
+#
+11030#
+
+#
+11031#
+
+#
+11032#
+
+#
+11033#
+
+#
+11034#
+
+#
+11035#
+
+#
+11036#
+
+#
+11037#
+
+#
+11038#
+
+#
+11039#
+
+#
+11040#
+
+#
+11041#
+
+#
+11042#
+
+#
+11043#
+
+#
+11044#
+
+#
+11045#
+
+#
+11046#
+
+#
+11047#
+
+#
+11048#
+
+#
+11049#
+
+#
+11050#
+
+#
+11051#
+
+#
+11052#
+
+#
+11053#
+
+#
+11054#
+
+#
+11055#
+
+#
 11056#
 Sebuah paduan utama dalam mempelajari spirit! 'Earthde Lagon' mengungkapkan misteri dari spirit magic . Hanya 'Earthde Lagon' yang memberikan petunjuk tentang Spirit Magic! 'ketika membukanya kamu merasa kemampuan spirit mu bertambah 1%!!' 
 Berat : ^7777771^000000
@@ -38312,6 +39137,9 @@ A combining manual easier than instant cook book. Just follow what they are sayi
 "^ff0000Caution : To start combination, you must use a Combination Kit item.^000000"
 "^ff0000Caution : You must have all Ingredients ready before combining or the Combination Kit will be wasted.^000000"
 Berat : ^7777771^000000
+#
+11059#
+
 #
 11500#
 Cairan penyembuh yellow potion. Potion ini sangat ringan dan efektif.
@@ -38346,7 +39174,6 @@ Berat : ^7777771^000000
 #
 11503#
 Sebuah potion yang terbuat dari ramuan halus White Herbs yang dapat mengembalikan ^000088400~500 HP^000000.
-HP terpengaruh oleh regenerasi Potion 
 ^ffffff_^000000
 Berat : ^77777710^000000
 #
@@ -38354,6 +39181,15 @@ Berat : ^77777710^000000
 Sebuah potion yang terbuat dari ramuan halus Blue Herbs yang dapat mengembalikan ^00008850~70SP^000000.
 ^ffffff_^000000
 Berat : ^77777710^000000
+#
+11510#
+
+#
+11511#
+
+#
+11512#
+
 #
 11513#
 Sebuah permen segar untuk perlindungan tenggorokan.
@@ -38434,6 +39270,15 @@ Sebuah minuman dingin yang dibuat dengan menggabungkan Pingui berries dengan sir
 Berat : ^77777710^000000
 Level Persyaratan : ^777777120^000000
 #
+11527#
+
+#
+11528#
+
+#
+11529#
+
+#
 11530#
 
 #
@@ -38472,6 +39317,30 @@ Kaki Octopus segar. Sangat segar jadi menggeliat sendiri. Sangat lezat bila hany
 Menyembukan sedikit HP, SP.
 ^ff0000Barang akan menghilang setelah periode event.^000000
 Berat : ^7777773^000000
+#
+11539#
+
+#
+11540#
+
+#
+11541#
+
+#
+11542#
+
+#
+11543#
+
+#
+11544#
+
+#
+11545#
+
+#
+11546#
+
 #
 11547#
 *Status berlaku selama WoE & PVP
@@ -40018,6 +40887,24 @@ Jenis : ^777777item penjinak^000000
 Berat : ^7777775^000000
  
 #
+12226#
+
+#
+12227#
+
+#
+12228#
+
+#
+12229#
+
+#
+12230#
+
+#
+12231#
+
+#
 12232#
 Roti yang terbuat dari susu, tepung, madu, dan bahan lainnya. Berisikan selai didalamnya, berbentuk kotak, rata dan sedikit keras dengan hiasa cokelat diatasnya.
 Meningkatkan kecepatan serangan dan kecepatan gerak selama 15 menit 
@@ -40068,7 +40955,9 @@ Berat : ^77777720^000000
 #
 12246#
 Sebuah kekuatan misterius terkandung didalam album tersegel ini.
-Apa yang terjadi jika segelnya dilepaskan? 
+Apa yang terjadi jika segelnya dilepaskan?
+ 
+Berat: 5
 #
 12247#
 Minuman dimana berbagai macam buah, es, dan susu dicampur. Hidangan yang cocok saat cuaca panas.
@@ -40209,6 +41098,18 @@ Berat : ^7777771^000000
  
  
 #
+12282#
+
+#
+12283#
+
+#
+12284#
+
+#
+12285#
+
+#
 12292#
 Ini adalah Yggdrasilberry mentah, rasanya sedikit asam.
 ^000088HP 20% Recovery.^000000
@@ -40229,11 +41130,13 @@ Memberikan pengurangan Konsumsi SP 15% selama 1 jam.
 Berat : ^7777771^000000
 #
 12319#
-Makanan kecil yang dikirim dari Rune Midgard. Berhati-hatilah jangan biarkan siapapun merasakannya tanpa bertanya terlebih dahulu.
-^000088 ATK, MATK +5 selama 10 menit.^000000
-^ffffff_^000000
-Berat : ^77777730^000000
+^000088Sebuah manisan yang dikirim dari Rune-Midgards. Hati-hati jangan membiarkan seseorang memakannya sampai diminta.^000000
+^0000ffATK & MATK +5 selama 10 menit.^000000
  
+^ff0000Item ini tidak dapat ditransaksikan.^000000
+^ff0000Item ini akan dihapus ketika event Valentine selesai.^000000
+ 
+Berat : ^77777730^000000
 #
 12320#
 Makanan kecil yang dikirim dari Schwartzwald. Es buah yang menyegarkan tenggorokan dan menyegarkan seluruh tubuh.
@@ -40426,6 +41329,9 @@ Sebuah busana buatan artis, Louise kim. Busana ini dirancang dan disesuaikan unt
 ^ffffff_^000000
 Berat : ^77777710^000000
 #
+12357#
+
+#
 12359#
 Daun lembut yang sangat disukai oleh Leaf Cat.
 ^ff0000Tidak dapat digunakan ke Monster Event, Monster Slave.^000000 
@@ -40588,6 +41494,9 @@ Berat : ^777777100^000000
 Air suci yang digunakan dalam upacara suci.
 ^ffffff_^000000
 Berat : ^7777771^000000
+#
+12401#
+
 #
 12403#
 Sebuah BOX yang berisikan beberapa MVP Scroll
@@ -40790,13 +41699,61 @@ Meningkatkan kecepatan serang sedikit. Durasi: 500 detik.
 Berat : ^7777775^000000
  
 #
+12438#
+
+#
 12439#
 Meningkatkan Exp rate sebesar 100% selama 15 Menit
 Berat : ^7777770^000000
 #
+12440#
+
+#
 12441#
 Meningkatkan Drop rate sebesar 100% selama 15 Menit
 Berat : ^7777770^000000
+#
+12442#
+
+#
+12443#
+
+#
+12444#
+
+#
+12445#
+
+#
+12446#
+
+#
+12447#
+
+#
+12448#
+
+#
+12449#
+
+#
+12450#
+
+#
+12451#
+
+#
+12452#
+
+#
+12453#
+
+#
+12454#
+
+#
+12456#
+
 #
 12457#
 ^FF0000Account-bound^000000
@@ -40819,6 +41776,45 @@ Jika kamu sudah menggunakan ^4D4DFF"Purify Potion"^000000 dengan tingkat lebih r
 Maka item ^4D4DFF"Higher Purify Potion"^000000 akan berkurang, namun effect tidak berjalan^000000
 -----------------
 Berat : ^7777771^000000
+#
+12459#
+
+#
+12460#
+
+#
+12461#
+
+#
+12462#
+
+#
+12463#
+
+#
+12464#
+
+#
+12465#
+
+#
+12466#
+
+#
+12467#
+
+#
+12468#
+
+#
+12470#
+
+#
+12471#
+
+#
+12472#
+
 #
 12475#
 Menyembuhkan beberapa abnormal status. menyembuhkan sejumlah HP.
@@ -40876,6 +41872,12 @@ Dengan kartu ini kamu bisa mengunakan jasa kafra storage dimana saja.
 ^ffffff_^000000
 Berat : ^7777770^000000
 #
+12499#
+
+#
+12500#
+
+#
 12501#
 ^ff0000Barang ini tidak dapat ditransaksikan.^000000
 Makanan yang istimewa yang berasal dari Louyang. Sangat mahal tapi rasanya luar biasa.
@@ -40917,6 +41919,15 @@ Daging yang enak, aromanya sangat khas dan juga efeknya dapat memberikan kekuata
 VIT +10. Memiliki durasi selama 30 menit.
 ^ffffff_^000000
 Berat : ^7777771^000000
+#
+12511#
+
+#
+12512#
+
+#
+12513#
+
 #
 12514#
 Abrasive meningkatkan Kritikal Rate sebesar 30 selama 5 menit.
@@ -40991,6 +42002,21 @@ Gulungan untuk yang memiliki spesial efek yaitu memberikan level 10 Increase AGI
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
+12524#
+
+#
+12525#
+
+#
+12526#
+
+#
+12527#
+
+#
+12528#
+
+#
 12529#
 Sebuah Box berisi 200 buah White Slim Potion.
 ^ffffff_^000000
@@ -41035,6 +42061,9 @@ Sulit untuk menyebutnya sebuah hidangan.
 Berat : ^7777775^000000
  
 #
+12547#
+
+#
 12548#
 Surat Izin membuka toko (Hanya untuk membeli) dari perkumpulan Merchant. Memiliki cap dari perkumpulan Merchant yang terlihat seperti tulisan tangan.(Sekali pakai)) 
 Berat : ^7777771^000000
@@ -41050,9 +42079,42 @@ Sebuah kotak yang berisi 30 buah Poison Bottle.
 Berat : ^7777770^000000
 ^ff0000 Perhatian - jika kamu terlalu berat saat membuka kotak ini, item yang seharusnya kamu dapatkan akan hilang. Silahkan periksa bebanmu terlebih dulu!^000000
 #
+12551#
+
+#
+12552#
+
+#
+12553#
+
+#
+12554#
+
+#
+12555#
+
+#
+12556#
+
+#
+12557#
+
+#
+12558#
+
+#
+12559#
+
+#
+12560#
+
+#
 12561#
 Sebuah bibit tanaman yang sering ditemukan di Maze Hazy Forest di Bifrost. Bibit ini mempunyai kecenderungan untuk kembali ke asalnya, Maze Hazy Forest.
 Berat : ^7777771^000000
+#
+12562#
+
 #
 12563#
 
@@ -41112,11 +42174,23 @@ Scroll Magis untuk mencari item yang ingin dijual atau dibeli
 ^000088Bisa mencari penjual di peta yang sama.^000000
 Berat : ^7777771^000000
 #
+12590#
+
+#
 12591#
 Produk lanjutan dari Akademi Magis Geffen 
 Scroll Magis untuk mencari item yang ingin dijual atau dibeli 
 ^000088Digunakan untuk mencari toko di peta yang sama. Item ini akan dihapus setelah event berakhir.^000000
 Berat : ^7777771^000000
+#
+12592#
+
+#
+12593#
+
+#
+12594#
+
 #
 12595#
 Apabila kamu membuka Box ini,
@@ -41146,18 +42220,21 @@ When player's character becomes combat ineffective, the item buff effect will we
 Berat : ^7777771^000000
 #
 12597#
-Masakan yang terbuat dari daging ayam dan santan sebagai bahan utamanya, biasanya dihidangkan pada saat Lebaran.
-Meningkatkan Maksimum HP sebesar 5% dan regeberasi HP sebesar 10%.
-Berat : ^77777715^000000
+Masakan yang terbuat dari daging ayam dan santan sebagai bahan utamanya, biasanya dihidangkan pada saat Lebaran. 
+Meningkatkan maksimum HP sebesar 5%, dan meningkatkan regenerasi HP sebesar 10%. 
+ 
+Berat : ^77777715^000000 
 #
 12598#
 Sebuah hidangan yang terbuat dari daging sapi dan dibumbui dengan cabai, biasa dihidangkan pada saat hari raya 
-Meningkatkan Maksimum SP sebesar 5% dan regeberasi SP sebesar 10%.
-Berat : ^77777715^000000
+Meningkatkan Maksimum SP sebesar 5% dan regeberasi SP sebesar 10%. 
+ 
+Berat : ^77777715^000000 
 #
 12599#
 Buah yang biasa dihidangkan selama bulan Ramadan dan juga pada saat Lebaran.
-All Stat + 2 selama 5 menit.
+^ff0000All Stat + 2 selama 5 menit.^000000
+ 
 Berat : ^77777710^000000
 #
 12602#
@@ -41192,6 +42269,9 @@ Berat: ^7777770^000000
 12608#
 Sebuah box yang berasal dari dekorasi kota splendid.
 Berat : ^77777710^000000
+#
+12611#
+
 #
 12612#
 Sebuah tas usang yang mengeluarkan suara. Cling! Tidak ada yang tahu apa isinya.
@@ -41254,11 +42334,35 @@ Mercenary akan menghilang saat tenaganya telah habis terpakai.
 ^ffffff_^000000
 Berat : ^7777771^000000
 #
+12627#
+
+#
+12628#
+
+#
+12629#
+
+#
+12630#
+
+#
+12631#
+
+#
+12632#
+
+#
 12633#
 Dibuat khusus di Malangdo, kaleng ini dibuat agar kamu bisa menyimpan makanan dengan mudah. Anehnya bisa memberikan kekuatan pada orang-orang.
 Meningkatkan exp dan job exp sebesar 10% selama 20 menit. (Bisa di stack dengan barang penambang exp lain dan hanya bisa digunakan ketika berburu monster.)
 Meningkatkan tingkat drop barang sebesar 20% selama 20 menit
 Berat : ^7777775^000000
+#
+12634#
+
+#
+12635#
+
 #
 12636#
 Makanan kaleng yang lezat dari Malangdo.
@@ -41344,6 +42448,18 @@ Kamu akan mendapatkan ^FF0000salah satu^000000 dari Card berikut,
 ------------------------
 Berat : ^7777771^000000
 #
+12655#
+
+#
+12656#
+
+#
+12657#
+
+#
+12665#
+
+#
 12666#
 
 #
@@ -41354,6 +42470,12 @@ Berat : ^7777771^000000
 
 #
 12669#
+
+#
+12670#
+
+#
+12671#
 
 #
 12673#
@@ -41408,6 +42530,18 @@ Aspd Potion ini tidak membuat ganda efek dari awakening maupun concentration pot
 Jadi jika potion ini dipakai bersamaan dengan potion ASPD lainnya. Effectnya akan maksimal.
 Durasi 15 menit. Dapat dipakai semua job
 Berat : ^7777771^000000
+#
+12686#
+
+#
+12687#
+
+#
+12688#
+
+#
+12689#
+
 #
 12690#
 Sebuah Album kuno yang memiliki kekuatan misterius. Dari album ini kamu bisa mendapatkan sebuah kartu random untuk Helm.
@@ -41688,6 +42822,27 @@ Berat : ^7777770^000000
 12746#
 
 #
+12747#
+
+#
+12748#
+
+#
+12749#
+
+#
+12750#
+
+#
+12751#
+
+#
+12752#
+
+#
+12753#
+
+#
 12754#
 Sebuah kue untuk hari yang spesial.
 Berat : ^7777771^000000
@@ -41699,6 +42854,15 @@ Berat : ^7777771^000000
 12756#
 Sebuah amplop berwarna merah yang biasa didapatkan pada hari raya Imlek.
 Berat : ^7777771^000000
+#
+12757#
+
+#
+12758#
+
+#
+12759#
+
 #
 12766#
 ^ff0000Barang ini tidak bisa ditransaksikan.^000000
@@ -41743,13 +42907,49 @@ Sebuah Box yang berisi 1 buah Worldcup Hat of Victory.
 Berdurasi selama 6 jam.
 Berat : ^7777770^000000
 #
+12774#
+
+#
 12775#
 Totem dengan kemampuan yang kuat untuk bertarung melawan para iblis secara agresif. Memancarkan energi suci yang kuat.
 Meningkatkan serangan fisik dan magic sebesar 10% terhadap monster iblis selama 20 menit.
 ^ffffff_^000000
 Berat : ^77777760^000000
 #
+12776#
+
+#
+12777#
+
+#
+12778#
+
+#
+12779#
+
+#
+12780#
+
+#
+12781#
+
+#
+12782#
+
+#
+12783#
+
+#
+12784#
+
+#
 12787#
+
+#
+12788#
+
+#
+12789#
 
 #
 12791#
@@ -41776,6 +42976,12 @@ Berat : ^7777771^000000
 
 #
 12798#
+
+#
+12800#
+
+#
+12801#
 
 #
 12802#
@@ -41882,6 +43088,27 @@ Berat : ^7777771^000000
 12853#
 Telur spesial untuk masa natal dan tahun baru. Kamu mempunyai kesempatan mendapatkan item menarik seperti Mistress Card, Sealed Eddga Card, Sealed Berzebub Card, Safe to 9 Armor Certificate, Cat Ears Beret, Bloody Branch dan lain-lain.
 Berat : ^7777771^000000
+#
+12864#
+
+#
+12865#
+
+#
+12866#
+
+#
+12867#
+
+#
+12868#
+
+#
+12869#
+
+#
+12870#
+
 #
 12873#
 ^ff0000Tidak dapat ditransaksikan.^000000
@@ -42168,9 +43395,125 @@ Sebuah kotak yang berisi 1 Elven Ear. Hati-hati dalam membawanya.
 Berat : ^7777771^000000
 #
 12953#
-Sebuah kotak yang berisi 1 Critical Ring. Handle with care.
-^ffffff_^000000
+Box yang berisi 1 buah Neo Critical Ring.
+ 
+^0000ffWaktu Rental: 7 hari^000000
+^ff0000Item rental tidak dapat dipindahkan setelah dibuka dari box^000000
+ 
+Cincin yang dibuat hanya sedikit untuk membangkitkan kekuatan tersembunyi pemakainya.
+CRIT +10
+ 
+Jenis : ^777777Aksesoris^000000
+Def : ^7777770^000000
 Berat : ^7777771^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
+#
+12954#
+Box yang berisi 1 buah Neo Earring.
+ 
+^0000ffWaktu Rental: 7 hari^000000
+^ff0000Item rental tidak dapat dipindahkan setelah dibuka dari box^000000
+ 
+Hiasan yang digantung dikuping. Meningkatkan Intelligence pemakainya.
+INT +3
+ 
+Jenis : ^777777Aksesoris^000000
+Def : ^7777770^000000
+Berat : ^7777771^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
+#
+12955#
+Box yang berisi 1 buah Neo Ring.
+ 
+^0000ffWaktu Rental: 7 hari^000000
+^ff0000Item rental tidak dapat dipindahkan setelah dibuka dari box^000000
+ 
+Sebuah cincin kuno.
+STR +4
+ 
+Jenis : ^777777Aksesoris^000000
+Def : ^7777770^000000
+Berat : ^7777771^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
+#
+12956#
+Box yang berisi 1 buah Neo Necklace.
+ 
+^0000ffWaktu Rental: 7 hari^000000
+^ff0000Item rental tidak dapat dipindahkan setelah dibuka dari box^000000
+ 
+Kalung Ratu jaman dahulu. Meningkatkan Vitality pemakainya.
+VIT +4
+ 
+Jenis : ^777777Aksesoris^000000
+Def : ^7777770^000000
+Berat : ^7777771^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
+#
+12957#
+Box yang berisi 1 buah Neo Glove.
+ 
+^0000ffWaktu Rental: 7 hari^000000
+^ff0000Item rental tidak dapat dipindahkan setelah dibuka dari box^000000
+ 
+Penutup tangan yang ada sihirnya untuk membantu cengkraman. Menjadikan pemakainya lebih akurat.
+DEX +4
+ 
+Jenis : ^777777Aksesoris^000000
+Def : ^7777770^000000
+Berat : ^7777771^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
+#
+12958#
+Box yang berisi 1 buah Neo Brooch.
+ 
+^0000ffWaktu Rental: 7 hari^000000
+^ff0000Item rental tidak dapat dipindahkan setelah dibuka dari box^000000
+ 
+Hiasan sihir yang ada jarumnya di belakangnya untuk dipakai di pakaian.
+Meningkatkan Agility pemakainya.
+AGI +4
+ 
+Jenis : ^777777Aksesoris^000000
+Def : ^7777770^000000
+Berat : ^7777771^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
+#
+12959#
+Box yang berisi 1 buah Neo Rosary.
+ 
+^0000ffWaktu Rental: 7 hari^000000
+^ff0000Item rental tidak dapat dipindahkan setelah dibuka dari box^000000
+ 
+Seuntaian bulatan untuk menghitung doa dalam upacara tertentu.
+LUK +4, MDEF +5
+ 
+Jenis : ^777777Aksesoris^000000
+Def : ^7777770^000000
+Berat : ^7777771^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
+#
+12960#
+Box yang berisi 1 buah Neo Safety ring.
+ 
+^0000ffWaktu Rental: 7 hari^000000
+^ff0000Item rental tidak dapat dipindahkan setelah dibuka dari box^000000
+ 
+Sebuah cincin misterius yang meningkatkan pertahanan pemakainya.
+DEF +8, MDEF +8
+ 
+Jenis : ^777777Aksesoris^000000
+Def : ^7777770^000000
+Berat : ^7777771^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job kecuali Novice^000000
 #
 12983#
 Sebuah Box Special yang bisa kalian dapatkan dengan menukar kartu R.A.M.A.D.H.A.N
@@ -42712,6 +44055,30 @@ Level Persyaratan : ^77777740^000000
 Jobs : ^777777Novice/SwordmanWeapon Class/Magician Weapon Class/Archer Weapon Class/Merchant Weapon Class/Thief Weapon Class^000000
  
 #
+13053#
+
+#
+13054#
+
+#
+13055#
+
+#
+13056#
+
+#
+13057#
+
+#
+13058#
+
+#
+13059#
+
+#
+13060#
+
+#
 13061#
 Sebuah belati bergerigi yang dibuat oleh Persekutuan Rogue.
 Meningkatkan serangan skill Fatal Menace sebesar 30%. Setiap tingkat tempa diatas +5, tambahan peningkatan serangan skill Fatal Menace sebesar 3% dan MATK + 3.
@@ -42731,6 +44098,9 @@ Berat : ^77777760^000000
 Senjata Level : ^7777774^000000
 Level Persyaratan : ^777777120^000000
 Untuk Profesi : ^777777Swordman/Merchant/Thief/Archer/Mage^000000
+#
+13063#
+
 #
 13064#
 Knife, yang disediakan oleh  Academy
@@ -42837,6 +44207,9 @@ Berat : ^777777100^000000
 Level Senjata : ^7777774^000000
 Minimum Level : ^77777795^000000
 Jobs: ^777777Novice, Swordman, Mage, Archer, Merchant, Thief, Soul Linker, dan Ninja^000000
+#
+13073#
+
 #
 13074#
 ^ff0000Item ini tidak bisa di transaksikan dengan pemain lain.^000000
@@ -45129,6 +46502,21 @@ Level Persyaratan : ^77777740^000000
 Jobs : ^777777SwordmanWeapon Class/Merchant Weapon Class/Thief Weapon Class^000000
  
 #
+13426#
+
+#
+13427#
+
+#
+13428#
+
+#
+13429#
+
+#
+13430#
+
+#
 13431#
 Pedang yang terbuat dari Bradium, mineral dari dunia lain 
 Tidak dapat dihancurkan 
@@ -45138,6 +46526,9 @@ Berat : ^777777220^000000
 Senjata Level : ^7777773^000000
 Level Persyaratan : ^777777110^000000
 Untuk Profesi : ^777777Swordman/Merchant^000000
+#
+13432#
+
 #
 13433#
 Sword, yang disediakan oleh  Academy
@@ -46327,13 +47718,14 @@ Berat : ^7777771^000000
  
 #
 13858#
+^ff0000Barang ini tidak bisa ditransaksikan.^000000
+ 
 Sebuah kotak berisi 10 buah permen yang dapat meletup dimulutmu. Jangan lupa menyikat gigi setelah memakannya.
 ATK +20, Aspd +25%, memberikan status Endure selama 1 menit dan mengurangi 100 HP setiap 10 detik selama 1 menit.
 Kamu dapat menggunakan setiap 3 menit.
-^ff0000Item ini tidak dapat dikembalikan atau diuangkan.^000000
+^ff0000Ketika karakter mati maka efek akan hilang.^000000
 ^ffffff_^000000
 Berat : ^7777771^000000
- 
 #
 13859#
 Sebuah amplop yang di segel. Sepertinya terdapat pesan yang penting didalamnya.
@@ -47769,8 +49161,6 @@ ATK +20, Aspd +25%, memberikan status Endure selama 1 menit dan mengurangi 100 H
 Kamu dapat menggunakan setiap 3 menit.
 ^ffffff_^000000
 Berat : ^7777771^000000
- 
- 
 #
 14588#
 ^ff0000Item ini tidak dapat ditransaksikan.^000000
@@ -48267,6 +49657,9 @@ Peringatan-setelah digunakan, jika kamu tidak memilih apapun selama 1 menit, efe
 Berat : ^77777710^000000
 
 #
+14840#
+
+#
 14841#
 
 #
@@ -48367,6 +49760,9 @@ Berat : ^7777771^000000
 
 #
 14873#
+
+#
+14875#
 
 #
 14883#
@@ -48802,6 +50198,12 @@ Berat : ^77777750^000000
 Minimum Level : ^77777795^000000
 Jobs : ^777777Novice / Wizard / Acolyte / Soul Linker^000000
 #
+15049#
+
+#
+15050#
+
+#
 15051#
 Armor yang terbuat dari sisik Bakonawa. Memancarkan efek cahaya bulan misterius.
 Mengurangi serangan sebesar 1% dari boss monster setiap 2 level tempa.
@@ -48855,6 +50257,9 @@ Berat : ^777777120^000000
 Require Level : ^777777100^000000
 Applicable Job : ^777777Ninja Class^000000
 #
+15057#
+
+#
 15058#
 Sebuah jaket spesial untuk para pemburu yang sangat kuat dan nyaman.
 AGI + 1.
@@ -48864,6 +50269,12 @@ Jenis : ^777777Armor^000000 Tk Def : ^77777740^000000
 Berat : ^777777100^000000
 Persyaratan Level : ^7777771^000000
 Untuk Profesi : ^777777Semua Job High selain Novice^000000
+#
+15059#
+
+#
+15060#
+
 #
 15061#
 Armor dari Egir, Dewa Lautan. Indah seperti duyung, terlihat seperti dapat berenang didalam air.
@@ -49670,6 +51081,9 @@ Berat : ^77777750^000000
 Lv. Minimall : ^7777771^000000
 Job : ^777777All Job^000000
 #
+15189#
+
+#
 15195#
 Jubah Suci berwarna putih dengan kekuatan sihir didalamnya.
 ------------------------
@@ -49688,6 +51102,24 @@ Def : ^77777752^000000
 Berat : ^77777740^000000
 Lv minimal : ^77777799^000000
 Job: ^777777All Job^000000
+#
+15197#
+
+#
+15198#
+
+#
+15199#
+
+#
+15200#
+
+#
+15201#
+
+#
+15202#
+
 #
 15205#
 Baju yang dipakai tim medis di peperangan.
@@ -50451,6 +51883,9 @@ Berat : ^7777770^000000
 Lv Min: ^7777771^000000
 Job : ^777777All Job^000000
 #
+15927#
+
+#
 15932#
 Per 35 Base Lv:
 HIT +2
@@ -50628,6 +52063,9 @@ Berat : ^77777730^000000
 Lv Min. : ^777777100^000000
 Job: ^777777Semua Job^000000
 #
+15957#
+
+#
 15958#
 
 #
@@ -50683,6 +52121,12 @@ Level Persyaratan : ^77777740^000000
 Jobs : ^777777Swordman Class/Acolyte Class/Merchant Weapon Class^000000
  
 #
+16008#
+
+#
+16009#
+
+#
 16010#
 Tas baru dari perkumpulan Alchemist: Senjata khusus wanita 
 Meningkatkan 20% Serangan Crazy Weed dan Demonic Fire. Meningkatkan 2% serangan setiap upgrade diatas +6 
@@ -50692,6 +52136,9 @@ Berat : ^777777100^000000
 Senjata Level : ^7777773^000000
 Level Persyaratan : ^777777102^000000
 Untuk Profesi : ^777777Generic^000000
+#
+16011#
+
 #
 16012#
 Mace, yang disediakan oleh  Academy
@@ -50803,6 +52250,9 @@ Berat : ^777777150^000000
 Level Senjata : ^7777774^000000
 Minimum Level : ^77777795^000000
 Jobs: ^777777Novice, Swordman, Acolyte, and Merchant Classes^000000
+#
+16022#
+
 #
 16023#
 ^ff0000Barang ini tidak bisa ditransaksikan.^000000
@@ -51617,6 +53067,9 @@ Sebuah kotak yang berisi 1 buah Premium Reset Stone.
 Berat : ^7777771^000000
  
 #
+16556#
+
+#
 16569#
 
 #
@@ -51980,11 +53433,17 @@ Oridecon yang telah diberkati oleh Dewa Tempa. Ketika akan menempa senjata denga
 Berat : ^7777771^000000
 ^ff0000Item ini tidak dapat dikembalikan setelah dibeli.^000000
 #
+16754#
+
+#
 16755#
 Sebuah kotak yang berisi bijian mineral murni armor.
 Elunium yang telah diberkati oleh Dewa Tempa. Ketika akan menempa senjata dengan tingkat tempa antara +6 dan +12, senjata tidak akan hancur saat gagal tempa.
 Berat : ^7777771^000000
 ^ff0000Item ini tidak dapat dikembalikan setelah dibeli.^000000
+#
+16756#
+
 #
 16757#
 Sebuah Egg untuk merayakan halloween.Ketika dipakai kamu akan mendapatkan random item.
@@ -52378,6 +53837,15 @@ Berat : ^7777771^000000
 Sebuah telur yang berisi beragam item langka. Antara lain seperti Egnigem Cenia Card, Miracle Tonic, Pisces Diadem, Pisces Crown, dan Tiraya Bonnet.
 Berat : ^7777771^000000
 #
+17114#
+
+#
+17115#
+
+#
+17116#
+
+#
 17117#
 
 #
@@ -52707,6 +54175,168 @@ Sebuah lucky Egg yang memiliki bentuk yang unik.
 Kamu akan berkesempatan mendapatkan Fallen Bishop Card, Upgrade Maya Puple Card, Safe to armor,weapon Up to 11 dan item-item lainnya. 
 ^ffffff_^000000
 Berat : ^7777771^000000
+#
+17340#
+
+#
+17341#
+
+#
+17342#
+
+#
+17343#
+
+#
+17344#
+
+#
+17345#
+
+#
+17346#
+
+#
+17347#
+
+#
+17348#
+
+#
+17349#
+
+#
+17350#
+
+#
+17351#
+
+#
+17352#
+
+#
+17353#
+
+#
+17354#
+
+#
+17355#
+
+#
+17356#
+
+#
+17357#
+
+#
+17358#
+
+#
+17359#
+
+#
+17360#
+
+#
+17361#
+
+#
+17362#
+
+#
+17363#
+
+#
+17364#
+
+#
+17365#
+
+#
+17366#
+
+#
+17367#
+
+#
+17368#
+
+#
+17369#
+
+#
+17370#
+
+#
+17371#
+
+#
+17372#
+
+#
+17373#
+
+#
+17374#
+
+#
+17375#
+
+#
+17376#
+
+#
+17377#
+
+#
+17378#
+
+#
+17379#
+
+#
+17380#
+
+#
+17381#
+
+#
+17382#
+
+#
+17383#
+
+#
+17384#
+
+#
+17385#
+
+#
+17386#
+
+#
+17387#
+
+#
+17388#
+
+#
+17389#
+
+#
+17390#
+
+#
+17391#
+
+#
+17392#
+
+#
+17393#
+
 #
 17396#
 ^ff0000Item ini tidak dapat di transaksikan dengan pemain lain .^000000
@@ -53550,6 +55180,9 @@ Cyborg_Lucky_Egg
 Kamu bisa mendapatkan C Analyze Eye, C Seraph Wing Helm, Polyhedron Shoes, Imperial Ring dan item item Spesial lain nya.
 Berat : ^7777771^000000
 #
+17630#
+
+#
 17633#
 Kamu bisa mendapatkan Bio Protector, Scutum, Little Aquarium, Pigeon Hat dan item item Spesial lain nya.
 Berat : ^7777771^000000
@@ -53557,13 +55190,22 @@ Berat : ^7777771^000000
 17634#
 
 #
+17647#
+
+#
 17648#
 Smithy Lucky Egg. Kamu bisa mendapatkan item berharga jika membukanya
 Berat : ^7777771^000000
 #
+17649#
+
+#
 17659#
 Kamu bisa mendapatkan Magical Ring , Hero Cape , Ancient Elven Ear,Buddhist Priest Crown Hat dan item item Spesial lain nya.
 Berat : ^7777771^000000
+#
+17660#
+
 #
 17665#
 Kamu bisa mendapatkan C Classical Fhat, Vajra, Moon Eyepatch, Chatty Parrot dan item item Spesial lain-nya
@@ -53814,6 +55456,12 @@ Jenis  : ^777777Cannonball^000000 Serangan : ^777777250^000000
 Berat : ^7777771^000000 Elemen : ^777777Netral^000000
  
 #
+18101#
+
+#
+18102#
+
+#
 18103#
 Busur kecil dengan kekuatan magis 
 SP berkurang 10 untuk Severe Rainstorm.
@@ -53823,6 +55471,9 @@ Berat : ^777777170^000000
 Senjata Level : ^7777773^000000
 Level Persyaratan : ^777777105^000000
 Untuk Profesi : ^777777Ranger^000000
+#
+18104#
+
 #
 18105#
 Kapak, yang disediakan oleh  Academy
@@ -53924,6 +55575,9 @@ Berat : ^777777110^000000
 Level Senjata : ^7777774^000000
 Minimum Level : ^77777795^000000
 Jobs: ^777777Archer, Thief dan Rogue^000000
+#
+18115#
+
 #
 18116#
 ^ff0000Barang ini tidak bisa ditransaksikan.^000000
@@ -54518,6 +56172,12 @@ Location : ^777777Upper ^000000 Berat : ^7777770^000000
 Required Lv. : ^7777771^000000
 Job : ^777777All jobs^000000
 #
+18511#
+
+#
+18512#
+
+#
 18514#
 ^ff0000Tidak dapat di transaksikan.^000000
 Sebuah Topi yang hanya disediakan untuk anggota Eden Group.
@@ -54568,15 +56228,22 @@ Level Persyaratan : ^7777771^000000
 Profesi: ^777777Semua Profesi^000000
 #
 18523#
+^ff0000Tidak dapat digunakan pada WoE^000000
 Sebuah awan kecil dengan suara guntur dan petir yang keluar terus menerus.
-Apabila pemakai menerima serangan fisik berkemungkinan mengeluarkan skill Lightning Bolt level 5 atau Thunderstorm level 5.
-Apabila pemakai mempunyai skill Lightning Bolt atau Thunderstorm lebih tinggi dari Lv 5, maka skill yang keluarpun akan meningkat, sesuai level skill tersebut.
-Kemungkinan keluar akan meningkat jika skill yang dikuasai semakin tinggi. Tidak bisa ditempa.
-Jenis : ^777777Headgear^000000 Tk Def : ^7777770^000000
-Posisi : ^777777Atas^000000 Berat : ^77777750^000000
-Level Persyaratan : ^77777730^000000
-Profesi : ^777777Semua Profesi^000000" 
- 
+---------
+Ketika melakukan serangan fisik, berkemungkinan mengeluarkan Lightning Bolt Lv. 5 atau Thunderstorm Lv. 5
+Kemungkinan keluar akan meningkat jika skill yang dimiliki semakin tinggi.
+Jika kamu memiliki skill lebih dari Lv. 5, meningkatkan kemungkinan keluar skill lebih besar.
+---------
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^77777710^000000
+Lv Min. : ^77777730^000000
+Job: ^777777Semua Job^000000
+#
+18524#
+
 #
 18528#
 Sebuah topi menyerupai peliharaan Loli Ruri 'Cru'.
@@ -54620,6 +56287,9 @@ Berat : ^777777100^000000
 Level Persyaratan : ^77777710^000000
 Profesi : ^777777Semua Profesi^000000
 #
+18532#
+
+#
 18533#
 Sebuah topi dengan garis lebah dan sepasang antena.
 Berbau manis seperti madu.
@@ -54644,6 +56314,9 @@ Digunakan lv. : ^77777750^000000
 Profesi : ^777777Semua Profesi^000000
 #
 18534#
+
+#
+18535#
 
 #
 18536#
@@ -54727,7 +56400,19 @@ location: ^777777upper ^000000 Berat : ^77777740^000000
 requeired level : ^77777760^000000
 job : ^777777Semua job^000000
 #
+18544#
+
+#
+18545#
+
+#
 18546#
+
+#
+18547#
+
+#
+18548#
 
 #
 18550#
@@ -54754,6 +56439,9 @@ Letak: ^777777Upper ^000000 Berat : ^777777100^000000
 Level Persyaratan : ^77777750^000000
 Job : ^777777Semua Job^000000
 #
+18552#
+
+#
 18553#
 Sebuah penutup kepala berbentuk pohon natal yang dibuat oleh Louise Carol.
 Meningkatkan pertahanan terhadap status Blind, Stun, Curse dan Confusion sebesar 20%.
@@ -54764,6 +56452,9 @@ Jenis : ^777777Headgear^000000    Defense : ^7777775^000000
 Location : ^777777Upper^000000    Berat : ^7777775^000000
 Minimum Lvl : ^77777771^000000
 Job : ^777777Semua^000000
+#
+18554#
+
 #
 18555#
 
@@ -54800,6 +56491,9 @@ Profesi : ^777777Semua^000000
 18561#
 
 #
+18562#
+
+#
 18563#
 Sebuah Hairband dengan hiasan hati kecil bersayap.
 Mengurangi delay setelah menggunakan skill sebesar 5%. Mengurangi konsumsi SP ketika menggunakan skill sebesar 10%. Tambahan pengurangan delay after skill dan penggunaan SP ketika menggunakan skill sebesar 3% setiap 3 tingkat tempa.
@@ -54817,6 +56511,12 @@ Jenis : ^777777Helm^000000Pertahanan : ^7777770^000000
 Lokasi : ^777777Lower ^000000Berat : ^77777720^000000
 Lv Minimum : ^77777750^000000
 Profesi : ^777777Semua^000000
+#
+18565#
+
+#
+18568#
+
 #
 18570#
 Sebuah hiasan rambut yang memiliki kekuatan ancient magic dan terbuat dari emas. Kekuatan nya dapat berubah tergantung dengan Profesi si pengguna
@@ -54879,6 +56579,9 @@ Equip : ^777777All class^000000
 18576#
 
 #
+18577#
+
+#
 18578#
 ^ff0000Tidak bisa ditransaksikan dengan pemain lain.^000000
 Sebuah helm yang dicarancang kshusu dan didalamnya mengandung kekuatan sihir.
@@ -54912,6 +56615,30 @@ Berat : ^77777720^000000
 Lv Minimal : ^77777770^000000
 Job : ^777777Semua Job^000000
 #
+18581#
+
+#
+18582#
+
+#
+18583#
+
+#
+18584#
+
+#
+18585#
+
+#
+18586#
+
+#
+18587#
+
+#
+18588#
+
+#
 18589#
 Sebuah topi yang berbentuk mirip seperti buah Strawberry.
 Memberikan kemungkinan untuk memperoleh strawberry setiap kali mengalahkan monster. Setiap tingkat tempa akan meningkatkan rate untuk mendapatkan strawberry.
@@ -54920,7 +56647,16 @@ Posisi : ^777777Atas^000000 Berat : ^77777710^000000
 Level Persyaratan : ^7777771^000000
 Untuk Profesi : ^777777Semua Profesi^000000
 #
+18590#
+
+#
+18591#
+
+#
 18593#
+
+#
+18594#
 
 #
 18596#
@@ -54942,6 +56678,9 @@ Posisi : ^777777Atas^000000
 Berat : ^77777740^000000
 Level Persyaratan: ^77777770^000000
 Profesi : ^777777Semua Profesi^000000
+#
+18598#
+
 #
 18599#
 Topeng menyeramkan yang menutupi setengah wajah, namun tetap nyaman dipakai karena ada lubang di bagian matanya.
@@ -54975,6 +56714,20 @@ Posisi : ^777777Atas ^000000Berat : ^77777730^000000
 Level Persyaratan : ^7777771^000000
 Profesi : ^777777Semua^000000
 #
+18602#
+^000088Sebuah potongan semangka yang dipotong seukuran kecil.^000000
+ 
+^ff0000EXP +1%^000000
+^ff0000Drop +1%^000000
+^ff0000Meningkatkan regenerasi HP & SP sebesar 3%.^000000
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Lower^000000
+Def : ^7777770^000000
+Berat : ^77777710^000000
+Lv Min. : ^77777730^000000
+Job: ^777777Semua Job^000000
+#
 18603#
 Topeng menyeramkan yang menutupi setengah wajah, namun tetap nyaman dipakai karena ada lubang di bagian matanya.
 Semua Status + 1.
@@ -54983,6 +56736,15 @@ Posisi : ^777777Tengah ^000000Berat : ^77777710^000000
 Level Persyaratan : ^7777771^000000
 Profesi : ^777777Semua^000000
  
+#
+18604#
+
+#
+18605#
+
+#
+18606#
+
 #
 18607#
 Kamu menginginkan barang yang lucu dan menggemaskan untuk kekasihmu? Ambil ini,  ini adalah barang yang sangat indah baik untuk laki-laki maupun para gadis.
@@ -55012,6 +56774,9 @@ Digunakan di : ^777777Costume Upper^000000
 Berat : ^7777771^000000
 Diperlukan Lv. : ^7777771^000000
 Profesi : ^777777Semua Profesi^000000
+#
+18611#
+
 #
 18613#
 Black Musang's hat Sebuah Topi yang sangat menarik jika digunakan akan memberikan INT + 2, DEX + 2, AGI + 1.
@@ -55062,6 +56827,15 @@ Berat : ^7777775^000000
 Lv Min. : ^77777720^000000
 Job: ^777777Semua Job^000000
 #
+18622#
+
+#
+18623#
+
+#
+18624#
+
+#
 18625#
 Sembuah penutup kepala yang menyerupai sebuah roket yang ingin memnuju keangkasa.
 Juka digunakan akan memberikan efek Semua status + 2, MDEF + 5.
@@ -55080,6 +56854,12 @@ Posisi : ^777777Atas ^000000 Berat : ^77777720^000000
 Level Persyaratan : ^77777740^000000
 Untuk Profesi : ^777777Semua Profesi^000000
 #
+18627#
+
+#
+18628#
+
+#
 18630#
 Boneka Alice yang lucu dari pabrik robot.
 Meningkatkan kekuatan serangan pada monster jenis Demihuman dan Demon sebesar 10%.
@@ -55088,6 +56868,9 @@ Jenis : ^777777Headgear^000000    Tk Def : ^7777776^000000
 Dikenakan di : ^777777Atas^000000    Berat : ^77777750^000000
 Minimum Lvl : ^77777770^000000
 Job : ^777777Semua kecuali novice^000000
+#
+18631#
+
 #
 18636#
 Pita yang mengekspresikan kegembiraan pengantin perempuan. Membuat kamu menjadi lebih sensitif.
@@ -55155,6 +56938,9 @@ Profesi : ^777777Semua profesi kecuali Novice^000000
 18648#
 
 #
+18649#
+
+#
 18651#
 
 #
@@ -55191,6 +56977,9 @@ Lv Minimal : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
 18657#
+
+#
+18658#
 
 #
 18659#
@@ -55269,6 +57058,9 @@ Job: ^777777Semua Job kecuali Novice^000000
 18668#
 
 #
+18669#
+
+#
 18670#
 Menggigit saputangan ini membuat orang merasa kasih sayang.
 3% mengurangi damage dari monster tipe Human.
@@ -55285,6 +57077,9 @@ Jenis : ^777777Pelindung Kepala^000000 Tk Def : ^7777775^000000
 Posisi : ^777777Atas ^000000Berat : ^77777720^000000
 Level Persyaratan : ^77777730^000000
 Untuk Profesi : ^777777Semua Profesi^000000
+#
+18672#
+
 #
 18673#
 Helm paling populer! Tare Pope!
@@ -55365,6 +57160,24 @@ Untuk Profesi : ^777777Semua Profesi^000000
 18684#
 
 #
+18685#
+
+#
+18686#
+
+#
+18687#
+
+#
+18688#
+
+#
+18689#
+
+#
+18690#
+
+#
 18691#
 Sebuah topi yang dibuat menyerupai kebangkitan naga hitam.  Sebuah helm yang didalamnya mengandung tekad naga hitam, Memiliki tampilan yang luar dan jarak pandang yang luar biasa.
 Class : ^777777Headgear^000000 Defense : ^7777773^000000
@@ -55381,12 +57194,7 @@ Lokasi : ^777777Upper^000000    Berat : ^77777720^000000
 Profesi : ^777777Semua Job Kecuali Novice^000000"
 #
 18693#
-Topi yang menyerupai kucing tidur. Jika kamu membangunkan kucing tidur, kamu akan menderita.
-Menambah serangan 2 % kepada seluruh monster hewan.
-Jenis : ^777777Headgear^000000    Defense : ^7777774^000000
-Lokasi : ^777777Upper^000000    Berat : ^77777720^000000
-Level Persyaratan : ^77777720^000000
-Profesi : ^777777Semua Job Kecuali Novice^000000"
+
 #
 18694#
 Satu karakter utama memakai ini do-rag. Cobalah untuk jadi tokoh utama didalam legenda  
@@ -55404,6 +57212,9 @@ Lokasi : ^777777Upper^000000    Berat : ^77777740^000000
 Level Persyaratan : ^77777720^000000
 Job : ^777777Semua Job Kecuali Novice^000000
 #
+18696#
+
+#
 18697#
 Hiasan yang mirip alat suntik. Jika diletakkan di mulut, akan seperti ancaman. INT +3
 Tidak dapat ditempa.
@@ -55420,7 +57231,13 @@ Lokasi : ^777777Mulut^000000    Berat : ^77777720^000000
 Level Persyaratan : ^77777720^000000
 Job : ^777777Semua Job kecuali Novice^000000
 #
+18699#
+
+#
 18700#
+
+#
+18701#
 
 #
 18702#
@@ -55942,6 +57759,9 @@ Dikenakan di : ^777777Atas ^000000 Berat : ^77777750^000000
 Minimum Lv : ^77777710^000000
 Job : ^777777semua^000000
 #
+18804#
+
+#
 18806#
 
 #
@@ -56179,22 +57999,18 @@ Job : ^777777All^000000
 #
 18856#
 Topi yang bermodelkan harimau dengan cerutu. Tampaknya sangat tua.
-STR + 2, DEX + 2.
-Menambahkan 10% serangan ke monster type Animal.
-Ketika kamu menyerang atau diserang, kesempatan bisa berubah menjadi Eddga, Raja Harimau. Ketika kamu berubah menjadi Eddga, 
-kehilangan 5SP per detik atau mendapatkan beast power untuk beberapa detik. Kekuatan dan kemungkinan akan meningkat berdasarkan tingkat tempa.
-Class : ^777777Helm^000000 Defense : ^77777710^000000
-Location : ^777777Upper ^000000Berat : ^7777770^000000
-Required Lv : ^7777771^000000
+ 
+STR +2, DEX +2.
+Menambahkan 10% serangan ke monster jenis Brute.
+Ketika menyerang atau diserang, berkesempatan berubah menjadi Raja Harimau, Eddga.
+Ketika bertransformasi, kamu akan kehilangan 5 SP per detik. Kesempatan transformasi dan daya serangan akan meningkat dengan tingkat tempa item ini.
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^77777710^000000
+Berat : ^77777740^000000
+Lv. Min : ^7777771^000000
 Job : ^777777Semua Job^000000
-Sebuah topi yang berbentuk seperti harimau dengan sakkat di kepalanya dan pipa di mulutnya. Yang berasal dari Korea, harimau merokok identik dengan zaman kuno, seperti, "Seperti dulu ketika harimau merokok ..."
-STR + 2, DEX + 2.
-Menambahkan kerusakan 10% pada monster Animal.
-Dapat mengubah kamu menjadi Eddga, saat menyerang atau pada saat menerima serangan .pada saat berubah kamu akan kehilangan SP sebesar 5 pada setiap detik. Kesempatan transformasi dan peningkatan daya secara proporsional dengan level upgrade barang
-Class : ^777777HeadGear^000000 Def : ^77777710^000000
-Location : ^777777Upper ^000000Berat : ^7777770^000000
-Req Lev : ^7777771^000000
-Job : ^777777All^000000
 #
 18857#
 Topi yang meniru Curupira, penjaga hutan dan hewan
@@ -56334,6 +58150,9 @@ Jenis : ^777777Shield^000000 Def : ^77777750^000000
 Berat : ^77777750^000000
 Syarat Lv : ^77777765^000000
 Job : ^777777Semua Job^000000
+#
+18877#
+
 #
 18878#
 Sebuah topi yang dipakai oleh para penjaga yang akan bertarung tanpa rasa takut.
@@ -56819,6 +58638,15 @@ Deigunakan di  : ^777777Upper ^000000Berat : ^777777100^000000
 Digunakan Lv. : ^77777790^000000
 Job : ^777777All jobs^000000
 #
+18941#
+
+#
+18942#
+
+#
+18943#
+
+#
 18944#
 
 #
@@ -57084,7 +58912,19 @@ Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 19009#
-
+^ff0000Tidak dapat digunakan pada WoE^000000
+Sebuah awan hitam dengan suara guntur dan petir
+---------
+Ketika melakukan serangan fisik, berkemungkinan mengeluarkan Colt Bolt Lv. 5 atau Frost Driver Lv. 5
+Kemungkinan keluar akan meningkat jika skill yang dimiliki semakin tinggi.
+Jika kamu memiliki skill lebih dari Lv. 5, meningkatkan kemungkinan keluar skill lebih besar.
+---------
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^77777750^000000
+Lv Min. : ^77777730^000000
+Job: ^777777Semua Job^000000
 #
 19010#
 
@@ -57450,6 +59290,9 @@ Def: ^7777770^000000
 Berat: ^77777710^000000
 Syarat Lv: ^777777100^000000
 Job: ^777777All job^000000
+#
+19114#
+
 #
 19115#
 Topi yang tampaknya dibuat di Republik Schwaltzvalt.
@@ -59252,6 +61095,9 @@ Berat : ^7777770^000000
 Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
+19427#
+
+#
 19428#
 INT +10
 MDEF +15
@@ -59834,7 +61680,17 @@ Job : ^777777Summoner (Doram)^000000
 
 #
 19494#
-
+Mata yang sangat serius
+ 
+ATK & MATK +7
+Meningkatkan serangan fisik & magic terhadap player sebesar 5%
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Middle^000000
+Def : ^7777770^000000
+Berat : ^7777771^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 19495#
 All Status +5
@@ -60281,10 +62137,13 @@ Job : ^777777All^000000
 #
 19585#
 Sebuah topi premium yang menawarkan banyak kelebihan. Dekorasi bulunya seperti warna biru langit.
-Job: ^777777Costume Equipment^000000
-Location: ^777777Upper^000000 Berat: ^7777770^000000
-Level Dibutuhkan : ^7777771^000000
-Job : ^777777Semua^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 19587#
 ^000088C. King Poring Hat^000000
@@ -60827,7 +62686,16 @@ Profesi : ^777777Semua Profesi^000000
 
 #
 19756#
-
+Sebuah topi yang hangat dan penuh cinta.
+ 
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper, Middle^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 19758#
 Meskipun ia terlihat seperti kodok, tetapi aslinya dia adalah pangeran yang menunggu seseorang menciumnya.
@@ -60843,7 +62711,15 @@ Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
 19759#
+Payung warna-warni yang tidak perlu dipegang dengan tangan.
+Sangat berguna saat musim hujan.
 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 19760#
 Tudung dengan warna cerah yang beraneka ragam.
@@ -60851,6 +62727,18 @@ Jenis : ^777777Costume^000000 Def : ^7777770^000000
 Posisi : ^777777Upper Middle ^000000Berat : ^7777770^000000
 Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
+#
+19762#
+Sebuah simbol kebahagian dan perdamaian.
+ 
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 19767#
 Sebuah aksesori rambut yang lucu yang dihiasi dengan bunga sakura dan lonceng kecil. Dapat mengingatkanmu dengan kenangan masa lalu.
@@ -61053,6 +62941,9 @@ Berat : ^7777771^000000
 Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
+19817#
+
+#
 19821#
 ^FF0000[Effect akan dihapus pada pada 11 Januari 2024]^000000
 EXP +15%, Drop Rate +15%
@@ -61116,7 +63007,14 @@ Lv Minimal : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
 19832#
-
+Topi yang berbentuk Poring yang sangat imut !
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 19834#
 Sebuah topi yang digunakan untuk melindungi mata dari sinar matahari.
@@ -62116,6 +64014,12 @@ Location : ^777777Upper ^000000Berat : ^7777770^000000
 Required Lv : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
+20081#
+
+#
+20082#
+
+#
 20086#
 Topi dengan kekuatan Naga yang ada di antara 12 Dewa.
 Nampaknya Naga ini dapat mengabulkan permintaan.
@@ -62162,10 +64066,13 @@ Job: ^777777Semua Job^000000
 #
 20105#
 Sebuh topi dengan bentuk kepala ikan yang selalu membuka dan menutup mulutnya.
-Class : ^777777Costume Equipment^000000 Defense : ^7777770^000000
-Location : ^777777Upper ^000000Berat : ^7777770^000000
-Required Lv. : ^7777771^000000
-Job : ^777777All^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 20106#
 Topi miring yang sering digunakan untuk ke pesta pesta kecil.
@@ -62506,6 +64413,26 @@ Sebagai sebuah kebutuhan di musim panas, sangat pragmatis karena kecil dan ringa
 Jenis: ^777777Equip Kostum^000000 DEF: ^7777770^000000
 Untuk Bagian: ^777777Kepala Bawah ^000000 Berat: ^7777770^000000
 Lv Dibutuhkan.: ^7777771^000000
+Job: ^777777Semua Job^000000
+#
+20160#
+Replika penggorengan yang digunakan untuk menggoreng telur PecoPeco.
+Penggorengan ini bukanlah penggorengan biasa.
+  
+^ff0000EXP +3%^000000
+^ff0000DROP +3%^000000
+^ff0000All Stats +1^000000
+ 
+^ff0000Ketika menerima serangan fisik mempunyai kemungkinan menyebabkan status Curse pada musuh.^000000
+  
+^ff0000[Durasi Efek]^000000
+^ff00006 Maret 2025 - 17 April 2025^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 20164#
@@ -62875,12 +64802,19 @@ Job : ^777777Semua Job^000000
 #
 20249#
 Sebuah wig yang terinspirasi ketika mereka telah mencapai batas kekuatan mereka.
+ 
+^ff0000All Stats+ 2^000000
+^ff0000EXP +5%^000000
+^ff0000Drop +5%^000000
+^ff0000Durasi Efek :1 Bulan^000000
+^ff0000(13 Februari 2025 - 13 Maret 2025)^000000
+ 
 Jenis : ^777777Costume^000000
-Tk Def: ^7777770^000000
-Posisi: ^777777Atas^000000
-Berat: ^7777770^000000
-Minimum Lv: ^7777771^000000
-Job: ^777777Semua Profesi^000000
+Def : ^7777770^000000
+Posisi : ^777777Upper^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Profesi^000000
 #
 20250#
 Sebuah wig yang terinspirasi ketika mereka telah mencapai batas kekuatan mereka.
@@ -62899,13 +64833,14 @@ Job : ^777777All Job^000000
 
 #
 20255#
-^000088Costume Love Cheek^000000
+^000088Costume yang membantu kamu ketika mengungkapkan perasaan.^000000
+ 
 Jenis : ^777777Costume^000000
+Posisi : ^777777Middle^000000
 Def : ^7777770^000000
-Digunakan di : ^777777Middle Costume^000000
-Berat : ^7777771^000000
-Diperlukan Lv. : ^7777771^000000
-Profesi : ^777777Semua Profesi^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 20256#
 Wangi pancake madunya sungguh tidak tertahankan ~
@@ -63063,14 +64998,27 @@ Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 20297#
-Topi lucu yang terinspirasi dari Muka yang ada di Sograd Desert
-------------------------
+Topi lucu yang terinspirasi dari Muka yang berada di Sograt Desert
+ 
+^ff0000All Stats +2^000000
+^ff0000ATK +10^000000
+^ff0000MATK +10^000000
+^ff0000MHP +100^000000
+^ff0000MSP +25^000000
+ 
+^ff0000Mengurangi serangan yang diterima dari semua element sebesar 1%^000000
+ 
+^ff0000Ketika menerima serangan fisik, mempunyai kemungkinana menyebabkan status Silence pada musuh
+ 
+^ff0000[Durasi Efek]^000000
+^ff00006 Maret 2025 - 8 Mei 2025^000000
+ 
 Jenis : ^777777Costume^000000
 Posisi : ^777777Upper^000000
-DEF : ^7777770^000000
-Berat : ^7777771^000000
-Syarat Lv : ^7777771^000000
-Job : ^777777Semua Job^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 20299#
 Topeng Costume yang terbuat dari Kue Pie.
@@ -63502,6 +65450,9 @@ Posisi : ^777777Upper^000000
 Berat : ^7777770^000000
 Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
+#
+20409#
+
 #
 20410#
 Tulang dari pulau Naga.
@@ -64018,23 +65969,30 @@ Lv minimal : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 20522#
-Meow Meow Nya ~ Nya ~. 
+Meow Meow Nya ~ Nya ~.
 Kostum ini akan membuatmu akan merasa seperti dikelilingi kucing lucu.
  
-^777777All Stat +1^000000
+^ff0000All Stat +1^000000
+^ff0000EXP +1%^000000
+^ff0000Drop +1%^000000
  
 ^0000ff[Combo Bonus]^000000
 ^0000ff[Costume White Cat]^000000
-^0000ff[Costume DJ Headset]^000000
+^0000ff[Costume Streamer Headset]^000000
  
-^ff0000All Stat +1^000000
-^ff0000EXP +5%^000000
-^ff0000Drop +5%^000000
+^ff0000All Stat +2^000000
+^ff0000EXP +2%^000000
+^ff0000Drop +2%^000000
+^ff0000Regen HP 10%^000000
+^ff0000Regen SP 10%^000000
+^ff0000ATK +10 , MATK +10^000000
+^ff0000Durasi Efek :^000000
+^ff0000(20 Februari 2025 - 20 Maret 2025)^000000
  
 Jenis : ^777777Garment^000000
 Def : ^7777770^000000
 Berat : ^7777770^000000
-Syarat Lv : ^7777771^000000
+Lv Min. : ^7777771^000000
 Job : ^777777All Job^000000
 #
 20524#
@@ -64207,6 +66165,9 @@ Posisi : ^777777Garment^000000
 Syarat Lv : ^7777771^000000
 Job : ^777777All Job^000000
 #
+20553#
+
+#
 20556#
 All Stat +5
 MaxHP +6%
@@ -64246,7 +66207,19 @@ Posisi : ^777777Garment^000000
 Syarat Lv : ^7777771^000000
 Job : ^777777All Job^000000
 #
+20558#
+
+#
+20559#
+
+#
+20564#
+
+#
 20567#
+
+#
+20569#
 
 #
 20570#
@@ -64507,22 +66480,35 @@ Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
 20599#
-Sayap Bunga Sakura untuk memperingati musim Semi.
-Dihiasi dengan kelopak merah muda yang indah.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box 9.^000000
-Jenis: ^777777Costume^000000 Def: ^7777770^000000
-Posisi: ^777777Garment ^000000 Berat: ^7777770^000000
-Level Minimal: ^7777771^000000
-Job: ^777777All Job^000000
+Sayap yang tercipta untuk memperingati Musim Semi.
+ 
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Garment^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
+#
+20600#
+
+#
+20601#
+
 #
 20602#
 Sayap dari salah satu malaikat Cinta.
 Menurut rumor, Cinta akan bersemi saat kamu mengenakan ini.
-Jenis: ^777777Costume^000000 Def: ^7777770^000000
-Posisi: ^777777Garment ^000000 Berat: ^7777770^000000
-Syarat Lv: ^7777771^000000
-Job: ^777777Semua Job^000000
+ 
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Garment^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 20603#
 Sayap yang dibuat berdasarkan sayap Dewa Kupu Kupu.
@@ -65703,6 +67689,15 @@ Berat: ^77777755^000000
 Syarat Lv: ^777777130^000000
 Job: ^777777Mage Class, Soul Linker.^000000
 #
+20848#
+
+#
+20849#
+
+#
+20850#
+
+#
 20859#
 Phreeoni Wings
 Sebuah baju yang terinspirasi dari Phreeoni. Kamu merasa kamu bisa terbang !
@@ -65824,7 +67819,22 @@ Syarat Lv : ^777777100^000000
 Job : ^777777Semua Job^000000
 #
 20918#
+Sayap yang menyerupai Angeling yang memiliki keinginan untuk melindungi rasnya.
 
+MDEF +4, All Stats +2
+
+^0000ff[Combo Bonus]^000000
+^32CD32Angeling Poring Wing^000000
+^32CD32Angeling Poring Ring^000000
+^32CD32Angeling Poring Earring^000000
+^ff0000MHP +5%, MSP +5%^000000
+
+Jenis : ^777777Equipment^000000
+Posisi : ^777777Garment^000000
+Def : ^77777715^000000
+Berat : ^77777720^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 20922#
 Meningkatkan serangan Fisik dan Magic ke element air sebesar 15%
@@ -66695,6 +68705,9 @@ Berat : ^777777100^000000
 Weapon Level : ^7777774^000000
 Required Level: ^77777748^000000
 Jobs : ^777777Swordman Class^000000
+#
+21004#
+
 #
 21005#
 ^ff0000Barang ini tidak bisa ditransaksikan.^000000
@@ -67750,6 +69763,15 @@ Berat : ^77777740^000000
 Required Level : ^777777100^000000
 Jobs : ^777777Semua 3rd Jobs^000000
 #
+22135#
+
+#
+22136#
+
+#
+22137#
+
+#
 22138#
 Sepatu yang digunakan oleh para pemuja Baphomet.
 ------------------------
@@ -68041,6 +70063,9 @@ Berat: ^77777750^000000
 Syarat Lv: ^777777175^000000
 Job: ^777777All Jobs^000000
 #
+22202#
+
+#
 22206#
 Sepatu yang diberikan oleh kerjaan kepada mereka yang sangat ahli dalam berburu.
 ASPD +5%.
@@ -68285,6 +70310,15 @@ Berat : ^77777730^000000
 Syarat Lv : ^777777100^000000
 Job : ^777777Semua Job^000000
 #
+22503#
+
+#
+22504#
+
+#
+22505#
+
+#
 22507#
 Scroll lusuh yang kusam. Sepertinya kekuatan mana dari celah dimensi ada didalamnya.
 Kamu dapat menggunakan nya untuk berpindah tempat secara random ke daerah sekitar Payon, Morroc, atau Guild Dungeon.
@@ -68472,6 +70506,15 @@ Sebuah kue beras yang berwarna-warni. Terkenal di negara-negara timur.
 Meningkatkan 10 ATK dan MATK untuk sementara waktu.
 ^ffffff_^000000
 Berat : ^7777777^000000
+#
+22560#
+
+#
+22561#
+
+#
+22562#
+
 #
 22566#
 Sebuah es dari permulaan kehidupan. Tidak pernah mencari sejak awal kehidupan.
@@ -69398,6 +71441,12 @@ Hiding Amistr Bag
 Berat : 1
 Berat : ^7777771^000000
 #
+23117#
+
+#
+23118#
+
+#
 23123#
 ^ff0000"Peringatan! Jika jumlah barang ini melebihi 30,000, kelebihannya akan hilang."^000000
 ^ffffff_^000000
@@ -69884,6 +71933,16 @@ Roween sangat menyukai daging ini.
 Jenis : ^777777Barang penjinak^000000 
 Berat: : ^7777775^000000
 #
+23259#
+^000088Sebuah kue krim lembut yang dengan stroberi diatasnya.^000000
+^0000ffMenyembuhkan 5% SP.^000000
+^0000ffMenerima buff Blessing level 5.^000000
+ 
+^ff0000Item ini tidak dapat ditransaksikan.^000000
+^ff0000Item ini akan dihapus ketika event Valentine selesai.^000000
+ 
+Berat : ^77777710^000000
+#
 23267#
 Kotak yang berisi persediaan untuk pemula ketika bertualang. 
 Kamu juga bisa mendapatkan Level Up Box 10 jika membukanya! 
@@ -70096,7 +72155,11 @@ Jika kamu menaruh 3 Anti Status Shadow (Plasterer's, Insomniac, Peerless, Adurat
 Berat : ^7777771^000000
 #
 23326#
-
+Sebuah kotak berisi 100 Siege White Potions dan 50 Siege Blue Potions.
+Siege White Potion-menyembuhkan 400~500 HP.
+Siege Blue Potion Mengembalikan 50-70 SP
+ 
+Berat : ^7777771^000000
 #
 23329#
 Kotak yang berisi Infinite Flywing yang bisa kamu pakai selama 5 hari.
@@ -70372,6 +72435,12 @@ Flute yang dipakai para Ksatria untuk memanggil Super Ultra Great Peco.
 ^ff0000Re-login karakter atau pindah map untuk summon ulang.^000000
  
 Berat : ^7777770^000000
+#
+23670#
+
+#
+23671#
+
 #
 23672#
 
@@ -70810,16 +72879,26 @@ Job : ^777777Semua Job^000000
 24014#
 Sepasang sepatu yang digunakan untuk meningkatkan AGI.
 AGI + 1.
-Jika digunakan 1 set selama event,
-Semua Stats + 9.
-^ff0000Efek tambahan akan dihilangkan setelah event selesai.^000000
-Set Bonus
-Shadow Armor
-Shadow Earring
-Shadow Pendant
-Shadow Shield
-Shadow Shoes
-Shadow Weapon
+ 
+MHP +10 Setiap tingkat tempa.
+ 
+^0000ffCombo Bonus 3 Set :^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
+^ff0000STR +1, AGI +1, INT +1^000000
+^ff0000EXP dan DROP +2%^000000
+ 
+^0000ffCombo Bonus 6 Set :^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
+^32CD32[Promo. Shadow Weapon]^000000
+^32CD32[Promo. Shadow Armor]^000000
+^32CD32[Promo. Shadow Shield]^000000
+^ff0000All Stats +2^000000
+^ff0000EXP dan DROP +3%^000000
+ 
 Type : ^777777Shadow Equipment^000000
 Lokasi : ^777777Sepatu^000000 Berat : ^7777770^000000
 Syarat Level : ^7777771^000000
@@ -70846,16 +72925,26 @@ Job : ^777777Semua Job^000000
 24016#
 Anting yang digunakan untuk meningkatkan INT.
 INT + 1.
-Jika digunakan 1 set selama event,
-Semua Stats + 9.
-^ff0000Efek tambahan akan dihilangkan setelah event selesai.^000000
-Set Bonus
-Shadow Armor
-Shadow Earring
-Shadow Pendant
-Shadow Shield
-Shadow Shoes
-Shadow Weapon
+ 
+MHP +10 Setiap tingkat tempa.
+ 
+^0000ffCombo Bonus 3 Set :^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
+^ff0000STR +1, AGI +1, INT +1^000000
+^ff0000EXP dan DROP +2%^000000
+ 
+^0000ffCombo Bonus 6 Set :^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
+^32CD32[Promo. Shadow Weapon]^000000
+^32CD32[Promo. Shadow Armor]^000000
+^32CD32[Promo. Shadow Shield]^000000
+^ff0000All Stats +2^000000
+^ff0000EXP dan DROP +3%^000000
+ 
 Type : ^777777Shadow Equipment^000000
 Lokasi : ^777777Aksesoris^000000 Berat : ^7777770^000000
 Syarat Level : ^7777771^000000
@@ -70864,16 +72953,26 @@ Job : ^777777Semua Job^000000
 24017#
 Liontin yang digunakan untuk meningkatkan STR.
 STR + 1.
-Jika digunakan 1 set selama event,
-Semua Stats + 9.
-^ff0000Efek tambahan akan dihilangkan setelah event selesai.^000000
-Set Bonus
-Shadow Armor
-Shadow Earring
-Shadow Pendant
-Shadow Shield
-Shadow Shoes
-Shadow Weapon
+ 
+MHP +10 Setiap tingkat tempa.
+ 
+^0000ffCombo Bonus 3 Set :^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
+^ff0000STR +1, AGI +1, INT +1^000000
+^ff0000EXP dan DROP +2%^000000
+ 
+^0000ffCombo Bonus 6 Set :^000000
+^32CD32[Promo. Shadow Shoes]^000000
+^32CD32[Promo. Shadow Earring]^000000
+^32CD32[Promo. Shadow Pendant]^000000
+^32CD32[Promo. Shadow Weapon]^000000
+^32CD32[Promo. Shadow Armor]^000000
+^32CD32[Promo. Shadow Shield]^000000
+^ff0000All Stats +2^000000
+^ff0000EXP dan DROP +3%^000000
+ 
 Type : ^777777Shadow Equipment^000000
 Lokasi : ^777777Aksesoris^000000 Berat : ^7777770^000000
 Syarat Level : ^7777771^000000
@@ -70882,6 +72981,7 @@ Job : ^777777Semua Job^000000
 24018#
 Anting Suci yang bisa melindungi pemakainya. Meningkatkan kemampuan pemakainya.
 Meningkatkan kecepatan serangan sebesar 1%.
+Setiap tingkat tempa, MHP +10
 Jika tingkat tempa mencapai 7, tambahan peningkatan kecepatan serangan sebesar 2%.
 ^32CD32Jika dipakai bersamaan dengan Physical Shadow (Weapon, Earring, Pendant)^000000, meningkatkan ATK sesuai dengan jumlah tingkat tempa dari Set Item.
 Jika total tingkat tempa mencapai 23, ekstra ATK +1%.
@@ -70905,6 +73005,7 @@ Job : ^777777All Job^000000
 Kalung Suci yang bisa melindungi pemakainya. Meningkatkan kemampuan pemakainya.
 HP + 100.
 Jika tingkat tempa mencapai 7, HP + 1%.
+Setiap tingkat tempa, MHP +10
 ^32CD32Jika dipakai bersamaan dengan Physical Shadow (Weapon, Earring, Pendant)^000000, meningkatkan ATK sesuai dengan jumlah tingkat tempa dari Set Item.
 Jika total tingkat tempa mencapai 23, ekstra ATK +1%.
 Jenis : ^777777Shadow Equipment^000000
@@ -70914,36 +73015,72 @@ Job : ^777777All Job^000000
 #
 24021#
 Anting Suci yang bisa melindungi pemakainya. Meningkatkan kemampuan pemakainya.
+ 
+Max HP +10 untuk setiap tingkat tempa.
 Mengurangi variable cast-time sebesar 1%.
 Jika tingkat tempa mencapai 7, tambahan pengurangan variable cast-time sebesar 2%.
-^32CD32Jika dipakai bersamaan dengan Magical Shadow (Weapon, Earring, Pendant)^000000, meningkatkan MATK sesuai dengan jumlah tingkat tempa dari Set Item.
-Jika total tingkat tempa mencapai 23, ekstra MATK +1%.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Magical Shadow Earring]^000000
+^32CD32[Magical Shadow Pendant]^000000
+^32CD32[Magical Shadow Weapon]^000000
+^ff0000Jika digunakan bersamaan, Menambahkan MATK +1 setiap tingkat tempa dari Magical Shadow Earring,Magical Shadow Pendant, dan Magical Shadow Weapon.^000000
+^ff0000Jika jumlah tingkat tempa dari Magical Shadow Earring,Magical Shadow Pendant, dan Magical Shadow Weapon mencapai +23, maka MATK +1%^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Earring^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Aksesoris (Kanan)^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24022#
 Sarung tangan yang dipakai untuk memegang senjata yang meningkatkan kemampuan penggunanya.
+ 
+Setiap tingkat tempa, meningkatkan ATK dan MATK +1.
 MATK + 10.
-Jika tingkat tempa mencapai 7, MATK + 1%.
-^32CD32Jika dipakai bersamaan dengan Magical Shadow (Weapon, Earring, Pendant)^000000, meningkatkan MATK sesuai dengan jumlah tingkat tempa dari Set Item.
-Jika total tingkat tempa mencapai 23, ekstra MATK +1%.
+Jika tingkat tempa mencapai 7 atau lebih, MATK + 1%.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Magical Shadow Earring]^000000
+^32CD32[Magical Shadow Pendant]^000000
+^32CD32[Magical Shadow Weapon]^000000
+^ff0000Jika digunakan bersamaan, Menambahkan MATK +1 setiap tingkat tempa dari Magical Shadow Earring,Magical Shadow Pendant, dan Magical Shadow Weapon.^000000
+^ff0000Jika jumlah tingkat tempa dari Magical Shadow Earring,Magical Shadow Pendant, dan Magical Shadow Weapon mencapai +23, maka MATK +1%^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Weapon^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Shadow Weapon^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24023#
 Kalung Suci yang bisa melindungi pemakainya. Meningkatkan kemampuan pemakainya.
-SP + 50.
-Jika tingkat tempa mencapai 7, MSP + 1%.
-^32CD32Jika dipakai bersamaan dengan Magical Shadow (Weapon, Earring, Pendant)^000000, meningkatkan MATK sesuai dengan jumlah tingkat tempa dari Set Item.
-Jika total tingkat tempa mencapai 23, ekstra MATK +1%.
+ 
+Max SP +50.
+Max HP +10 untuk setiap tingkat tempa.
+Jika tingkat tempa mencapai 7 atau lebih, Max SP + 1%.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Magical Shadow Earring]^000000
+^32CD32[Magical Shadow Pendant]^000000
+^32CD32[Magical Shadow Weapon]^000000
+^ff0000Jika digunakan bersamaan, Menambahkan MATK +1 setiap tingkat tempa dari Magical Shadow Earring,Magical Shadow Pendant, dan Magical Shadow Weapon.^000000
+^ff0000Jika jumlah tingkat tempa dari Magical Shadow Earring,Magical Shadow Pendant, dan Magical Shadow Weapon mencapai +23, maka MATK +1%^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Pendant^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Aksesoris (Kiri)^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24024#
 Efek defensif tambahan bisa didapatkan jika dipakai bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
@@ -71097,25 +73234,46 @@ Job : ^777777Semua Job^000000
 #
 24036#
 Sebuah Pendant yang bisa meningkatkan kemampuan penggunanya.
-INT + 1.
-Jika tingkat tempa mencapai 7, INT + 1.
-Jika tingkat tempa mencapai 9, INT + 1.
-Jika memakai ^32CD32Int (Earring, Pendant) Shadow^000000 bersamaan, INT + 1.
+   
+Max HP +10 untuk setiap tingkat tempa.
+Jika ditempa hingga +7, INT +1
+Jika ditempa hingga +9, INT +1
+   
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Int Shadow Earring]^000000
+^32CD32[Int Shadow Pendant]^000000
+^ff0000INT +1^000000
+---------
+   
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Pendant^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Aksesoris (Kiri)^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24037#
-Efek defensif tambahan bisa didapatkan jika dipakai bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
-DEX + 1.
-Jika tingkat tempa mencapai 7, DEX + 1.
-Jika tingkat tempa mencapai 9, DEX + 1.
-Jika memakai ^32CD32Dexterous (Armor, Weapon) Shadow^000000 bersamaan, DEX + 1.
+Sebuah Armor yang bisa mengeluarkan kemampuan asli penggunanya.
+   
+DEX + 1. 
+Max HP +10 untuk setiap tingkat tempa
+Jika ditempa hingga +7, DEX +1.
+Jika ditempa hingga +9, DEX +1.
+   
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Dexterous Shadow Armor]^000000
+^32CD32[Dexterous Shadow Weapon]^000000
+^ff0000DEX +1^000000
+---------
+   
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Armor^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Shadow Armor^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24038#
 Efek defensif tambahan bisa didapatkan jika dipakai bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
@@ -71131,6 +73289,7 @@ Job : ^777777All Job^000000
 24039#
 Sebuah Shield tambahan yang dapat meningkatkan kemampuan penggunanya.
 AGI + 1.
+Setiap tingkat tempa, MHP +10
 Jika tingkat tempa mencapai 7, AGI + 1.
 Jika tingkat tempa mencapai 9, AGI + 1.
 Jika memakai ^32CD32Athletic (Shoes, Shield) Shadow^000000 bersamaan, AGI + 1.
@@ -71184,24 +73343,47 @@ Lv. Min : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
 24042#
-Sebuah Earring yang bisa meningkatkan kemampuan penggunanya.
-INT + 1.
-Setiap tingkat tempa, MATK + 1.
-Jika memakai ^32CD32Int (Earring, Pendant) Shadow^000000 bersamaan, INT + 1.
+Sebuah Pendant yang bisa meningkatkan kemampuan penggunanya.
+   
+INT + 1
+Max HP +10 untuk setiap tingkat tempa.
+MATK + 1 untuk setiap tingkat tempa.
+   
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Int Shadow Earring]^000000
+^32CD32[Int Shadow Pendant]^000000
+^ff0000INT +1^000000
+---------
+   
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Earring^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Aksesoris (Kiri)^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24043#
 Sarung tangan yang digunakan untuk memegang senjata yang bisa mengeluarkan kemampuan asli penggunanya.
+   
 DEX + 1.
-Setiap tingkat tempa, HIT + 1.
-Jika memakai ^32CD32Dexterous (Armor, Weapon) Shadow^000000 bersamaan, DEX + 1.
+ATK +1 untuk setiap tingkat tempa.
+MATK +1 untuk setiap tingkat tempa.
+HIT +1 untuk setiap tingkat tempa.
+   
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Dexterous Shadow Weapon]^000000
+^32CD32[Dexterous Shadow Armor]^000000
+^ff0000DEX +1^000000
+---------
+   
 Jenis : ^777777Shadow Equipment^000000
-Posisi : ^777777Weapon^000000 Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+Posisi : ^777777Shadow Weapon^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 24044#
 Sebuah Shield tambahan yang dapat meningkatkan kemampuan penggunanya.
@@ -71216,6 +73398,7 @@ Job : ^777777All Job^000000
 24045#
 Efek defensif tambahan bisa didapatkan jika dipakai bersamaan. Bisa juga dipakai satuan, tapi hanya memiliki pertahanan yang kecil.
 AGI + 1.
+Setiap tingkat tempa, MHP +10
 Setiap tingkat tempa, FLEE + 1.
 Jika memakai ^32CD32Athletic (Shoes, Shield) Shadow^000000 bersamaan, AGI + 1.
 Jenis : ^777777Shadow Equipment^000000
@@ -72855,24 +75038,44 @@ Job : ^777777Semua Job^000000
 #
 24212#
 Sepatu tambahan yang bisa digunakan untuk meningkatkan kemampuan penggunanya 
-Per-2 tingkat refine Meningkatkan EXP sebesar 1% dari monster.
-Saat digunakan bersamaan dengan Rookie Shadow Shield. Tambahan EXP sebesar 5%
-Jika total keseluruhan refine mencapai 15 atau lebih akan ada tambahan EXP sebesar 5%.
+ 
+Max HP +10 untuk setiap tingkat tempa.
+Setiap 2 tingkat tempa, Meningkatkan EXP sebesar 1% dari monster.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Rookie Shadow Shield]^000000
+^32CD32[Rookie Shadow Shoes]^000000
+^ff0000Jika digunakan bersamaan, Meningkatkan EXP sebesar 5% dari monster.^000000
+^ff0000Jika jumlah tingkat tempa dari Rookie Shadow Shield dan Rookie Shadow Shoes mencapai 15 atau lebih, Meningkatkan EXP sebesar 5% dari monster.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Lokasi : ^777777Shoes^000000 Berat : ^7777770^000000
-Level Minimum : ^77777750^000000
-Level Maks : ^77777799^000000
+Posisi : ^777777Shadow Shoes^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^77777750^000000
 Job : ^777777Semua Job^000000
 #
 24213#
 Shield tambahan yang dapat digunakan untuk mendapatkan tambahan pertahanan.
-Per-2 tingkat refine Meningkatkan EXP sebesar 1% dari monster.
-Saat digunakan bersamaan dengan Rookie Shadow Shoes. Tambahan EXP sebesar 5%
-Jika total keseluruhan refine mencapai 15 atau lebih akan ada tambahan EXP sebesar 5%.
+ 
+Max HP +10 untuk setiap tingkat tempa.
+Setiap 2 tingkat tempa, Meningkatkan EXP sebesar 1% dari monster.
+ 
+---------
+^0000ff[Set Bonus]^000000
+^32CD32[Rookie Shadow Shield]^000000
+^32CD32[Rookie Shadow Shoes]^000000
+^ff0000Jika digunakan bersamaan, Meningkatkan EXP sebesar 5% dari monster.^000000
+^ff0000Jika jumlah tingkat tempa dari Rookie Shadow Shield dan Rookie Shadow Shoes mencapai 15 atau lebih, Meningkatkan EXP sebesar 5% dari monster.^000000
+---------
+ 
 Jenis : ^777777Shadow Equipment^000000
-Lokasi : ^777777Shield^000000 Berat : ^7777770^000000
-Level Minimum : ^77777750^000000
-Level Maks : ^77777799^000000
+Posisi : ^777777Shadow Shield^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^77777750^000000
 Job : ^777777Semua Job^000000
 #
 24214#
@@ -76906,6 +79109,15 @@ Posisi : ^777777Earring ^000000Berat : ^7777770^000000
 Lv Minimal : ^77777799^000000
 Job: ^777777Guillotine Cross^000000
 #
+24548#
+
+#
+24549#
+
+#
+24550#
+
+#
 24551#
 Shadow Weapon yang memiliki kekuatan spesial..
 Meningkatkan serangan magic elemen tanah sebesar 5%.
@@ -79670,6 +81882,9 @@ Peluru ini sangat mahal dan berat, entah terbuat dari bahan apa.
 Akan otomatis dikonsumsi setelah menggunakan skill 'Slug Shot'.
 Berat : ^777777120^000000
 #
+25199#
+
+#
 25205#
 Memberikan Enchant Shrink Effect pada slot ke 4 Costume.
 ^ff0000Shrink^000000
@@ -81237,6 +83452,9 @@ Benda dari teknologi yang aneh, ini adalah Core untuk semua alat.
 Berat : ^7777771^000000
 #
 25724#
+
+#
+25725#
 
 #
 25734#
@@ -85398,6 +87616,18 @@ Weapon Lv: ^7777774^000000
 Syarat Lv: ^777777100^000000
 Job: ^777777Rebellion^000000
 #
+28302#
+
+#
+28303#
+
+#
+28304#
+
+#
+28305#
+
+#
 28310#
 Sarah's Left Earring. Sepertinya aku bisa menggunakan kekuatan Sarah saat aku memakainya.
 Heal Lv 1 tersedia
@@ -85681,6 +87911,12 @@ Berat : ^77777720^000000
 Untuk Profesi : ^777777Semua profesi^000000
 #
 28395#
+
+#
+28408#
+
+#
+28409#
 
 #
 28410#
@@ -86306,6 +88542,9 @@ Berat : ^7777770^000000
 Required Level : ^7777771^000000
 Job : ^777777All Jobs^000000
 #
+28513#
+
+#
 28520#
 Egir Ring
 Egir, Cincin dari Dewa Lautan.
@@ -86477,10 +88716,50 @@ Required Lv. : ^777777100^000000
 Equip : ^777777All class^000000
 #
 28592#
+Anting yang diberkati oleh Angeling, dimana sangat menarik perhatian yang melihatnya.
 
+^ff0000MHP +3%, MSP +3%^000000
+
+^0000ff[Combo Bonus 2 Set]^000000
+^32CD32Angeling Poring Ring^000000
+^32CD32Angeling Poring Earring^000000
+^ff0000ATK +20, MATK +20^000000
+
+^0000ff[Combo Bonus 3 Set]^000000
+^32CD32Angeling Poring Wing^000000
+^32CD32Angeling Poring Ring^000000
+^32CD32Angeling Poring Earring^000000
+^ff0000MHP +5%, MSP +5%^000000
+
+Jenis : ^777777Equipment^000000
+Posisi : ^777777Aksesoris^000000
+Def : ^7777770^000000
+Berat : ^7777775^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 28593#
+Cincin yang kabarnya diberkati oleh Angeling. Hanya dengan melihat dapat membuatkamu ingin menggunakannya.
 
+^ff0000All Stats +1^000000
+
+^0000ff[Combo Bonus 2 Set]^000000
+^32CD32Angeling Poring Ring^000000
+^32CD32Angeling Poring Earring^000000
+^ff0000ATK +20, MATK +20^000000
+ 
+^0000ff[Combo Bonus 3 Set]^000000
+^32CD32Angeling Poring Wing^000000
+^32CD32Angeling Poring Ring^000000
+^32CD32Angeling Poring Earring^000000
+^ff0000MHP +5%, MSP +5%^000000
+ 
+Jenis : ^777777Equipment^000000
+Posisi : ^777777Aksesoris^000000
+Def : ^7777770^000000
+Berat : ^7777775^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 28596#
 Cincin Mainan yang sangat aneh.
@@ -87504,6 +89783,15 @@ Berat: ^777777160^000000
 Syarat Lv: ^777777120^000000
 Job: ^777777Royal Guard^000000
 #
+28923#
+
+#
+28924#
+
+#
+28925#
+
+#
 28929#
 Sebuah tameng yang membuat penggunanya merasa sangat senang.
 Mdef +10.
@@ -87640,6 +89928,9 @@ Jenis : ^777777Shield^000000 Def : ^7777770^000000
 Berat : ^77777780^000000
 Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
+#
+28948#
+
 #
 28951#
 Perisai dengan kekuatan Dewa Air!
@@ -90342,7 +92633,14 @@ Job : ^777777All Job^000000
 
 #
 31297#
-
+Ikat rambut berwarna merah yang menunjukan rasa kasih sayang.
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 31298#
 
@@ -91524,13 +93822,30 @@ Job: ^777777Semua Job^000000
 
 #
 31452#
-Kucing Putih imut yang menemani kamu 
+Kucing Putih imut yang menemani kamu.
+ 
+^ff0000All Stat +1^000000
+^ff0000EXP +1%^000000
+^ff0000Drop +1%^000000
+  
+^0000ff[Combo Bonus]^000000
+^0000ff[Costume Soul of Neko]^000000
+^0000ff[Costume Streamer Headset]^000000
+ 
+^ff0000All Stat +2^000000
+^ff0000EXP +2%^000000
+^ff0000Drop +2%^000000
+^ff0000Regen HP 10%^000000
+^ff0000Regen SP 10%^000000
+^ff0000ATK +10 , MATK +10^000000
+^ff0000Durasi Efek :^000000
+^ff0000(20 Februari 2025 - 20 Maret 2025)^000000
  
 Jenis : ^777777Costume^000000
 Def : ^7777770^000000
 Posisi: ^777777Middle^000000
 Berat : ^7777770^000000
-Syarat Lv  : ^7777771^000000
+Lv Min. : ^7777771^000000
 Job : ^777777All Job^000000
 #
 31453#
@@ -91538,12 +93853,15 @@ Job : ^777777All Job^000000
 #
 31454#
 Hatiku berdebar penuh dengan cinta.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box 11.^000000
-Jenis : ^777777Costume^000000 Defense : ^7777770^000000
-Posisi : ^777777Lower ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+ 
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Lower^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 31456#
 Topi boneka untuk memperingati mamalia yang terancam punah, Baby Leopard.
@@ -91618,18 +93936,16 @@ Job : ^777777All Job^000000
 
 #
 31472#
-Hiasan rambut yang biasa dipakai peri peri hutan.
-------------------------
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box 16.^000000
-------------------------
-^ff0000^000000
+Sebuah hiasan rambut kecil yang berbentuk seperti sayap.
+ 
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+  
 Jenis : ^777777Costume^000000
-Def : ^7777770^000000
 Posisi : ^777777Middle^000000
+Def : ^7777770^000000
 Berat : ^7777770^000000
-Lv minimal : ^7777771^000000
-Job: ^777777Semua Job^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 31473#
 
@@ -91677,12 +93993,15 @@ Job : ^777777All Job^000000
 #
 31483#
 Hiasan kostum dengan pita kecil yang menempel di telinga berbulu dengan bentuk misterius yang membuat sulit untuk menilai apakah itu anjing atau kucing.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box 11.^000000
-Jenis : ^777777Costume^000000 Defense : ^7777770^000000
-Posisi : ^777777Middle ^000000Berat : ^7777770^000000
-Lv Minimal : ^7777771^000000
-Job : ^777777All Job^000000
+ 
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+  
+Jenis : ^777777Costume^000000
+Posisi : ^777777Middle^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 31488#
 Costume yang menandakan kamu adalah yang terhebat diantara Player lain.
@@ -92186,6 +94505,9 @@ Berat : ^7777770^000000
 Lv minimal : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
+31592#
+
+#
 31596#
 Topi yang dihiasai kupu-kupu dan bunga mawar. Sebuah Tarantula juga tersembunyi dibelakangnya.
 Topi ini dipakai oleh Spider Lady ketika berburu mangsa.
@@ -92373,17 +94695,15 @@ Job : ^777777All Job^000000
 31624#
 Meaoww~~
 Ayo berkumpul para pencinta kucing~~
-------------------------
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box 15.^000000
-------------------------
-^ff0000^000000
+ 
+^ff0000Dapat ditukarkan dengan Costume Enchant Stone Box.^000000
+ 
 Jenis : ^777777Costume^000000
-Def : ^7777770^000000
 Posisi : ^777777Upper^000000
+Def : ^7777770^000000
 Berat : ^7777770^000000
-Lv minimal : ^7777771^000000
-Job: ^777777Semua Job^000000
+Lv Min. : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 31625#
 Sebuah syal besar untuk melindungi leher sampai bahu dengan perisai yang sangat bagus.
@@ -92706,6 +95026,21 @@ Berat : ^7777770^000000
 Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
+31703#
+^000088Costume ini menunjukkan bahwa kamu sedang jatuh cinta! Kamu akan merasa lebih kuat karena kekuatan cinta~!^000000
+ 
+^ff0000(6 Februari 2025 - 6 Maret 2025)^000000
+^ff0000EXP +3%^000000
+^ff0000Drop +3%^000000
+^ff0000All Stats +1^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
+#
 31707#
 Wig dari Nine Tail langka yang anggun.
 Warna putihnya melambangkan jiwa Nine tail Suci.
@@ -92713,6 +95048,16 @@ Jenis : ^777777Costume^000000 Def : ^7777770^000000
 Posisi : ^777777Upper ^000000Berat : ^7777770^000000
 Syarat Lv : ^7777771^000000
 Job : ^777777Semua Job^000000
+#
+31715#
+Kelinci berwarna orange yang sangat menggemaskan.
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Garment^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 31716#
 Lensa mata berwarna merah.
@@ -93077,12 +95422,13 @@ Job : ^777777Semua Job^000000
 31832#
 Sebuah topi tuxedo dengan motif kuping kucing diatasnya.
 Lengkap dengan bunga mawar, pita dan bahan berbulu lainnya.
-^ffffff<NAVI>^4D4DFF[Designer Heidam]^000000<INFO>mal_in01,20,124,0,100,0,0</INFO></NAVI>^000000
-^b4b4b4Dapat ditukar dengan Costume Enchant Stone Box6.^000000
-Jenis: ^777777Costume^000000 Defense: ^7777770^000000
-Posisi: ^777777Upper ^000000 Berat: ^7777770^000000
-Syarat Level: ^7777771^000000
-Job: ^777777All Job^000000
+ 
+Jenis : ^777777Costume^000000
+Posisi : ^777777Upper^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777770^000000
+Job : ^777777Semua Job^000000
 #
 31833#
 Kostum rambut pendek yang kamu bisa gunakan untuk tampil berbeda.
@@ -93130,6 +95476,33 @@ Posisi : ^777777Upper^000000
 Berat : ^7777770^000000
 Lv minimal : ^7777771^000000
 Job : ^777777Semua Job^000000
+#
+31840#
+Headset yang memiliki design yang bagus, sering digunakan oleh para streamer.
+ 
+^ff0000All Stat +1^000000
+^ff0000EXP +1%^000000
+^ff0000Drop +1%^000000
+  
+^0000ff[Combo Bonus]^000000
+^0000ff[Costume Soul of Neko]^000000
+^0000ff[Costume White Cat]^000000
+ 
+^ff0000All Stat +2^000000
+^ff0000EXP +2%^000000
+^ff0000Drop +2%^000000
+^ff0000Regen HP 10%^000000
+^ff0000Regen SP 10%^000000
+^ff0000ATK +10 , MATK +10^000000
+^ff0000Durasi Efek :^000000
+^ff0000(20 Februari 2025 - 20 Maret 2025)^000000
+ 
+Jenis : ^777777Costume^000000
+Def : ^7777770^000000
+Posisi: ^777777Upper^000000
+Berat : ^7777770^000000
+Lv Min. : ^7777771^000000
+Job : ^777777All Job^000000
 #
 31842#
 Sebuah topi yang dipakai oleh kesatria pemberani. 
@@ -96989,7 +99362,11 @@ Berat : ^7777771^000000
 
 #
 100568#
-
+Sebuah Box yang berisi :
+[Event] Small Life Potion x20
+[Event] Small Mana Potion x8
+ 
+Berat : ^7777771^000000
 #
 100572#
 ^FF0000Syarat & Ketentuan:^000000
@@ -97969,10 +100346,21 @@ Berat : 1
 101316#
 
 #
-101324#
+101322#
 
 #
+101324#
+Sebuah permen yang berisi item-item eksklusif Valentine's Day 2025
+ 
+Berat: 1
+#
 101335#
+
+#
+101336#
+
+#
+101337#
 
 #
 101372#
@@ -98205,6 +100593,15 @@ Box untuk upgrade Illusion Armor ke +11
 ^4D4DFFIllusion Fancy Flower^000000
 Berat : ^7777771^000000
 #
+101512#
+
+#
+101513#
+
+#
+101514#
+
+#
 101519#
 
 #
@@ -98242,6 +100639,9 @@ Berat : ^7777771^000000
 
 #
 101773#
+
+#
+101792#
 
 #
 101794#
@@ -98380,6 +100780,12 @@ Berat : ^7777771^000000
 
 #
 102115#
+
+#
+102120#
+
+#
+102121#
 
 #
 102133#
@@ -98704,6 +101110,30 @@ Berat : ^7777771^000000
 #
 103996#
 Sebuah Scroll yang melambangkan api semangat perayaan tahun baru Imlek.
+Berisi berbagai macam equipment menarik.
+ 
+Berat : ^7777771^000000
+#
+104045#
+Sebuah Scroll yang bentuknya menyerupai coklat hadiah Valentine.
+Berisi berbagai macam equipment menarik.
+ 
+Berat : ^7777771^000000
+#
+104060#
+Scroll yang menunjukan sebuah kasih sayang.
+Costume ini akan memberikan kehangatan untuk kamu.
+ 
+Berat : ^7777771^000000
+#
+104066#
+Sebuah scroll dengan kekuatan sihir yang kuat.
+Kekuatan sihir ini dapat memberikan energi bagi yang membukanya.
+ 
+Berat : ^7777771^000000
+#
+104173#
+Sebuah Scroll yang terbuat dari sayap malaikat yang melambangkan kehangatan dan kebahagian.
 Berisi berbagai macam equipment menarik.
  
 Berat : ^7777771^000000
@@ -99061,6 +101491,9 @@ Posisi: ^777777Weapon^000000
 Berat: ^7777771^000000
 #
 300157#
+
+#
+300207#
 
 #
 300209#
@@ -100787,13 +103220,13 @@ Job: ^777777Semua Job^000000
 #
 400204#
 Topi dengan mengikuti gaya si Kucing Merah.
-------------------------
+ 
 Jenis : ^777777Costume^000000
-Def : ^7777770^000000
 Posisi : ^777777Upper^000000
-Berat : ^7777771^000000
-Lv Min. : ^7777771^000000
-Job: ^777777Semua Job^000000
+Def : ^7777770^000000
+Berat : ^7777770^000000
+Lv. Min : ^7777770^000000
+Job : ^777777Semua Job^000000
 #
 400213#
 Topi milik pemuja Tree of Live Yggdrasil
@@ -100922,7 +103355,22 @@ Syarat Lv : ^7777771^000000
 Job : ^777777All Job^000000
 #
 400255#
-
+^ff0000Tidak dapat digunakan pada WoE^000000
+Daun yang digunakan untuk menjadi Smokie.
+ 
+Setiap tingkat tempa, menambahkan Magic Damage semua properti sebesar 1%.
+---------
+Ketika melakukan serangan fisik, Memungkinkan untuk berubah menjadi Smokie 5 Detik.
+Jika menggunakan serangan fisik jarak dekat, berkemungkinan mengeluarkan Skill Bolt Lv 5.
+Jika +7, ketika menggunakan serangan fisik jarak dekat, berkemungkinan mengeluarkan skill Frost Nova Lv 5.
+Jika +8, ketika menggunakan serangan fisik jarak dekat, berkemungkinan mengeluarkan skill Thunder Storm Lv 5.
+---------
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Upper^000000
+Def : ^7777779^000000
+Berat : ^77777720^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
 #
 400258#
 ^FF0000[Efek Permanen]^000000
@@ -102057,6 +104505,9 @@ Posisi: ^777777Middle ^000000 Berat: ^7777770^000000
 Syarat Lv: ^7777771^000000
 Job: ^777777All Job^000000
 #
+410011#
+
+#
 410012#
 
 #
@@ -102657,6 +105108,9 @@ Berat : ^7777770^000000
 Lv minimal : ^7777771^000000
 Job : ^777777Semua Job^000000
 #
+410136#
+
+#
 410140#
 Fisikal damage terhadap semua size musuh +10%,
 Resistance terhadap player +5%.
@@ -102938,7 +105392,29 @@ Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
 410180#
-
+Hiasan telinga yang melambangkan kelahiran kembali.
+Memiliki kemampuan untuk mengubah efeknya tergantung Job penggunanya.
+ 
+^0000ff[Untuk Job: Swordsman, Merchant, Thief, Taekwon & Star Gladiator]^000000
+^ff0000ASPD +1^000000
+ 
+^0000FF[Untuk Job: Magician, Acolyte, Ninja & Soul Linker]^000000
+^FF0000MATK +5^000000
+^ff0000Meningkatkan efek Heal sebesar 2%^000000
+ 
+^0000ff[Untuk Job: Archer & Gunslinger]^000000
+^ff0000Serangan jarak jauh +2%^000000
+ 
+^0000ff[Untuk Job: Novice]^000000
+^ff0000Max HP +120^000000
+^ff0000Max SP +60^000000
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Middle^000000
+Def : ^7777772^000000
+Berat : ^77777710^000000
+Lv. Min : ^7777771^000000
+Job : ^777777Semua Job^000000
 #
 410181#
 
@@ -103954,21 +106430,20 @@ Syarat Lv: ^77777770^000000
 Job: ^777777All job^000000
 #
 420003#
-Dengan menggigit Disk ini, kamu akan merasa seperti Robot yang memindai informasi. 
-------------------------
+Dengan menggigit Disk ini, kamu akan merasa seperti Robot yang memindai informasi.
+ 
 Menambah Magic Damage semua properti sebesar 5%.
-------------------------
-Tiap melakukan serangan fisik jarak dekat, Chance autocast Lv. 10 Soul Strike.
-------------------------
-Saat dikenakan bersama dengan Old Parasol, MATK + 50,
-dan chance autocast Gravitational Field Lv.3 tiap melakukan serangan fisik jarak dekat.
-------------------------
-Jenis: ^777777Headgear^000000
-Def: ^7777770^000000
-Posisi: ^777777Lower^000000
-Berat: ^77777720^000000
-Syarat Lv: ^77777710^000000
-Job: ^777777All Job^000000
+Setiap melakukan serangan fisik jarak dekat, Berkemungkinan autocast Lv. 10 Soul Strike.
+ 
+Jenis : ^777777Headgear^000000
+Posisi : ^777777Lower^000000
+Def : ^7777770^000000
+Berat : ^77777720^000000
+Lv Min. : ^7777771^000000
+Job: ^777777Semua Job^000000
+#
+420005#
+
 #
 420010#
 Saat kamu memakainya, energi kegelapan akan mengelilingi tubuhmu.
@@ -105022,6 +107497,9 @@ Berat: ^77777730^000000
 Syarat Lv: ^7777771^000000
 Job: ^777777Semua Job^000000
 #
+420130#
+
+#
 420133#
 Rambut putih bercahaya dengan hiasan bunga rose besar.
 "Akan memancarkan aura terang saat kamu berjalan"
@@ -105085,6 +107563,9 @@ Posisi : ^777777Lower^000000
 Berat : ^7777770^000000
 Lv minimal : ^7777771^000000
 Job : ^777777Semua Job^000000
+#
+420141#
+
 #
 420148#
 
@@ -112127,6 +114608,9 @@ Berat : ^77777750^000000
 Syarat Lv : ^77777790^000000
 Job : ^777777Semua Job^000000
 #
+470123#
+
+#
 470128#
 MaxHP +10%,
 MaxSP +10%.
@@ -112344,6 +114828,9 @@ Job : ^777777Semua Job^000000
 
 #
 470186#
+
+#
+470193#
 
 #
 470227#
@@ -113585,6 +116072,9 @@ Berat: ^77777710^000000
 Syarat Lv: ^777777100^000000
 Job: ^777777All job^000000
 #
+480076#
+
+#
 480077#
 Mengurangi damage yang diterima Boss Monster sebesar 5%.
 ------------------------
@@ -113714,6 +116204,9 @@ Def: ^77777725^000000
 Berat: ^77777730^000000
 Syarat Lv: ^777777100^000000
 Job: ^777777All job^000000
+#
+480092#
+
 #
 480093#
 Tongkat emas yang melambangkan kekuasaan.
@@ -114215,6 +116708,12 @@ Berat : ^7777770^000000
 Lv minimal : ^7777771^000000
 Job: ^777777Semua Job^000000
 #
+480161#
+
+#
+480166#
+
+#
 480167#
 Stick permen berbentuk hati,
 dengan lelehan coklat diatasnya
@@ -114262,6 +116761,9 @@ Posisi : ^777777Garment^000000
 Berat : ^7777770^000000
 Lv minimal : ^7777771^000000
 Job: ^777777Semua Job^000000
+#
+480172#
+
 #
 480176#
 Gunting sihir khusus untuk membuka gerbang multiverse.
@@ -115814,6 +118316,9 @@ Def : ^7777770^000000
 Berat : ^7777770^000000
 Lv Min. : ^7777771^000000
 Job: ^777777Semua Job^000000
+#
+480408#
+
 #
 480411#
 ^FF0000[Efek Permanen]^000000
@@ -120313,6 +122818,66 @@ Weapon Lv: ^7777774^000000
 Syarat Lv: ^777777150^000000
 Job: ^777777Rebellion^000000
 #
+900001#
+
+#
+900002#
+
+#
+900003#
+
+#
+900004#
+
+#
+900005#
+
+#
+900006#
+
+#
+900007#
+
+#
+900008#
+
+#
+900009#
+
+#
+900010#
+
+#
+900011#
+
+#
+900012#
+
+#
+900013#
+
+#
+900014#
+
+#
+900015#
+
+#
+900016#
+
+#
+900017#
+
+#
+900018#
+
+#
+900019#
+
+#
+900020#
+
+#
 1000000#
 When you try to make an arrow, you create 10 arrows.
 Berat : ^7777771^000000
@@ -120561,6 +123126,12 @@ Berat : ^7777770^000000
 
 #
 1000619#
+
+#
+1000891#
+
+#
+1000895#
 
 #
 1000896#
